@@ -6,7 +6,7 @@ Enjoy! :)
 
 # LOGS FORMAT
 
-`(UserDomainName) \ (UserName)
+``(UserDomainName) \ (UserName)
 
 [SystemState]
 TickCount=(TickCount) ms
@@ -49,4 +49,4 @@ DESKTOP FILES:
 
 
 PROCESSES:
-(ProcList)`
+(ProcList)``
