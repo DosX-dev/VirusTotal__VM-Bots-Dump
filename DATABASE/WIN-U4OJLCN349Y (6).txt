@@ -2,12 +2,12 @@
 WIN-U4OJLCN349Y \ rHW9sDfH
 
 [SystemState]
-TickCount=1569500 ms
+TickCount=1568796 ms
 SystemPageSize=4096
 
 [CurProcState]
-CurrentDirectory=C:\Users\rHW9sDfH\Downloads\mvmoomrklx.exe
-CommandLine="C:\Users\rHW9sDfH\Downloads\mvmoomrklx.exe"
+CurrentDirectory=C:\Users\rHW9sDfH\Downloads\uplysttvttoumm.exe
+CommandLine="C:\Users\rHW9sDfH\Downloads\uplysttvttoumm.exe"
 
 
 
@@ -516,19 +516,23 @@ PROCESSES:
 [x32] opera    [1772]
 PATH=C:\Program Files (x86)\Opera\opera.exe
 
-[x32] chrome    [1912]
-PATH=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[x64] chrome    [1180]
 
-[x64] steamwebhelper    [1364]
+[x32] opera    [1912]
+PATH=C:\Program Files (x86)\Opera\opera.exe
+
+[x64] explorer    [1428]
 
 [x64] csrss    [376]
 
 [x64] svchost    [572]
 
+[x64] steamwebhelper    [3036]
+
 [x64] wininit    [368]
 
-[x32] iexplore    [168]
-PATH=C:\Program Files (x86)\InternetExplorer\iexplore.exe
+[x32] bitcoin-qt    [1548]
+PATH=C:\Program Files (x86)\Bitcoin\bitcoin-qt.exe
 
 [x32] chrome    [1940]
 PATH=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
@@ -536,12 +540,12 @@ PATH=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 [x32] firefox    [2396]
 PATH=C:\Program Files (x86)\Mozilla Firefox 3.6\firefox.exe
 
+[x64] steamwebhelper    [1284]
+
 [x32] iexplore    [1540]
 PATH=C:\Program Files (x86)\InternetExplorer\iexplore.exe
 
-[x64] chrome    [948]
-
-[x64] WmiPrvSE    [944]
+[x64] WmiPrvSE    [2916]
 
 [x64] svchost    [480]
 
@@ -550,40 +554,32 @@ PATH=C:\Program Files (x86)\InternetExplorer\iexplore.exe
 [x32] opera    [2908]
 PATH=C:\Program Files (x86)\Opera\opera.exe
 
-[x64] chrome    [936]
+[x64] steamwebhelper    [1328]
 
-[x64] steam    [1132]
+[x32] firefox    [1720]
+PATH=C:\Program Files (x86)\Mozilla Firefox 3.6\firefox.exe
 
-[x32] opera    [1720]
-PATH=C:\Program Files (x86)\Opera\opera.exe
-
-[x32] vzpdrj    [244]
-PATH=C:\windows\vzpdrj.exe
+[x32] bitcoind    [2900]
+PATH=C:\Program Files (x86)\Bitcoin\bitcoind.exe
 
 [x64] lsass    [476]
-
-[x64] steamwebhelper    [2232]
-
-[x64] chrome    [2296]
-
-[x64] steamwebhelper    [2688]
-
-[x32] communicator    [520]
-PATH=C:\Program Files (x86)\Microsoft Lync\communicator.exe
-
-[x32] iexplore    [1944]
-PATH=C:\Program Files (x86)\InternetExplorer\iexplore.exe
 
 [x32] firefox    [2876]
 PATH=C:\Program Files (x86)\Mozilla Firefox 3.6\firefox.exe
 
-[x32] bitcoin-qt    [2480]
-PATH=C:\Program Files (x86)\Bitcoin\bitcoin-qt.exe
+[x64] chrome    [920]
 
-[x32] chrome    [2084]
+[x64] chrome    [2232]
+
+[x32] chrome    [2632]
 PATH=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 
-[x64] chrome    [2824]
+[x64] csrss    [320]
+
+[x64] dwm    [1300]
+
+[x32] Skype    [2084]
+PATH=C:\Program Files (x86)\Skype\Phone\Skype.exe
 
 [x64] taskhost    [3020]
 
@@ -591,122 +587,125 @@ PATH=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 
 [x64] spoolsv    [1056]
 
-[x64] csrss    [320]
+[x64] chrome    [2088]
 
 [x64] svchost    [1872]
 
 [x64] svchost    [2856]
 
-[x64] chrome    [1692]
-
 [x32] chrome    [2456]
 PATH=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
-
-[x64] steamwebhelper    [852]
 
 [x64] lsm    [484]
 
 [x32] chrome    [2844]
 PATH=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 
-[x32] firefox    [1264]
-PATH=C:\Program Files (x86)\Mozilla Firefox 3.6\firefox.exe
+[x32] chrome    [872]
+PATH=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+
+[x32] iexplore    [1264]
+PATH=C:\Program Files (x86)\InternetExplorer\iexplore.exe
+
+[x64] chrome    [672]
 
 [x32] iexplore    [1260]
 PATH=C:\Program Files (x86)\InternetExplorer\iexplore.exe
 
-[x32] chrome    [1000]
-PATH=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[x64] steamwebhelper    [3032]
 
-[x32] bitcoind    [2832]
-PATH=C:\Program Files (x86)\Bitcoin\bitcoind.exe
+[x32] opera    [1000]
+PATH=C:\Program Files (x86)\Opera\opera.exe
+
+[x64] chrome    [656]
 
 [x64] svchost    [664]
 
 [x64] splwow64    [2716]
 
-[x64] chrome    [2764]
+[x64] steamwebhelper    [1252]
+
+[x64] steamwebhelper    [2628]
 
 [x64] services    [460]
 
 [x64] WUDFHost    [1444]
 
-[x32] firefox    [2616]
-PATH=C:\Program Files (x86)\Mozilla Firefox 3.6\firefox.exe
+[x64] SteamService    [2228]
 
-[x32] Skype    [2664]
-PATH=C:\Program Files (x86)\Skype\Phone\Skype.exe
-
-[x64] dwm    [1300]
-
-[x32] iexplore    [1040]
+[x32] iexplore    [2616]
 PATH=C:\Program Files (x86)\InternetExplorer\iexplore.exe
 
-[x32] opera    [2368]
-PATH=C:\Program Files (x86)\Opera\opera.exe
+[x32] firefox    [2368]
+PATH=C:\Program Files (x86)\Mozilla Firefox 3.6\firefox.exe
+
+[x32] uplysttvttoumm    [3204]
+PATH=C:\Users\rHW9sDfH\Downloads\uplysttvttoumm.exe
 
 [x32] SOUNDMAN    [2020]
 PATH=C:\Windows\SOUNDMAN.EXE
 
-[x32] firefox    [3004]
-PATH=C:\Program Files (x86)\Mozilla Firefox 3.6\firefox.exe
+[x32] iexplore    [3004]
+PATH=C:\Program Files (x86)\InternetExplorer\iexplore.exe
 
 [x64] svchost    [836]
 
-[x32] iexplore    [1032]
-PATH=C:\Program Files (x86)\InternetExplorer\iexplore.exe
+[x64] steamwebhelper    [2072]
 
-[x32] opera    [3000]
-PATH=C:\Program Files (x86)\Opera\opera.exe
+[x32] firefox    [3000]
+PATH=C:\Program Files (x86)\Mozilla Firefox 3.6\firefox.exe
 
-[x32] chrome    [2120]
+[x32] Skype    [2120]
+PATH=C:\Program Files (x86)\Skype\Phone\Skype.exe
+
+[x64] chrome    [2404]
+
+[x32] chrome    [2600]
 PATH=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 
-[x32] mvmoomrklx    [2512]
-PATH=C:\Users\rHW9sDfH\Downloads\mvmoomrklx.exe
+[x32] chrome    [2796]
+PATH=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 
-[x32] opera    [1416]
-PATH=C:\Program Files (x86)\Opera\opera.exe
+[x32] firefox    [1416]
+PATH=C:\Program Files (x86)\Mozilla Firefox 3.6\firefox.exe
 
-[x32] Skype    [824]
-PATH=C:\Program Files (x86)\Skype\Phone\Skype.exe
+[x32] vzpdrj    [3188]
+PATH=C:\windows\vzpdrj.exe
 
 [x64] smss    [232]
 
-[x32] Skype    [1216]
-PATH=C:\Program Files (x86)\Skype\Phone\Skype.exe
+[x32] communicator    [1216]
+PATH=C:\Program Files (x86)\Microsoft Lync\communicator.exe
 
 [x64] OSPPSVC    [820]
 
-[x64] chrome    [2608]
-
-[x64] SteamService    [2068]
+[x64] chrome    [2068]
 
 [x64] chrome    [1012]
 
-[x64] explorer    [1428]
+[x64] chrome    [2388]
+
+[x32] chrome    [612]
+PATH=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+
+[x64] steam    [2556]
 
 [x32] Skype    [1792]
 PATH=C:\Program Files (x86)\Skype\Phone\Skype.exe
 
 [x64] taskhost    [1200]
 
-[x32] chrome    [1788]
-PATH=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[x32] Skype    [1788]
+PATH=C:\Program Files (x86)\Skype\Phone\Skype.exe
 
 [x64] winlogon    [408]
 
-[x32] iexplore    [2968]
-PATH=C:\Program Files (x86)\InternetExplorer\iexplore.exe
-
 [x64] svchost    [800]
-
-[x64] steamwebhelper    [996]
 
 [x64] wmpnetwk    [1188]
 
-[x32] firefox    [2172]
-PATH=C:\Program Files (x86)\Mozilla Firefox 3.6\firefox.exe
+[x32] iexplore    [2172]
+PATH=C:\Program Files (x86)\InternetExplorer\iexplore.exe
 
 [x64] System    [4]
 
