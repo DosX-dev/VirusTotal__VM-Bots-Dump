@@ -1,0 +1,189 @@
+
+DESKTOP-17T4B1O \ dx
+
+[SystemState]
+TickCount=299250 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\John\Downloads\ScanProcesses.exe
+CommandLine="C:\Users\John\Downloads\ScanProcesses.exe" 
+
+
+
+RUN LIST:
+
+
+
+
+STARTUP LIST:
+[Run]
+meterpreter=powershell -Command "Start-Process 'C:\Program Files\Meterpreter\metsvc.exe' -Verb runAs"
+
+[RunOnce]
+
+
+
+
+DISKS:
+C:\
+
+
+
+
+TEMP FILES:
+C:\Users\John\AppData\Local\Temp\AdobeARM.log
+C:\Users\John\AppData\Local\Temp\ArmUI.ini
+C:\Users\John\AppData\Local\Temp\chrome_installer.log
+C:\Users\John\AppData\Local\Temp\dd_ndp48-x86-x64-allos-enu_decompression_log.txt
+C:\Users\John\AppData\Local\Temp\dd_SetupUtility.txt
+C:\Users\John\AppData\Local\Temp\Microsoft .NET Framework 4.8 Setup_20220426_190925706.html
+C:\Users\John\AppData\Local\Temp\sa.00D57B0F-01FA-B79F-08D6-878ED20C4C9B_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.0116DC02-781B-D1D1-FC1C-C80195511E17_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.0862A72D-A96C-83E5-AD0F-78B6AA06F9C6_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.0C8CF327-9D17-CCDE-18AF-DFF4F20070E5_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.18DDC675-D472-0DB4-9563-7DF7C34F512C_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.1FE89C0B-9BED-CC5D-7426-9E4025D6BDD9_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.3BFD26C9-8DA9-B940-F638-55890012AAB4_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.50611331-FE19-D366-B049-694B8AC9D758_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.557EA3BB-623E-ADD9-4DFB-629A8648A038_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.558F5D32-0827-EB7B-6AD6-D5DB4138B3AA_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.62B49C0A-499E-A02D-EBCB-EB168E148E52_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.664AA17A-2D25-0823-3315-3708FE16147A_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.674C4C14-7BAA-F782-E214-956DC3BEDF39_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.68BC3251-2D8B-A604-92BA-893638CA72EA_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.68E019EB-0B92-5E08-5D86-9BFE6DBA8517_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.69F3BCAB-8975-C526-30F5-39FA70C77AD9_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.6D151227-6BD9-726D-B30E-A8A018DCC82B_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.6EA6FC2E-9305-586B-3411-02826D151533_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.97612282-D1E8-1D6A-9E92-C271E7F177EF_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.9D4DED89-CABC-F4FB-8133-BC5EDB1C7EDA_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.A90B8400-D36D-8235-8BF2-A21A53D3FB65_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.DFBE09D0-1F22-A9C0-2D3D-3F4C6351E58F_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.E336BB8F-16ED-7CBE-AFEE-971DD3041585_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.E6658C19-4221-2EBE-763A-F0493FBA2BB0_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.E6D3B497-80AF-7F14-F9E6-9606EE369FC3_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\sa.FACF9DDE-1FF1-B57D-4D1D-CE479FDD42AF_5__.Public.AppUpdate.dat
+C:\Users\John\AppData\Local\Temp\SetupExe(20220429211308D0C).log
+C:\Users\John\AppData\Local\Temp\wmsetup.log
+C:\Users\John\AppData\Local\Temp\{055AA889-AA42-442D-BF67-B6D8DDE70677} - OProcSessId.dat
+C:\Users\John\AppData\Local\Temp\{2EEC5B6C-83AA-4180-9260-6B44D2B2F9AE} - OProcSessId.dat
+C:\Users\John\AppData\Local\Temp\{4685236D-16FD-4E46-9DCD-902376CBEA60} - OProcSessId.dat
+C:\Users\John\AppData\Local\Temp\{86B76793-9C7F-4DB3-BA58-C304CFE02270} - OProcSessId.dat
+C:\Users\John\AppData\Local\Temp\{A818C0E8-0DFA-4F8A-ABA7-039ECC1027F9} - OProcSessId.dat
+C:\Users\John\AppData\Local\Temp\{B6F55EA2-1564-44F2-83ED-EB3F988770E5} - OProcSessId.dat
+
+
+
+RECENT FILES:
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\microsoft-edgehttps--ntp.msn.com-edge-ntpform=MY01ON&OCID=MY01ON&ocid=iehp.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\Programs and Features.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\Programs.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\See which processes start up automatically when you start Windows.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\System and Security.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\System.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\The Internet.lnk
+
+
+
+DESKTOP FILES:
+C:\Users\John\Desktop\desktop.ini
+
+
+
+PROCESSES:
+[x64] explorer    [2240]
+
+[x64] python    [1428]
+
+[x64] lsass    [528]
+
+[x64] dllhost    [3464]
+
+[x64] smss    [256]
+
+[x64] services    [520]
+
+[x64] svchost    [2100]
+
+[x64] csrss    [340]
+
+[x32] metsvc    [2916]
+PATH=C:\Program Files\Meterpreter\metsvc.exe
+
+[x64] svchost    [600]
+
+[x64] svchost    [332]
+
+[x64] wininit    [420]
+
+[x64] RuntimeBroker    [2268]
+
+[x64] svchost    [1396]
+
+[x64] dllhost    [3116]
+
+[x64] Memory Compression    [1660]
+
+[x64] svchost    [1036]
+
+[x64] svchost    [356]
+
+[x64] svchost    [1740]
+
+[x64] csrss    [404]
+
+[x64] svchost    [884]
+
+[x64] sppsvc    [2360]
+
+[x32] ScanProcesses    [3916]
+PATH=C:\Users\John\Downloads\ScanProcesses.exe
+
+[x64] spoolsv    [1200]
+
+[x64] WmiPrvSE    [3064]
+
+[x64] WMIADAP    [3508]
+
+[x64] taskhostw    [2120]
+
+[x64] svchost    [920]
+
+[x64] svchost    [652]
+
+[x64] dwm    [828]
+
+[x64] svchost    [1088]
+
+[x64] conhost    [3668]
+
+[x64] sihost    [1620]
+
+[x32] metsvc-server    [3656]
+PATH=C:\Program Files\Meterpreter\metsvc-server.exe
+
+[x64] svchost    [816]
+
+[x64] WmiPrvSE    [2492]
+
+[x64] winlogon    [456]
+
+[x64] conhost    [2108]
+
+[x32] cmd    [8]
+PATH=C:\Windows\SysWoW64\cmd.exe
+
+[x64] svchost    [808]
+
+[x64] System    [4]
+
+[x64] ShellExperienceHost    [2584]
+TITLE=Windows Shell Experience Host
+
+[x64] svchost    [1336]
+
+[x64] Idle    [0]
+
+

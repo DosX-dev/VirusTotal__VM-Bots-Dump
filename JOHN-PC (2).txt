@@ -1,0 +1,449 @@
+
+JOHN-PC \ John
+
+[SystemState]
+TickCount=354734 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\John\AppData\Local\Temp\DXdupEbzmyeo.exe
+CommandLine="C:\Users\John\AppData\Local\Temp\DXdupEbzmyeo.exe"
+
+
+
+RUN LIST:
+a=powershell
+MRUList=afedcb
+b=services.msc
+c=gpedit.msc
+d=regedit
+e=cmd
+f=notepad
+
+
+
+
+STARTUP LIST:
+[Run]
+
+[RunOnce]
+
+
+
+
+DISKS:
+C:\
+
+
+
+
+TEMP FILES:
+C:\Users\John\AppData\Local\Temp\AdobeARM.log
+C:\Users\John\AppData\Local\Temp\AdobeARM_NotLocked.log
+C:\Users\John\AppData\Local\Temp\AdobeSFX.log
+C:\Users\John\AppData\Local\Temp\aria-debug-5984.log
+C:\Users\John\AppData\Local\Temp\chrome_installer.log
+C:\Users\John\AppData\Local\Temp\DXdupEbzmyeo.exe
+C:\Users\John\AppData\Local\Temp\Python 3.8.2 (64-bit)_20200430235436.log
+C:\Users\John\AppData\Local\Temp\Python 3.8.2 (64-bit)_20200430235436_000_core_AllUsers.log
+C:\Users\John\AppData\Local\Temp\Python 3.8.2 (64-bit)_20200430235436_001_dev_AllUsers.log
+C:\Users\John\AppData\Local\Temp\Python 3.8.2 (64-bit)_20200430235436_002_exe_AllUsers.log
+C:\Users\John\AppData\Local\Temp\Python 3.8.2 (64-bit)_20200430235436_003_lib_AllUsers.log
+C:\Users\John\AppData\Local\Temp\Python 3.8.2 (64-bit)_20200430235436_004_test_AllUsers.log
+C:\Users\John\AppData\Local\Temp\Python 3.8.2 (64-bit)_20200430235436_005_doc_AllUsers.log
+C:\Users\John\AppData\Local\Temp\Python 3.8.2 (64-bit)_20200430235436_006_tools_AllUsers.log
+C:\Users\John\AppData\Local\Temp\Python 3.8.2 (64-bit)_20200430235436_007_tcltk_AllUsers.log
+C:\Users\John\AppData\Local\Temp\Python 3.8.2 (64-bit)_20200430235436_008_launcher_AllUsers.log
+C:\Users\John\AppData\Local\Temp\Python 3.8.2 (64-bit)_20200430235436_009_pip_AllUsers.log
+C:\Users\John\AppData\Local\Temp\Python 3.8.2 (64-bit)_20200430235436_010_path_AllUsers.log
+C:\Users\John\AppData\Local\Temp\SetupExe(2020050822490216B8).log
+C:\Users\John\AppData\Local\Temp\tmp794F.tmp
+C:\Users\John\AppData\Local\Temp\tmpaddon
+C:\Users\John\AppData\Local\Temp\tmpaddon-b5b840
+C:\Users\John\AppData\Local\Temp\wct175.tmp
+C:\Users\John\AppData\Local\Temp\wct2513.tmp
+C:\Users\John\AppData\Local\Temp\wct549F.tmp
+C:\Users\John\AppData\Local\Temp\wct5BB9.tmp
+C:\Users\John\AppData\Local\Temp\wmsetup.log
+
+
+
+RECENT FILES:
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\agent.py.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\AppData.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\Config.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\Debloat-Windows-10-master.zip.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\disable-windows-defender.ps1.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\Downloads (2).lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\Downloads (3).lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\Downloads.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\driverview-x64.zip.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy (2) - Copy - Copy.pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy (2) - Copy.pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy (2).pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy (3) - Copy.pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy (3).pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy (4) - Copy.pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy (4).pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy - Copy (2) - Copy.pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy - Copy (2).pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy - Copy (3).pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy - Copy - Copy (2).pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy - Copy - Copy - Copy.pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy - Copy - Copy.pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy - Copy.pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy - Copy.pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\dummy.pdf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy (2) - Copy - Copy.doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy (2) - Copy.doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy (2).doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy (3) - Copy.doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy (3).doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy (4) - Copy.doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy (4).doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy - Copy (2) - Copy.doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy - Copy (2).doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy - Copy (3).doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy - Copy - Copy (2).doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy - Copy - Copy - Copy.doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy - Copy - Copy.doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy - Copy.doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB - Copy.doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file-sample_100kB.doc.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy (2) - Copy - Copy.ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy (2) - Copy.ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy (2).ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy (3) - Copy.ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy (3).ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy (4) - Copy.ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy (4).ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy - Copy (2) - Copy.ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy - Copy (2).ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy - Copy (3).ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy - Copy - Copy (2).ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy - Copy - Copy - Copy.ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy - Copy - Copy.ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy - Copy.ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB - Copy.ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_PPT_250kB.ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy (2) - Copy - Copy.xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy (2) - Copy.xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy (2).xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy (3) - Copy.xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy (3).xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy (4) - Copy.xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy (4).xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy - Copy (2) - Copy.xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy - Copy (2).xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy - Copy (3).xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy - Copy - Copy (2).xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy - Copy - Copy - Copy.xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy - Copy - Copy.xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy - Copy.xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10 - Copy.xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\file_example_XLS_10.xls.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\fwcfg.inf.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy (2) - Copy - Copy.mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy (2) - Copy.mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy (2).mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy (3) - Copy.mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy (3).mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy (4) - Copy.mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy (4).mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy - Copy (2) - Copy.mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy - Copy (2).mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy - Copy (3).mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy - Copy - Copy (2).mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy - Copy - Copy - Copy.mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy - Copy - Copy.mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy - Copy.mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2 - Copy.mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\grb_2.mkv.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\head-659652_640 - Copy (2) - Copy.png.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\head-659652_640 - Copy (3) - Copy.png.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\head-659652_640 - Copy (3).png.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\head-659652_640 - Copy (4) - Copy.png.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\head-659652_640 - Copy (4).png.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\head-659652_640 - Copy - Copy (2) - Copy.png.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\head-659652_640 - Copy - Copy (2).png.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\head-659652_640 - Copy - Copy - Copy (2).png.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\head-659652_640 - Copy - Copy - Copy - Copy.png.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\head-659652_640 - Copy - Copy - Copy.png.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\head-659652_640 - Copy - Copy.png.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\head-659652_640 - Copy.png.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\head-659652_640.png.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\HypermonAgent.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy (2) - Copy - Copy.txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy (2) - Copy.txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy (2).txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy (3) - Copy.txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy (3).txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy (4) - Copy.txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy (4).txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy - Copy (2) - Copy.txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy - Copy (2).txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy - Copy (3).txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy - Copy - Copy (2).txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy - Copy - Copy - Copy.txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy - Copy - Copy.txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy - Copy.txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1 - Copy.txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\iso_8859-1.txt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\John.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\machine.config.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\pg-defuse.zip.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\pic.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\ppt.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\ProcessExplorer.zip.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\Roaming.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\scripts.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\System and Security.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\System.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\The Internet (2).lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\The Internet.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\This PC.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\virtio-win10-prewhql-0.1-161.zip.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\windowsdefender---.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\windowsdefender--appbrowser-.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\windowsdefender--hardware-.lnk
+C:\Users\John\AppData\Roaming\Microsoft\Windows\Recent\xls.lnk
+
+
+
+DESKTOP FILES:
+C:\Users\John\Desktop\desktop.ini
+C:\Users\John\Desktop\Excel 2016.lnk
+C:\Users\John\Desktop\Microsoft Edge.lnk
+C:\Users\John\Desktop\MPC-HC x64.lnk
+C:\Users\John\Desktop\Outlook 2016.lnk
+C:\Users\John\Desktop\PowerPoint 2016.lnk
+C:\Users\John\Desktop\Word 2016.lnk
+
+
+
+PROCESSES:
+[x64] explorer    [4268]
+
+[x64] conhost    [5396]
+
+[x64] svchost    [1768]
+
+[x64] SearchIndexer    [5248]
+
+[x64] services    [584]
+
+[x64] svchost    [3284]
+
+[x64] svchost    [1760]
+
+[x64] RuntimeBroker    [5108]
+
+[x64] svchost    [2152]
+
+[x64] fontdrvhost    [772]
+
+[x64] svchost    [2544]
+
+[x64] SecurityHealthService    [5104]
+
+[x64] svchost    [1752]
+
+[x64] svchost    [1948]
+
+[x64] RuntimeBroker    [4732]
+
+[x64] fontdrvhost    [764]
+
+[x64] svchost    [2536]
+
+[x64] svchost    [1220]
+
+[x64] svchost    [2528]
+
+[x64] svchost    [1936]
+
+[x64] svchost    [752]
+
+[x64] SystemSettings    [3312]
+TITLE=Settings
+
+[x64] svchost    [3080]
+
+[x64] svchost    [940]
+
+[x64] csrss    [528]
+
+[x64] svchost    [4680]
+
+[x64] ShellExperienceHost    [1920]
+
+[x64] smss    [340]
+
+[x64] svchost    [2292]
+
+[x64] svchost    [5764]
+
+[x64] ApplicationFrameHost    [3616]
+TITLE=Settings
+
+[x64] svchost    [1320]
+
+[x64] svchost    [328]
+
+[x64] spoolsv    [2104]
+
+[x64] svchost    [1708]
+
+[x64] svchost    [2692]
+
+[x64] svchost    [3672]
+
+[x64] svchost    [3868]
+
+[x64] dllhost    [4004]
+
+[x64] svchost    [5636]
+
+[x64] svchost    [1300]
+
+[x64] svchost    [1496]
+
+[x64] svchost    [1100]
+
+[x64] wininit    [508]
+
+[x64] SearchUI    [4836]
+
+[x64] svchost    [1684]
+
+[x64] svchost    [1484]
+
+[x64] RuntimeBroker    [3256]
+
+[x64] svchost    [2664]
+
+[x64] WmiPrvSE    [2256]
+
+[x64] svchost    [1480]
+
+[x64] svchost    [888]
+
+[x64] SecurityHealthSystray    [5220]
+
+[x64] svchost    [3304]
+
+[x64] svchost    [884]
+
+[x64] SgrmBroker    [2656]
+
+[x64] lsass    [612]
+
+[x64] svchost    [3836]
+
+[x64] svchost    [4048]
+
+[x64] svchost    [1864]
+
+[x64] svchost    [1468]
+
+[x64] Registry    [88]
+
+[x64] svchost    [1072]
+
+[x64] MicrosoftEdgeSH    [672]
+
+[x64] MicrosoftEdgeCP    [952]
+TITLE=Microsoft Edge
+
+[x64] StartMenuExperienceHost    [4608]
+
+[x64] svchost    [5196]
+
+[x64] svchost    [3816]
+
+[x64] svchost    [4384]
+
+[x64] svchost    [2040]
+
+[x64] svchost    [1644]
+
+[x64] svchost    [64]
+
+[x64] RuntimeBroker    [5776]
+
+[x64] svchost    [3400]
+
+[x64] RuntimeBroker    [1832]
+
+[x64] svchost    [1240]
+
+[x64] svchost    [1436]
+
+[x64] sihost    [3796]
+
+[x64] svchost    [840]
+
+[x64] svchost    [4188]
+
+[x64] svchost    [444]
+
+[x64] WinStore.App    [1624]
+TITLE=Microsoft Store
+
+[x64] svchost    [2608]
+
+[x64] csrss    [440]
+
+[x64] svchost    [2212]
+
+[x64] svchost    [3788]
+
+[x64] svchost    [2404]
+
+[x64] svchost    [2008]
+
+[x64] browser_broker    [4768]
+
+[x64] svchost    [2596]
+
+[x64] winlogon    [624]
+
+[x64] svchost    [2396]
+
+[x64] SecurityHealthHost    [4956]
+
+[x64] taskhostw    [3968]
+
+[x64] MicrosoftEdge    [816]
+TITLE=Microsoft Edge
+
+[x64] dwm    [1008]
+
+[x64] svchost    [1400]
+
+[x64] Windows.WARP.JITService    [6124]
+
+[x64] python    [3956]
+
+[x64] svchost    [5728]
+
+[x64] RuntimeBroker    [2260]
+
+[x64] Memory Compression    [1588]
+
+[x64] svchost    [2568]
+
+[x64] ctfmon    [1976]
+
+[x64] System    [4]
+
+[x64] svchost    [1184]
+
+[x32] DXdupEbzmyeo    [3140]
+PATH=C:\Users\John\AppData\Local\Temp\DXdupEbzmyeo.exe
+
+[x64] Idle    [0]
+
+

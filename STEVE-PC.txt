@@ -1,0 +1,290 @@
+
+Steve-PC \ Steve
+
+[SystemState]
+TickCount=29539078 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\Steve\AppData\Local\Temp\do_not_delete_8fab5d.exe
+CommandLine="C:\Users\Steve\AppData\Local\Temp\do_not_delete_8fab5d.exe" 
+
+
+
+RUN LIST:
+a=eventvwr
+MRUList=a
+
+
+
+
+STARTUP LIST:
+[Run]
+
+[RunOnce]
+
+
+
+
+DISKS:
+C:\
+D:\
+
+
+
+
+TEMP FILES:
+C:\Users\Steve\AppData\Local\Temp\11f1b309-2aeb-47cf-a42a-07b8f4328f50.tmp.ico
+C:\Users\Steve\AppData\Local\Temp\395fa07e-814a-4bb6-9734-f450dbf78469.tmp.ico
+C:\Users\Steve\AppData\Local\Temp\39B655CB-4870-4298-82F5-4E0E853F90A4.Diagnose.Admin.0.etl
+C:\Users\Steve\AppData\Local\Temp\4fca136c-9dd9-437e-90c7-6236c965272f.tmp.ico
+C:\Users\Steve\AppData\Local\Temp\99f06506-6aac-4059-9b82-399738022e02.tmp.ico
+C:\Users\Steve\AppData\Local\Temp\a43e3623-9100-4438-ab9c-c09d23b827d8.tmp.ico
+C:\Users\Steve\AppData\Local\Temp\ASPNETSetup_00000.log
+C:\Users\Steve\AppData\Local\Temp\ASPNETSetup_00001.log
+C:\Users\Steve\AppData\Local\Temp\ASPNETSetup_00002.log
+C:\Users\Steve\AppData\Local\Temp\ASPNETSetup_00003.log
+C:\Users\Steve\AppData\Local\Temp\ASPNETSetup_00004.log
+C:\Users\Steve\AppData\Local\Temp\bbaa878b-0ede-4cb4-8ef9-50469fb71cda.tmp.ico
+C:\Users\Steve\AppData\Local\Temp\chrome_installer.log
+C:\Users\Steve\AppData\Local\Temp\CVR3FF4.tmp.cvr
+C:\Users\Steve\AppData\Local\Temp\CVRACEB.tmp.cvr
+C:\Users\Steve\AppData\Local\Temp\dd_dotNetFx40_Full_x86_x64_decompression_log.txt
+C:\Users\Steve\AppData\Local\Temp\dd_dotNetFx45_Full_setup_decompression_log.txt
+C:\Users\Steve\AppData\Local\Temp\dd_Microsoft.NET-Framework 4.5.1-x86-x64-AllOS-ENU_decompression_log.txt
+C:\Users\Steve\AppData\Local\Temp\dd_Microsoft.NET-Framework 4.6.1-x86-x64-AllOS-ENU_decompression_log.txt
+C:\Users\Steve\AppData\Local\Temp\dd_Microsoft.NET-Framework 4.7-x86-x64-AllOS-ENU_decompression_log.txt
+C:\Users\Steve\AppData\Local\Temp\dd_ndp46-kb4040973-x86_decompression_log.txt
+C:\Users\Steve\AppData\Local\Temp\dd_SetupUtility.txt
+C:\Users\Steve\AppData\Local\Temp\dd_vcredistMSI0399.txt
+C:\Users\Steve\AppData\Local\Temp\dd_vcredistMSI041F.txt
+C:\Users\Steve\AppData\Local\Temp\dd_vcredistUI0399.txt
+C:\Users\Steve\AppData\Local\Temp\dd_vcredistUI041F.txt
+C:\Users\Steve\AppData\Local\Temp\dd_vcredist_x86_20201020115743.log
+C:\Users\Steve\AppData\Local\Temp\dd_vcredist_x86_20201020115743_0_vcRuntimeMinimum_x86.log
+C:\Users\Steve\AppData\Local\Temp\dd_vcredist_x86_20201020115743_1_vcRuntimeAdditional_x86.log
+C:\Users\Steve\AppData\Local\Temp\dd_vcredist_x86_20201020115801.log
+C:\Users\Steve\AppData\Local\Temp\dd_vcredist_x86_20201020115801_0_vcRuntimeMinimum_x86.log
+C:\Users\Steve\AppData\Local\Temp\dd_vcredist_x86_20201020115801_1_vcRuntimeAdditional_x86.log
+C:\Users\Steve\AppData\Local\Temp\dd_vcredist_x86_20201020115814.log
+C:\Users\Steve\AppData\Local\Temp\dd_vcredist_x86_20201020115814_000_vcRuntimeMinimum_x86.log
+C:\Users\Steve\AppData\Local\Temp\dd_vcredist_x86_20201020115814_001_vcRuntimeAdditional_x86.log
+C:\Users\Steve\AppData\Local\Temp\dd_vcredist_x86_20201020115832.log
+C:\Users\Steve\AppData\Local\Temp\dd_vcredist_x86_20201020115832_000_vcRuntimeMinimum_x86.log
+C:\Users\Steve\AppData\Local\Temp\dd_vcredist_x86_20201020115832_001_vcRuntimeAdditional_x86.log
+C:\Users\Steve\AppData\Local\Temp\dd_vcredist_x86_20201020115841.log
+C:\Users\Steve\AppData\Local\Temp\dd_wcf_CA_smci_20201020_184738_194.txt
+C:\Users\Steve\AppData\Local\Temp\dd_wcf_CA_smci_20201020_185028_001.txt
+C:\Users\Steve\AppData\Local\Temp\dd_wcf_CA_smci_20201020_185336_628.txt
+C:\Users\Steve\AppData\Local\Temp\dd_wcf_CA_smci_20201022_021141_694.txt
+C:\Users\Steve\AppData\Local\Temp\dd_wcf_CA_smci_20210805_234022_621.txt
+C:\Users\Steve\AppData\Local\Temp\DMI182B.tmp
+C:\Users\Steve\AppData\Local\Temp\DMI533B.tmp
+C:\Users\Steve\AppData\Local\Temp\DMIA8EE.tmp
+C:\Users\Steve\AppData\Local\Temp\DMIB795.tmp
+C:\Users\Steve\AppData\Local\Temp\DMIC68A.tmp
+C:\Users\Steve\AppData\Local\Temp\DMIFBF3.tmp
+C:\Users\Steve\AppData\Local\Temp\do_not_delete_8fab5d.exe
+C:\Users\Steve\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+C:\Users\Steve\AppData\Local\Temp\JavaDeployReg.log
+C:\Users\Steve\AppData\Local\Temp\jawshtml.html
+C:\Users\Steve\AppData\Local\Temp\jusched.log
+C:\Users\Steve\AppData\Local\Temp\KB4040973_20201021_191133319-Microsoft .NET Framework 4.6.1-MSP0.txt
+C:\Users\Steve\AppData\Local\Temp\KB4040973_20201021_191133319.html
+C:\Users\Steve\AppData\Local\Temp\Microsoft .NET Framework 4 Setup_20201020_114642116-MSI_netfx_Core_x86.msi.txt
+C:\Users\Steve\AppData\Local\Temp\Microsoft .NET Framework 4 Setup_20201020_114642116-MSI_netfx_Extended_x86.msi.txt
+C:\Users\Steve\AppData\Local\Temp\Microsoft .NET Framework 4 Setup_20201020_114642116.html
+C:\Users\Steve\AppData\Local\Temp\Microsoft .NET Framework 4.5 Setup_20210805_163028042.html
+C:\Users\Steve\AppData\Local\Temp\Microsoft .NET Framework 4.5.1 Setup_20201020_115000626-MSI_netfx_Full_GDR_x86.msi.txt
+C:\Users\Steve\AppData\Local\Temp\Microsoft .NET Framework 4.5.1 Setup_20201020_115000626.html
+C:\Users\Steve\AppData\Local\Temp\Microsoft .NET Framework 4.6.1 Setup_20201020_115152659-MSI_netfx_Full_x86.msi.txt
+C:\Users\Steve\AppData\Local\Temp\Microsoft .NET Framework 4.6.1 Setup_20201020_115152659.html
+C:\Users\Steve\AppData\Local\Temp\Microsoft .NET Framework 4.7 Setup_20201020_115509262.html
+C:\Users\Steve\AppData\Local\Temp\Microsoft Visual C++ 2010  x86 Redistributable Setup_20201020_115727611-MSI_vc_red.msi.txt
+C:\Users\Steve\AppData\Local\Temp\Microsoft Visual C++ 2010  x86 Redistributable Setup_20201020_115727611.html
+C:\Users\Steve\AppData\Local\Temp\Microsoft Visual C++ 2010  x86 Redistributable Setup_20210805_164320933-Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219-MSP0.txt
+C:\Users\Steve\AppData\Local\Temp\Microsoft Visual C++ 2010  x86 Redistributable Setup_20210805_164320933-MSI_vc_red.msi.txt
+C:\Users\Steve\AppData\Local\Temp\Microsoft Visual C++ 2010  x86 Redistributable Setup_20210805_164320933.html
+C:\Users\Steve\AppData\Local\Temp\MSI3487e.LOG
+C:\Users\Steve\AppData\Local\Temp\MSI36e08.LOG
+C:\Users\Steve\AppData\Local\Temp\MSI3dc43.LOG
+C:\Users\Steve\AppData\Local\Temp\ose00000.exe
+C:\Users\Steve\AppData\Local\Temp\Python 3.8.0 (32-bit)_20201021183630.log
+C:\Users\Steve\AppData\Local\Temp\Python 3.8.0 (32-bit)_20201021193216.log
+C:\Users\Steve\AppData\Local\Temp\Python 3.8.0 (32-bit)_20201021193216_000_core_JustForMe.log
+C:\Users\Steve\AppData\Local\Temp\Python 3.8.0 (32-bit)_20201021193216_001_dev_JustForMe.log
+C:\Users\Steve\AppData\Local\Temp\Python 3.8.0 (32-bit)_20201021193216_002_exe_JustForMe.log
+C:\Users\Steve\AppData\Local\Temp\Python 3.8.0 (32-bit)_20201021193216_003_lib_JustForMe.log
+C:\Users\Steve\AppData\Local\Temp\Python 3.8.0 (32-bit)_20201021193216_004_test_JustForMe.log
+C:\Users\Steve\AppData\Local\Temp\Python 3.8.0 (32-bit)_20201021193216_005_doc_JustForMe.log
+C:\Users\Steve\AppData\Local\Temp\Python 3.8.0 (32-bit)_20201021193216_006_tools_JustForMe.log
+C:\Users\Steve\AppData\Local\Temp\Python 3.8.0 (32-bit)_20201021193216_007_tcltk_JustForMe.log
+C:\Users\Steve\AppData\Local\Temp\Python 3.8.0 (32-bit)_20201021193216_008_launcher_AllUsers.log
+C:\Users\Steve\AppData\Local\Temp\Python 3.8.0 (32-bit)_20201021193216_009_pip_JustForMe.log
+C:\Users\Steve\AppData\Local\Temp\Python 3.8.0 (32-bit)_20201021193216_010_path_JustForMe.log
+C:\Users\Steve\AppData\Local\Temp\RGI2CA8.tmp
+C:\Users\Steve\AppData\Local\Temp\RGI2CA8.tmp-tmp
+C:\Users\Steve\AppData\Local\Temp\RGI3406.tmp
+C:\Users\Steve\AppData\Local\Temp\RGI3406.tmp-tmp
+C:\Users\Steve\AppData\Local\Temp\RGI5347.tmp
+C:\Users\Steve\AppData\Local\Temp\RGI5347.tmp-tmp
+C:\Users\Steve\AppData\Local\Temp\RGI6C9E.tmp
+C:\Users\Steve\AppData\Local\Temp\RGI6C9E.tmp-tmp
+C:\Users\Steve\AppData\Local\Temp\RGIB0AE.tmp
+C:\Users\Steve\AppData\Local\Temp\RGIB0AE.tmp-tmp
+C:\Users\Steve\AppData\Local\Temp\Setup Log 2020-10-20 #001.txt
+C:\Users\Steve\AppData\Local\Temp\Setup Log 2020-10-22 #001.txt
+C:\Users\Steve\AppData\Local\Temp\SetupExe(20210611185330E14).log
+C:\Users\Steve\AppData\Local\Temp\SetupExe(20210611190416F94).log
+C:\Users\Steve\AppData\Local\Temp\Steve.bmp
+C:\Users\Steve\AppData\Local\Temp\StructuredQuery.log
+C:\Users\Steve\AppData\Local\Temp\TempWinSAT-MediaEnc-2023-01-05-12-22-05-35.tmp
+C:\Users\Steve\AppData\Local\Temp\TempWinSAT-MediaEtw-2023-01-05-12-22-05-35.etl
+C:\Users\Steve\AppData\Local\Temp\tmpaddon
+C:\Users\Steve\AppData\Local\Temp\tmpaddon-d72b3a
+C:\Users\Steve\AppData\Local\Temp\UserInfoSetup(20210611190416F94).log
+C:\Users\Steve\AppData\Local\Temp\wmsetup.log
+C:\Users\Steve\AppData\Local\Temp\{1C306CB1-771E-4B4B-A902-86E897877F5B}.jpg
+C:\Users\Steve\AppData\Local\Temp\~DF09CE0DCFCC8773EE.TMP
+
+
+
+RECENT FILES:
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\agent.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\All Control Panel Items.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Appearance and Personalization.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Bypass-Windows-Defender-VBS-master (2).lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Bypass-Windows-Defender-VBS-master.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\choco_install.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Database1.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Display.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Downloads.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Hotfixes(x32).lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Install-WMF5.1.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Network and Internet.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\script.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\System and Security.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Troubleshooting.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Win7-KB3191566-x86 (2).lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Win7-KB3191566-x86 (3).lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Win7-KB3191566-x86.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Windows6.1-KB2999226-x86.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\Windows6.1-KB3020369-x86.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\windows6.1-kb3125574-v4-x86_ba1ff5537312561795cc04db0b02fbb0.lnk
+C:\Users\Steve\AppData\Roaming\Microsoft\Windows\Recent\windows6.1-kb3140245-x86_cdafb409afbe28db07e2254f40047774a06.lnk
+
+
+
+DESKTOP FILES:
+C:\Users\Steve\Desktop\desktop.ini
+
+
+
+PROCESSES:
+[x32] dwm    [1440]
+PATH=C:\Windows\system32\Dwm.exe
+
+[x32] svchost    [792]
+PATH=C:\Windows\System32\svchost.exe
+
+[x32] smss    [256]
+PATH=C:\Windows\system32\smss.exe
+
+[x32] spoolsv    [1232]
+PATH=C:\Windows\System32\spoolsv.exe
+
+[x32] csrss    [340]
+PATH=C:\Windows\system32\csrss.exe
+
+[x32] conhost    [2364]
+PATH=C:\Windows\system32\conhost.exe
+
+[x32] winlogon    [424]
+PATH=C:\Windows\system32\winlogon.exe
+
+[x32] svchost    [600]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] taskhost    [3560]
+PATH=C:\Windows\system32\taskhost.exe
+
+[x32] SearchIndexer    [2196]
+PATH=C:\Windows\system32\SearchIndexer.exe
+
+[x32] svchost    [1572]
+PATH=C:\Windows\System32\svchost.exe
+
+[x32] unsecapp    [2036]
+PATH=C:\Windows\system32\wbem\unsecapp.exe
+
+[x64] audiodg    [2548]
+
+[x32] svchost    [856]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] mscorsvw    [2724]
+PATH=C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+
+[x32] taskhost    [2812]
+PATH=C:\Windows\system32\taskhost.exe
+
+[x32] svchost    [584]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] pyw    [2004]
+PATH=C:\Windows\pyw.exe
+
+[x32] lsm    [488]
+PATH=C:\Windows\system32\lsm.exe
+
+[x32] svchost    [664]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] svchost    [1908]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] svchost    [748]
+PATH=C:\Windows\System32\svchost.exe
+
+[x32] lsass    [480]
+PATH=C:\Windows\system32\lsass.exe
+
+[x32] csrss    [388]
+PATH=C:\Windows\system32\csrss.exe
+
+[x32] explorer    [1452]
+PATH=C:\Windows\Explorer.EXE
+
+[x32] services    [472]
+PATH=C:\Windows\system32\services.exe
+
+[x32] wininit    [376]
+PATH=C:\Windows\system32\wininit.exe
+
+[x32] svchost    [1084]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] svchost    [816]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] svchost    [1260]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] taskhost    [1348]
+PATH=C:\Windows\system32\taskhost.exe
+
+[x32] do_not_delete_8fab5d    [1800]
+PATH=C:\Users\Steve\AppData\Local\Temp\do_not_delete_8fab5d.exe
+
+[x32] WinSAT    [3640]
+PATH=C:\Windows\system32\winsat.exe
+
+[x32] Sysmon    [1680]
+PATH=C:\Windows\Sysmon.exe
+
+[x64] System    [4]
+
+[x64] Idle    [0]
+
+

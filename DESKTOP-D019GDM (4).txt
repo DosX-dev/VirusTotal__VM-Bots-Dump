@@ -1,0 +1,259 @@
+
+DESKTOP-D019GDM \ Frank
+
+[SystemState]
+TickCount=55531 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\Frank\Desktop\PUmdQtlp.exe
+CommandLine=PUmdQtlp.exe
+
+
+
+RUN LIST:
+
+
+
+
+STARTUP LIST:
+[Run]
+
+[RunOnce]
+
+
+
+
+DISKS:
+C:\
+
+
+
+
+TEMP FILES:
+C:\Users\Frank\AppData\Local\Temp\.ses
+C:\Users\Frank\AppData\Local\Temp\0ba7b553833441b0a01cdbbb2df0d391.db.ses
+C:\Users\Frank\AppData\Local\Temp\AdobeARM.log
+C:\Users\Frank\AppData\Local\Temp\ArmUI.ini
+C:\Users\Frank\AppData\Local\Temp\mat-debug-5868.log
+C:\Users\Frank\AppData\Local\Temp\StructuredQuery.log
+
+
+
+RECENT FILES:
+C:\Users\Frank\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+
+
+
+DESKTOP FILES:
+C:\Users\Frank\Desktop\desktop.ini
+C:\Users\Frank\Desktop\PUmdQtlp.exe
+
+
+
+PROCESSES:
+[x64] StartMenuExperienceHost    [4136]
+
+[x64] svchost    [3728]
+
+[x64] svchost    [1376]
+
+[x64] svchost    [1572]
+
+[x64] igfxCUIService    [1764]
+
+[x64] svchost    [1960]
+
+[x64] svchost    [3928]
+
+[x64] svchost    [2548]
+
+[x64] svchost    [2152]
+
+[x32] WmiPrvSE    [2400]
+PATH=C:\Windows\sysWOW64\wbem\wmiprvse.exe
+
+[x64] RuntimeBroker    [4512]
+
+[x64] svchost    [976]
+
+[x64] WmiApSrv    [5296]
+
+[x64] svchost    [1076]
+
+[x64] svchost    [2536]
+
+[x64] csrss    [564]
+
+[x64] svchost    [364]
+
+[x64] svchost    [2524]
+
+[x64] svchost    [1536]
+
+[x64] wininit    [548]
+
+[x64] svchost    [2320]
+
+[x64] OfficeClickToRun    [2516]
+
+[x64] svchost    [1924]
+
+[x64] backgroundTaskHost    [4112]
+
+[x64] svchost    [3100]
+
+[x64] svchost    [4084]
+
+[x64] svchost    [1916]
+
+[x64] IntelCpHDCPSvc    [2504]
+
+[x64] smss    [336]
+
+[x64] svchost    [1516]
+
+[x64] svchost    [924]
+
+[x64] svchost    [2696]
+
+[x64] svchost    [3284]
+
+[x64] svchost    [1312]
+
+[x64] svchost    [2296]
+
+[x64] svchost    [1704]
+
+[x64] services    [620]
+
+[x64] svchost    [716]
+
+[x64] WmiPrvSE    [3604]
+
+[x64] sihost    [3800]
+
+[x64] svchost    [1696]
+
+[x64] svchost    [3860]
+
+[x64] dllhost    [5032]
+
+[x64] svchost    [2672]
+
+[x64] dwm    [304]
+
+[x64] svchost    [1484]
+
+[x64] svchost    [2664]
+
+[x32] WmiPrvSE    [5420]
+PATH=C:\Windows\sysWOW64\wbem\wmiprvse.exe
+
+[x64] explorer    [3448]
+
+[x64] svchost    [2068]
+
+[x64] svchost    [1476]
+
+[x64] svchost    [1152]
+
+[x64] RuntimeBroker    [4272]
+
+[x64] svchost    [1864]
+
+[x64] svchost    [1272]
+
+[x64] spoolsv    [2256]
+
+[x64] svchost    [876]
+
+[x64] svchost    [2644]
+
+[x64] svchost    [2444]
+
+[x64] svchost    [1064]
+
+[x64] dllhost    [4804]
+
+[x64] svchost    [4212]
+
+[x64] svchost    [3816]
+
+[x64] svchost    [3428]
+
+[x64] svchost    [1096]
+
+[x64] csrss    [460]
+
+[x64] svchost    [3020]
+
+[x64] RuntimeBroker    [4788]
+
+[x32] nvtray    [4984]
+PATH=C:\Program Files\NVIDIA Corporation\Display\nvtray.exe
+
+[x64] svchost    [452]
+
+[x64] winlogon    [648]
+
+[x64] lsass    [680]
+
+[x64] svchost    [1432]
+
+[x64] svchost    [4968]
+
+[x32] nvtray    [4976]
+PATH=C:\Program Files\NVIDIA Corporation\Display\nvtray.exe
+
+[x32] PUmdQtlp    [5564]
+PATH=C:\Users\Frank\Desktop\PUmdQtlp.exe
+
+[x64] svchost    [3396]
+
+[x64] svchost    [1424]
+
+[x64] svchost    [1816]
+
+[x64] svchost    [1224]
+
+[x64] WmiPrvSE    [5360]
+
+[x64] Registry    [88]
+
+[x64] svchost    [4764]
+
+[x64] svchost    [1020]
+
+[x64] svchost    [1216]
+
+[x64] svchost    [792]
+
+[x64] upfc    [1404]
+
+[x64] SearchUI    [4356]
+
+[x64] dllhost    [5500]
+
+[x64] fontdrvhost    [808]
+
+[x64] PresentationFontCache    [3956]
+
+[x64] svchost    [2604]
+
+[x64] svchost    [2800]
+
+[x64] fontdrvhost    [800]
+
+[x64] svchost    [4144]
+
+[x64] System    [4]
+
+[x64] conhost    [3352]
+TITLE=C:\Users\Frank\loader.exe
+
+[x64] svchost    [1972]
+
+[x64] Idle    [0]
+
+

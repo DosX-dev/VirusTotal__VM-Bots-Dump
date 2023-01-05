@@ -1,0 +1,428 @@
+
+DESKTOP-B0T93D6 \ george
+
+[SystemState]
+TickCount=5650015 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\george\Desktop\DosX.exe
+CommandLine="C:\Users\george\Desktop\DosX.exe"
+
+
+
+RUN LIST:
+
+
+
+
+STARTUP LIST:
+[Run]
+
+[RunOnce]
+
+
+
+
+DISKS:
+C:\
+D:\
+
+
+
+
+TEMP FILES:
+C:\Users\george\AppData\Local\Temp\0164771190
+C:\Users\george\AppData\Local\Temp\0196354653
+C:\Users\george\AppData\Local\Temp\0409654664
+C:\Users\george\AppData\Local\Temp\0450125302
+C:\Users\george\AppData\Local\Temp\0518291756
+C:\Users\george\AppData\Local\Temp\0653671941
+C:\Users\george\AppData\Local\Temp\0666563528
+C:\Users\george\AppData\Local\Temp\0982390758
+C:\Users\george\AppData\Local\Temp\1033868256
+C:\Users\george\AppData\Local\Temp\1141274626
+C:\Users\george\AppData\Local\Temp\1206337459
+C:\Users\george\AppData\Local\Temp\1237160943
+C:\Users\george\AppData\Local\Temp\1239919175
+C:\Users\george\AppData\Local\Temp\1244065654
+C:\Users\george\AppData\Local\Temp\1287572840
+C:\Users\george\AppData\Local\Temp\1343496627
+C:\Users\george\AppData\Local\Temp\1422339599
+C:\Users\george\AppData\Local\Temp\1927994670
+C:\Users\george\AppData\Local\Temp\2103954313
+C:\Users\george\AppData\Local\Temp\2118371548
+C:\Users\george\AppData\Local\Temp\2129360816
+C:\Users\george\AppData\Local\Temp\2160417493
+C:\Users\george\AppData\Local\Temp\2162403398
+C:\Users\george\AppData\Local\Temp\2168651637
+C:\Users\george\AppData\Local\Temp\2265332024
+C:\Users\george\AppData\Local\Temp\2265465471
+C:\Users\george\AppData\Local\Temp\2385760553
+C:\Users\george\AppData\Local\Temp\2567238426
+C:\Users\george\AppData\Local\Temp\2585558601
+C:\Users\george\AppData\Local\Temp\2669049752
+C:\Users\george\AppData\Local\Temp\2760101248
+C:\Users\george\AppData\Local\Temp\2843307863
+C:\Users\george\AppData\Local\Temp\3024948866
+C:\Users\george\AppData\Local\Temp\3322604653
+C:\Users\george\AppData\Local\Temp\3476888679
+C:\Users\george\AppData\Local\Temp\3554373729
+C:\Users\george\AppData\Local\Temp\3643399760
+C:\Users\george\AppData\Local\Temp\3677062445
+C:\Users\george\AppData\Local\Temp\3761760476
+C:\Users\george\AppData\Local\Temp\4054640694
+C:\Users\george\AppData\Local\Temp\4478492829
+C:\Users\george\AppData\Local\Temp\4676012234
+C:\Users\george\AppData\Local\Temp\4683256203
+C:\Users\george\AppData\Local\Temp\4736274156
+C:\Users\george\AppData\Local\Temp\4941266003
+C:\Users\george\AppData\Local\Temp\4965367024
+C:\Users\george\AppData\Local\Temp\5064077962
+C:\Users\george\AppData\Local\Temp\5089483566
+C:\Users\george\AppData\Local\Temp\5281104033
+C:\Users\george\AppData\Local\Temp\5491630718
+C:\Users\george\AppData\Local\Temp\5622580005
+C:\Users\george\AppData\Local\Temp\5713452101
+C:\Users\george\AppData\Local\Temp\5809130301
+C:\Users\george\AppData\Local\Temp\6092905029
+C:\Users\george\AppData\Local\Temp\6109303877
+C:\Users\george\AppData\Local\Temp\6183211589
+C:\Users\george\AppData\Local\Temp\6213653276
+C:\Users\george\AppData\Local\Temp\6329227256
+C:\Users\george\AppData\Local\Temp\6332783370
+C:\Users\george\AppData\Local\Temp\6422942404
+C:\Users\george\AppData\Local\Temp\6483516391
+C:\Users\george\AppData\Local\Temp\6577738837
+C:\Users\george\AppData\Local\Temp\6636805992
+C:\Users\george\AppData\Local\Temp\6730030605
+C:\Users\george\AppData\Local\Temp\6750529025
+C:\Users\george\AppData\Local\Temp\7011884383
+C:\Users\george\AppData\Local\Temp\7155756679
+C:\Users\george\AppData\Local\Temp\7216804956
+C:\Users\george\AppData\Local\Temp\7245361316
+C:\Users\george\AppData\Local\Temp\7246058026
+C:\Users\george\AppData\Local\Temp\7457734050
+C:\Users\george\AppData\Local\Temp\7676687441
+C:\Users\george\AppData\Local\Temp\7847944919
+C:\Users\george\AppData\Local\Temp\8182259827
+C:\Users\george\AppData\Local\Temp\8200946536
+C:\Users\george\AppData\Local\Temp\8272948061
+C:\Users\george\AppData\Local\Temp\8351801105
+C:\Users\george\AppData\Local\Temp\8492240360
+C:\Users\george\AppData\Local\Temp\8552718761
+C:\Users\george\AppData\Local\Temp\8784112376
+C:\Users\george\AppData\Local\Temp\8886835349
+C:\Users\george\AppData\Local\Temp\8975065801
+C:\Users\george\AppData\Local\Temp\8995528179
+C:\Users\george\AppData\Local\Temp\9048275495
+C:\Users\george\AppData\Local\Temp\9106464316
+C:\Users\george\AppData\Local\Temp\9217021447
+C:\Users\george\AppData\Local\Temp\9275373402
+C:\Users\george\AppData\Local\Temp\9329238007
+C:\Users\george\AppData\Local\Temp\9422479677
+C:\Users\george\AppData\Local\Temp\9655434068
+C:\Users\george\AppData\Local\Temp\9659692161
+C:\Users\george\AppData\Local\Temp\9925478147
+C:\Users\george\AppData\Local\Temp\9973218975
+C:\Users\george\AppData\Local\Temp\AdobeARM.log
+C:\Users\george\AppData\Local\Temp\JSAMSIProvider32.dll
+C:\Users\george\AppData\Local\Temp\JSAMSIProvider64.dll
+C:\Users\george\AppData\Local\Temp\SetupExe(202105170053441634).log
+C:\Users\george\AppData\Local\Temp\tmp2C95.tmp
+C:\Users\george\AppData\Local\Temp\tmpaddon
+
+
+
+RECENT FILES:
+
+
+
+DESKTOP FILES:
+C:\Users\george\Desktop\desktop.ini
+C:\Users\george\Desktop\DosX.exe
+C:\Users\george\Desktop\GAOBCVIQIJ.docx
+C:\Users\george\Desktop\GRXZDKKVDB.mp3
+C:\Users\george\Desktop\Microsoft Edge.lnk
+C:\Users\george\Desktop\NVWZAPQSQL.png
+C:\Users\george\Desktop\PIVFAGEAAV.mp3
+C:\Users\george\Desktop\PIVFAGEAAV.pdf
+C:\Users\george\Desktop\PWCCAWLGRE.jpg
+C:\Users\george\Desktop\PWCCAWLGRE.xlsx
+C:\Users\george\Desktop\QCFWYSKMHA.pdf
+C:\Users\george\Desktop\QNCYCDFIJJ.docx
+C:\Users\george\Desktop\QNCYCDFIJJ.xlsx
+C:\Users\george\Desktop\SQSJKEBWDT.jpg
+C:\Users\george\Desktop\SUAVTZKNFL.png
+
+
+
+PROCESSES:
+[x32] WmiPrvSE    [4136]
+PATH=C:\Windows\sysWOW64\wbem\wmiprvse.exe
+
+[x64] MicrosoftEdge    [6052]
+TITLE=Microsoft Edge
+
+[x64] backgroundTaskHost    [644]
+
+[x64] unsecapp    [2556]
+
+[x32] WnpwtpSMQiothMXUltXkDffKUpjQUW    [5444]
+PATH=C:\Program Files (x86)\TFKXtFZIldXnAjXXcEiibZTlNabuFSfkcaNDFhGnLHGxYX\WnpwtpSMQiothMXUltXkDffKUpjQUW.exe
+TITLE=Chrome
+
+[x64] RuntimeBroker    [5508]
+
+[x64] svchost    [1960]
+
+[x32] WnpwtpSMQiothMXUltXkDffKUpjQUW    [7080]
+PATH=C:\Program Files (x86)\TFKXtFZIldXnAjXXcEiibZTlNabuFSfkcaNDFhGnLHGxYX\WnpwtpSMQiothMXUltXkDffKUpjQUW.exe
+TITLE=Chrome
+
+[x64] NisSrv    [3532]
+
+[x64] SearchUI    [5500]
+
+[x64] svchost    [968]
+
+[x64] smss    [376]
+
+[x64] svchost    [436]
+
+[x64] svchost    [4508]
+
+[x64] fontdrvhost    [828]
+
+[x64] ShellExperienceHost    [5320]
+
+[x64] Sysmon64    [2336]
+
+[x64] WMIADAP    [4108]
+
+[x32] DosX    [364]
+PATH=C:\Users\george\Desktop\DosX.exe
+
+[x64] RuntimeBroker    [6864]
+
+[x32] WnpwtpSMQiothMXUltXkDffKUpjQUW    [2528]
+PATH=C:\Program Files (x86)\TFKXtFZIldXnAjXXcEiibZTlNabuFSfkcaNDFhGnLHGxYX\WnpwtpSMQiothMXUltXkDffKUpjQUW.exe
+TITLE=Chrome
+
+[x64] svchost    [7056]
+
+[x32] WnpwtpSMQiothMXUltXkDffKUpjQUW    [2640]
+PATH=C:\Program Files (x86)\TFKXtFZIldXnAjXXcEiibZTlNabuFSfkcaNDFhGnLHGxYX\WnpwtpSMQiothMXUltXkDffKUpjQUW.exe
+TITLE=Chrome
+
+[x64] svchost    [2012]
+
+[x32] WnpwtpSMQiothMXUltXkDffKUpjQUW    [4492]
+PATH=C:\Program Files (x86)\TFKXtFZIldXnAjXXcEiibZTlNabuFSfkcaNDFhGnLHGxYX\WnpwtpSMQiothMXUltXkDffKUpjQUW.exe
+TITLE=Chrome
+
+[x64] svchost    [1536]
+
+[x64] svchost    [1732]
+
+[x64] svchost    [4292]
+
+[x64] csrss    [548]
+
+[x64] svchost    [1136]
+
+[x32] WnpwtpSMQiothMXUltXkDffKUpjQUW    [7044]
+PATH=C:\Program Files (x86)\TFKXtFZIldXnAjXXcEiibZTlNabuFSfkcaNDFhGnLHGxYX\WnpwtpSMQiothMXUltXkDffKUpjQUW.exe
+TITLE=Chrome
+
+[x64] RuntimeBroker    [2588]
+
+[x64] svchost    [2508]
+
+[x64] dllhost    [2096]
+
+[x64] wininit    [536]
+
+[x64] RuntimeBroker    [2488]
+
+[x64] svchost    [5932]
+
+[x64] svchost    [2304]
+
+[x64] svchost    [1712]
+
+[x64] svchost    [528]
+
+[x64] sihost    [4268]
+
+[x32] WnpwtpSMQiothMXUltXkDffKUpjQUW    [5576]
+PATH=C:\Program Files (x86)\TFKXtFZIldXnAjXXcEiibZTlNabuFSfkcaNDFhGnLHGxYX\WnpwtpSMQiothMXUltXkDffKUpjQUW.exe
+TITLE=Chrome
+
+[x64] svchost    [1704]
+
+[x64] svchost    [1900]
+
+[x64] svchost    [2288]
+
+[x64] Memory Compression    [1552]
+
+[x64] svchost    [912]
+
+[x64] ApplicationFrameHost    [5836]
+TITLE=Microsoft Edge
+
+[x64] svchost    [1404]
+
+[x64] WmiPrvSE    [3864]
+
+[x64] svchost    [1892]
+
+[x64] svchost    [2384]
+
+[x64] svchost    [5256]
+
+[x64] svchost    [2280]
+
+[x64] svchost    [2080]
+
+[x64] svchost    [3260]
+
+[x64] lsass    [696]
+
+[x64] Registry    [104]
+
+[x64] svchost    [3648]
+
+[x64] svchost    [4632]
+
+[x64] svchost    [6600]
+
+[x64] svchost    [1496]
+
+[x64] svchost    [3144]
+
+[x32] WnpwtpSMQiothMXUltXkDffKUpjQUW    [776]
+PATH=C:\Program Files (x86)\TFKXtFZIldXnAjXXcEiibZTlNabuFSfkcaNDFhGnLHGxYX\WnpwtpSMQiothMXUltXkDffKUpjQUW.exe
+TITLE=Chrome
+
+[x64] svchost    [1268]
+
+[x32] WnpwtpSMQiothMXUltXkDffKUpjQUW    [6584]
+PATH=C:\Program Files (x86)\TFKXtFZIldXnAjXXcEiibZTlNabuFSfkcaNDFhGnLHGxYX\WnpwtpSMQiothMXUltXkDffKUpjQUW.exe
+TITLE=Chrome
+
+[x64] svchost    [3700]
+
+[x32] WnpwtpSMQiothMXUltXkDffKUpjQUW    [7036]
+PATH=C:\Program Files (x86)\TFKXtFZIldXnAjXXcEiibZTlNabuFSfkcaNDFhGnLHGxYX\WnpwtpSMQiothMXUltXkDffKUpjQUW.exe
+TITLE=Chrome
+
+[x64] explorer    [5004]
+
+[x64] svchost    [3624]
+
+[x64] SgrmBroker    [4204]
+
+[x32] WnpwtpSMQiothMXUltXkDffKUpjQUW    [2440]
+PATH=C:\Program Files (x86)\TFKXtFZIldXnAjXXcEiibZTlNabuFSfkcaNDFhGnLHGxYX\WnpwtpSMQiothMXUltXkDffKUpjQUW.exe
+TITLE=Chrome
+
+[x64] spoolsv    [1060]
+
+[x64] SystemSettings    [1452]
+TITLE=Settings
+
+[x64] svchost    [2040]
+
+[x64] Windows.WARP.JITService    [4776]
+
+[x64] svchost    [1052]
+
+[x64] csrss    [460]
+
+[x64] MicrosoftEdgeCP    [6368]
+TITLE=Microsoft Edge
+
+[x64] svchost    [1144]
+
+[x64] services    [652]
+
+[x64] svchost    [1636]
+
+[x64] backgroundTaskHost    [3988]
+
+[x64] svchost    [2616]
+
+[x64] svchost    [5176]
+
+[x64] svchost    [2368]
+
+[x64] MicrosoftEdgeCP    [6356]
+TITLE=Microsoft Edge
+
+[x64] svchost    [1824]
+
+[x64] svchost    [3596]
+
+[x64] svchost    [836]
+
+[x64] winlogon    [636]
+
+[x64] svchost    [1028]
+
+[x64] svchost    [3588]
+
+[x32] WnpwtpSMQiothMXUltXkDffKUpjQUW    [5828]
+PATH=C:\Program Files (x86)\TFKXtFZIldXnAjXXcEiibZTlNabuFSfkcaNDFhGnLHGxYX\WnpwtpSMQiothMXUltXkDffKUpjQUW.exe
+TITLE=Chrome
+
+[x64] MsMpEng    [2404]
+
+[x64] svchost    [788]
+
+[x64] fontdrvhost    [1020]
+
+[x64] svchost    [2200]
+
+[x64] svchost    [2396]
+
+[x64] dwm    [424]
+
+[x64] RuntimeBroker    [5740]
+
+[x64] svchost    [4360]
+
+[x64] svchost    [2192]
+
+[x64] svchost    [3980]
+
+[x64] svchost    [1204]
+
+[x64] WmiPrvSE    [3960]
+
+[x64] svchost    [1988]
+
+[x64] svchost    [1396]
+
+[x64] svchost    [804]
+
+[x64] browser_broker    [1788]
+
+[x64] svchost    [6908]
+
+[x64] RuntimeBroker    [5524]
+
+[x64] ctfmon    [4564]
+
+[x64] System    [4]
+
+[x64] svchost    [5888]
+
+[x64] svchost    [4336]
+
+[x64] svchost    [1380]
+
+[x64] Idle    [0]
+
+

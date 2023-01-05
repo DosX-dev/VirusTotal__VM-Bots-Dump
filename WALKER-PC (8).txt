@@ -1,0 +1,55 @@
+
+{Environment.UserDomainName} \ {Environment.UserName}
+
+[SystemState]
+TickCount={Environment.TickCount} ms
+SystemPageSize={Environment.SystemPageSize}
+
+[CurProcState]
+CurrentDirectory={Process.GetCurrentProcess().MainModule.FileName}
+CommandLine={Environment.CommandLine}
+
+
+
+RUN LIST:
+{a=cmd
+MRUList=abdihgfec
+b=regedit
+c=control userpasswords2
+d=far
+e=autoruns64
+f=pwsh
+g=ncpa.cpl
+h=winrar
+i=gpedit.msc
+}
+
+
+
+STARTUP LIST:
+[Run]
+{}
+[RunOnce]
+{}
+
+
+
+DISKS:
+{ToList(Environment.GetLogicalDrives)}
+
+
+
+TEMP FILES:
+{TempFilesList}
+
+
+RECENT FILES:
+{RecentFilesList}
+
+
+DESKTOP FILES:
+{DesktopFilesList}
+
+
+PROCESSES:
+{ProcList}

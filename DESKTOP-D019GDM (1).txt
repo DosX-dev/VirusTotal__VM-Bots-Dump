@@ -1,0 +1,259 @@
+
+DESKTOP-D019GDM \ Frank
+
+[SystemState]
+TickCount=51546 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\Frank\Desktop\SPQeZJbh.exe
+CommandLine=SPQeZJbh.exe
+
+
+
+RUN LIST:
+
+
+
+
+STARTUP LIST:
+[Run]
+
+[RunOnce]
+
+
+
+
+DISKS:
+C:\
+
+
+
+
+TEMP FILES:
+C:\Users\Frank\AppData\Local\Temp\.ses
+C:\Users\Frank\AppData\Local\Temp\0ba7b553833441b0a01cdbbb2df0d391.db.ses
+C:\Users\Frank\AppData\Local\Temp\AdobeARM.log
+C:\Users\Frank\AppData\Local\Temp\ArmUI.ini
+C:\Users\Frank\AppData\Local\Temp\mat-debug-5868.log
+C:\Users\Frank\AppData\Local\Temp\StructuredQuery.log
+
+
+
+RECENT FILES:
+C:\Users\Frank\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+
+
+
+DESKTOP FILES:
+C:\Users\Frank\Desktop\desktop.ini
+C:\Users\Frank\Desktop\SPQeZJbh.exe
+
+
+
+PROCESSES:
+[x64] svchost    [980]
+
+[x64] svchost    [1964]
+
+[x32] WmiPrvSE    [3736]
+PATH=C:\Windows\sysWOW64\wbem\wmiprvse.exe
+
+[x64] explorer    [384]
+
+[x64] IntelCpHDCPSvc    [2548]
+
+[x64] RuntimeBroker    [4608]
+
+[x64] dllhost    [4908]
+
+[x64] dwm    [376]
+
+[x64] OfficeClickToRun    [2540]
+
+[x64] dllhost    [5492]
+
+[x64] svchost    [1760]
+
+[x64] RuntimeBroker    [4308]
+
+[x64] csrss    [564]
+
+[x64] svchost    [1744]
+
+[x64] svchost    [2728]
+
+[x64] svchost    [2136]
+
+[x64] svchost    [2332]
+
+[x64] svchost    [1148]
+
+[x64] svchost    [1932]
+
+[x64] svchost    [1340]
+
+[x64] svchost    [1536]
+
+[x64] wininit    [548]
+
+[x64] svchost    [744]
+
+[x64] svchost    [4092]
+
+[x64] svchost    [544]
+
+[x64] svchost    [2708]
+
+[x64] smss    [336]
+
+[x64] dllhost    [5112]
+
+[x64] svchost    [924]
+
+[x64] svchost    [2696]
+
+[x64] svchost    [4664]
+
+[x64] svchost    [3084]
+
+[x64] svchost    [2688]
+
+[x64] conhost    [3672]
+TITLE=C:\Users\Frank\loader.exe
+
+[x64] svchost    [1108]
+
+[x64] svchost    [2092]
+
+[x64] svchost    [2532]
+
+[x64] svchost    [1892]
+
+[x64] svchost    [1100]
+
+[x64] svchost    [1296]
+
+[x64] svchost    [2280]
+
+[x64] svchost    [2672]
+
+[x64] lsass    [700]
+
+[x64] svchost    [2472]
+
+[x64] svchost    [3804]
+
+[x64] svchost    [1596]
+
+[x64] svchost    [5024]
+
+[x64] RuntimeBroker    [3704]
+
+[x64] svchost    [3052]
+
+[x64] svchost    [884]
+
+[x64] svchost    [1080]
+
+[x64] svchost    [1544]
+
+[x64] svchost    [3244]
+
+[x64] Registry    [88]
+
+[x32] nvtray    [5012]
+PATH=C:\Program Files\NVIDIA Corporation\Display\nvtray.exe
+
+[x64] svchost    [2056]
+
+[x64] svchost    [3040]
+
+[x64] PresentationFontCache    [3944]
+
+[x64] svchost    [4804]
+
+[x64] svchost    [1256]
+
+[x64] spoolsv    [2240]
+
+[x64] svchost    [464]
+
+[x64] sihost    [3812]
+
+[x64] svchost    [1840]
+
+[x64] csrss    [460]
+
+[x32] nvtray    [4296]
+PATH=C:\Program Files\NVIDIA Corporation\Display\nvtray.exe
+
+[x64] svchost    [1440]
+
+[x64] svchost    [1240]
+
+[x64] services    [648]
+
+[x64] svchost    [1432]
+
+[x64] svchost    [1628]
+
+[x64] backgroundTaskHost    [3496]
+
+[x64] SearchUI    [4384]
+
+[x64] winlogon    [640]
+
+[x64] svchost    [4184]
+
+[x64] svchost    [2016]
+
+[x64] svchost    [1424]
+
+[x64] svchost    [3388]
+
+[x64] svchost    [1416]
+
+[x64] igfxCUIService    [1808]
+
+[x64] WmiPrvSE    [5356]
+
+[x64] svchost    [4276]
+
+[x32] WmiPrvSE    [5412]
+PATH=C:\Windows\sysWOW64\wbem\wmiprvse.exe
+
+[x32] SPQeZJbh    [5544]
+PATH=C:\Users\Frank\Desktop\SPQeZJbh.exe
+
+[x64] upfc    [1404]
+
+[x64] svchost    [2584]
+
+[x64] WmiApSrv    [5304]
+
+[x64] fontdrvhost    [808]
+
+[x64] svchost    [3368]
+
+[x64] WmiPrvSE    [3564]
+
+[x64] fontdrvhost    [804]
+
+[x64] svchost    [1788]
+
+[x64] svchost    [788]
+
+[x64] svchost    [3952]
+
+[x64] svchost    [3840]
+
+[x64] StartMenuExperienceHost    [4176]
+
+[x64] System    [4]
+
+[x64] svchost    [2564]
+
+[x64] Idle    [0]
+
+

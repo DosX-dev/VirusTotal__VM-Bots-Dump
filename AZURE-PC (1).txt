@@ -1,0 +1,200 @@
+
+azure-PC \ azure
+
+[SystemState]
+TickCount=237593 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\azure\Downloads\ScanProcesses.exe
+CommandLine="ScanProcesses.exe"
+
+
+
+RUN LIST:
+a=cmd
+MRUList=khjiagfedcb
+b=control userpasswords2
+c=powershell
+d=notepad
+e=c:/init.pyw
+f=inetcpl.cpl
+g=gpedit.msc
+h=c:/l.bat
+i=C:\Users\azure\AppData\Local\Temp
+j=netsh interface ip set dns "Local Area Connection 2" static 8.8.8.8
+k=c:/r.pyw 2AuUBSXteggZ8U27oxJJX7
+
+
+
+
+STARTUP LIST:
+[Run]
+
+[RunOnce]
+
+
+
+
+DISKS:
+C:\
+
+
+
+
+TEMP FILES:
+C:\Users\azure\AppData\Local\Temp\DMI8BD4.tmp
+C:\Users\azure\AppData\Local\Temp\DMIB23A.tmp
+C:\Users\azure\AppData\Local\Temp\DMIB6EE.tmp
+C:\Users\azure\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+
+
+
+RECENT FILES:
+C:\Users\azure\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+C:\Users\azure\AppData\Roaming\Microsoft\Windows\Recent\Downloads.lnk
+C:\Users\azure\AppData\Roaming\Microsoft\Windows\Recent\init.lnk
+C:\Users\azure\AppData\Roaming\Microsoft\Windows\Recent\Install-WMF5.1.lnk
+C:\Users\azure\AppData\Roaming\Microsoft\Windows\Recent\Local Disk (C).lnk
+C:\Users\azure\AppData\Roaming\Microsoft\Windows\Recent\r.lnk
+C:\Users\azure\AppData\Roaming\Microsoft\Windows\Recent\test.lnk
+C:\Users\azure\AppData\Roaming\Microsoft\Windows\Recent\Win7AndW2K8R2-KB3191566-x64 (2).lnk
+C:\Users\azure\AppData\Roaming\Microsoft\Windows\Recent\Win7AndW2K8R2-KB3191566-x64.lnk
+C:\Users\azure\AppData\Roaming\Microsoft\Windows\Recent\Windows6.1-KB3138612-x64.lnk
+C:\Users\azure\AppData\Roaming\Microsoft\Windows\Recent\wsusoffline120.lnk
+
+
+
+DESKTOP FILES:
+C:\Users\azure\Desktop\desktop.ini
+
+
+
+PROCESSES:
+[x64] conhost    [564]
+
+[x32] event-stream    [2132]
+PATH=C:\Users\azure\Downloads\event-stream.exe
+
+[x64] svchost    [1508]
+
+[x64] svchost    [884]
+
+[x32] event-stream    [972]
+PATH=C:\Users\azure\Downloads\event-stream.exe
+
+[x64] WmiPrvSE    [2840]
+
+[x64] sysmon    [2220]
+
+[x64] SearchIndexer    [1236]
+
+[x64] conhost    [320]
+
+[x64] svchost    [1968]
+
+[x64] pythonw    [2388]
+
+[x64] taskeng    [1496]
+
+[x64] conhost    [3056]
+
+[x64] svchost    [604]
+
+[x32] event-stream    [2116]
+PATH=C:\Users\azure\Downloads\event-stream.exe
+
+[x64] smss    [244]
+
+[x64] winlogon    [420]
+
+[x32] pyw    [2376]
+PATH=C:\Windows\pyw.exe
+
+[x32] event-stream    [1772]
+PATH=C:\Users\azure\Downloads\event-stream.exe
+
+[x64] wmpnetwk    [2552]
+
+[x64] SearchProtocolHost    [2640]
+
+[x64] audiodg    [948]
+
+[x64] csrss    [324]
+
+[x64] svchost    [588]
+
+[x64] conhost    [1192]
+
+[x64] frida-helper-64    [1832]
+
+[x64] WmiPrvSE    [1920]
+
+[x64] frida-helper-64    [672]
+
+[x64] dwm    [1292]
+
+[x64] conhost    [1796]
+
+[x64] svchost    [756]
+
+[x64] lsm    [488]
+
+[x64] svchost    [840]
+
+[x64] svchost    [660]
+
+[x64] lsass    [480]
+
+[x64] conhost    [2764]
+
+[x32] frida-helper-32    [2264]
+PATH=C:\Users\azure\AppData\Local\Temp\frida-225f62d89bb3c0fce6b77f9dffb38de7\frida-helper-32.exe
+
+[x64] unsecapp    [1556]
+
+[x32] event-stream    [2140]
+PATH=C:\Users\azure\Downloads\event-stream.exe
+
+[x64] spoolsv    [1084]
+
+[x64] conhost    [2520]
+
+[x64] csrss    [380]
+
+[x32] event-stream    [2788]
+PATH=C:\Users\azure\Downloads\event-stream.exe
+
+[x64] services    [464]
+
+[x32] event-stream    [1976]
+PATH=C:\Users\azure\Downloads\event-stream.exe
+
+[x64] explorer    [1352]
+
+[x64] wininit    [372]
+
+[x64] SearchProtocolHost    [2432]
+
+[x64] svchost    [992]
+
+[x64] conhost    [368]
+
+[x64] svchost    [1196]
+
+[x64] taskhost    [1256]
+
+[x64] svchost    [1432]
+
+[x32] ScanProcesses    [2612]
+PATH=C:\Users\azure\Downloads\ScanProcesses.exe
+
+[x64] SearchFilterHost    [2460]
+
+[x64] System    [4]
+
+[x64] svchost    [804]
+
+[x64] Idle    [0]
+
+

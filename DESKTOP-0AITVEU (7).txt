@@ -1,0 +1,708 @@
+
+DESKTOP-0AITVEU \ User
+
+[SystemState]
+TickCount=254516671 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\User\Downloads\Telegram Desktop\ScanProcesses (2).exe
+CommandLine="C:\Users\User\Downloads\Telegram Desktop\ScanProcesses (2).exe" 
+
+
+
+RUN LIST:
+
+
+
+
+STARTUP LIST:
+[Run]
+MicrosoftEdgeAutoLaunch_C46CFC0629905CC775E70B50EA8A519C="C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5
+Steam="C:\Program Files (x86)\Steam\steam.exe" -silent
+Discord=C:\Users\User\AppData\Local\Discord\Update.exe --processStart Discord.exe
+
+[RunOnce]
+
+
+
+
+DISKS:
+C:\
+D:\
+E:\
+F:\
+G:\
+
+
+
+
+TEMP FILES:
+C:\Users\User\AppData\Local\Temp\.ses
+C:\Users\User\AppData\Local\Temp\1148524a-ae43-41ca-9083-a4655228b5f0.tmp
+C:\Users\User\AppData\Local\Temp\1c6da578-2fd6-4101-8fef-a8a05fba8d96.tmp
+C:\Users\User\AppData\Local\Temp\1f32dfd9-2cf2-4a5e-aa7b-1bc80c0ea360.tmp
+C:\Users\User\AppData\Local\Temp\33d9a897-3d19-465a-b80e-509759430c98.tmp
+C:\Users\User\AppData\Local\Temp\3b63d02c-6bdf-4732-ae95-00b8b72afe12.tmp
+C:\Users\User\AppData\Local\Temp\4506e519-ffb0-4da5-85a8-e67c7c5132fb.tmp.node
+C:\Users\User\AppData\Local\Temp\4b175725c2ff882687af7bd9021d5f63-{87A94AB0-E370-4cde-98D3-ACC110C5967D}
+C:\Users\User\AppData\Local\Temp\4b26a9b6-2eac-4bbe-92ec-6f12cfb806bb.tmp
+C:\Users\User\AppData\Local\Temp\5d5217d6-538d-4775-9847-64eb8c1b5791.tmp.node
+C:\Users\User\AppData\Local\Temp\5d599c1e-0832-4948-96fb-8dd78a35cc73.tmp
+C:\Users\User\AppData\Local\Temp\764ddac7-45d4-4588-a629-1b49372d80b0.tmp
+C:\Users\User\AppData\Local\Temp\76f3848b-cae1-4a05-a9be-16ce3121fd23.tmp
+C:\Users\User\AppData\Local\Temp\7e59fcb4-cb5c-431a-860b-a6eface9b46d.tmp
+C:\Users\User\AppData\Local\Temp\895a268b-857d-4da5-a651-995fd8875965.tmp
+C:\Users\User\AppData\Local\Temp\8d1e6ae4-bd36-4876-8860-d6a4da9b6f07.tmp
+C:\Users\User\AppData\Local\Temp\9ecf9784-87f8-437d-93c2-41564d6406b5.tmp
+C:\Users\User\AppData\Local\Temp\aria-debug-3780.log
+C:\Users\User\AppData\Local\Temp\aria-debug-772.log
+C:\Users\User\AppData\Local\Temp\aria-debug-8680.log
+C:\Users\User\AppData\Local\Temp\BITE749.tmp
+C:\Users\User\AppData\Local\Temp\chrome_installer.log
+C:\Users\User\AppData\Local\Temp\chromium_installer.log
+C:\Users\User\AppData\Local\Temp\d02a7bfb-8a3c-445c-8ab0-5fc50a2a3b17.tmp
+C:\Users\User\AppData\Local\Temp\dad099ad-d1fe-48b7-a1be-9c3a170f5356.tmp.node
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20221231135815.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20221231135815_result_UpdateCheckOnlyFailure.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105003629.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105003629_result_Success.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105012544.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134447.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134501.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134501_00_setup.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134501_00_setup_errors.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134501_result_Cancel.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134956.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134956_result_Success.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105135009.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105135009_00_setup.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105135009_00_setup_errors.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105135009_result_Success.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105135345.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105135854.log
+C:\Users\User\AppData\Local\Temp\dd_vcredist_amd64_20230103180847.log
+C:\Users\User\AppData\Local\Temp\DESKTOP-0AITVEU-20221231-1454.log
+C:\Users\User\AppData\Local\Temp\DESKTOP-0AITVEU-20230101-1502.log
+C:\Users\User\AppData\Local\Temp\DESKTOP-0AITVEU-20230102-1512.log
+C:\Users\User\AppData\Local\Temp\DESKTOP-0AITVEU-20230102-1635.log
+C:\Users\User\AppData\Local\Temp\e6a9de57-145e-4147-8c8e-5b2cd1304e24.tmp
+C:\Users\User\AppData\Local\Temp\GoogleUpdate.exe127807
+C:\Users\User\AppData\Local\Temp\goopdate.dll127816
+C:\Users\User\AppData\Local\Temp\Insecure-EV.cer
+C:\Users\User\AppData\Local\Temp\Insecure-SHA1.cer
+C:\Users\User\AppData\Local\Temp\jgVfHraUshKjPaGSDFCb.pdb
+C:\Users\User\AppData\Local\Temp\nijmooHAxxunqJyZzbjy.pdb
+C:\Users\User\AppData\Local\Temp\qtsingleapp-dsassi-1a3b-3-lockfile
+C:\Users\User\AppData\Local\Temp\qtsingleapp-dsassi-1a3b-6-lockfile
+C:\Users\User\AppData\Local\Temp\tmp23EF.tmp
+C:\Users\User\AppData\Local\Temp\tmp23F0.tmp
+C:\Users\User\AppData\Local\Temp\tmp23F1.tmp
+C:\Users\User\AppData\Local\Temp\tmp23F2.tmp
+C:\Users\User\AppData\Local\Temp\tmp2403.tmp
+C:\Users\User\AppData\Local\Temp\tmp2404.tmp
+C:\Users\User\AppData\Local\Temp\tmp2405.tmp
+C:\Users\User\AppData\Local\Temp\tmp2463.tmp
+C:\Users\User\AppData\Local\Temp\tmp2F9D.tmp
+C:\Users\User\AppData\Local\Temp\tmp2F9E.tmp
+C:\Users\User\AppData\Local\Temp\tmp2FAF.tmp
+C:\Users\User\AppData\Local\Temp\tmp2FB0.tmp
+C:\Users\User\AppData\Local\Temp\tmp2FB1.tmp
+C:\Users\User\AppData\Local\Temp\tmp2FB2.tmp
+C:\Users\User\AppData\Local\Temp\tmp2FB3.tmp
+C:\Users\User\AppData\Local\Temp\tmp3021.tmp
+C:\Users\User\AppData\Local\Temp\tmp70D0.tmp
+C:\Users\User\AppData\Local\Temp\tmp70E1.tmp
+C:\Users\User\AppData\Local\Temp\tmp70F1.tmp
+C:\Users\User\AppData\Local\Temp\tmp70F2.tmp
+C:\Users\User\AppData\Local\Temp\tmp70F3.tmp
+C:\Users\User\AppData\Local\Temp\tmp70F4.tmp
+C:\Users\User\AppData\Local\Temp\tmp70F5.tmp
+C:\Users\User\AppData\Local\Temp\tmp71A2.tmp
+C:\Users\User\AppData\Local\Temp\tmp83F2.tmp
+C:\Users\User\AppData\Local\Temp\tmp8402.tmp
+C:\Users\User\AppData\Local\Temp\tmp8403.tmp
+C:\Users\User\AppData\Local\Temp\tmp8404.tmp
+C:\Users\User\AppData\Local\Temp\tmp8405.tmp
+C:\Users\User\AppData\Local\Temp\tmp8406.tmp
+C:\Users\User\AppData\Local\Temp\tmp8407.tmp
+C:\Users\User\AppData\Local\Temp\tmp8466.tmp
+C:\Users\User\AppData\Local\Temp\tmpCF96.tmp
+C:\Users\User\AppData\Local\Temp\tmpCF97.tmp
+C:\Users\User\AppData\Local\Temp\tmpCF98.tmp
+C:\Users\User\AppData\Local\Temp\tmpCF99.tmp
+C:\Users\User\AppData\Local\Temp\tmpCF9A.tmp
+C:\Users\User\AppData\Local\Temp\tmpCF9B.tmp
+C:\Users\User\AppData\Local\Temp\tmpCFAC.tmp
+C:\Users\User\AppData\Local\Temp\tmpCFCC.tmp
+C:\Users\User\AppData\Local\Temp\tmpEEEA.tmp
+C:\Users\User\AppData\Local\Temp\tmpEEEB.tmp
+C:\Users\User\AppData\Local\Temp\tmpEEEC.tmp
+C:\Users\User\AppData\Local\Temp\tmpEEFD.tmp
+C:\Users\User\AppData\Local\Temp\tmpEEFE.tmp
+C:\Users\User\AppData\Local\Temp\tmpEEFF.tmp
+C:\Users\User\AppData\Local\Temp\tmpEF00.tmp
+C:\Users\User\AppData\Local\Temp\tmpEF6E.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE3C.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE4D.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE4E.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE4F.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE50.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE51.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE52.tmp
+C:\Users\User\AppData\Local\Temp\tmpFEB1.tmp
+C:\Users\User\AppData\Local\Temp\wct6EAE.tmp
+C:\Users\User\AppData\Local\Temp\wct6EAF.tmp
+C:\Users\User\AppData\Local\Temp\wct722A.tmp
+C:\Users\User\AppData\Local\Temp\wct8D52.tmp
+C:\Users\User\AppData\Local\Temp\wctE739.tmp
+C:\Users\User\AppData\Local\Temp\wsu203A.tmp
+C:\Users\User\AppData\Local\Temp\wsu2098.tmp
+C:\Users\User\AppData\Local\Temp\wsu2CBF.tmp
+C:\Users\User\AppData\Local\Temp\wsu2D1D.tmp
+C:\Users\User\AppData\Local\Temp\wsu2D8C.tmp
+C:\Users\User\AppData\Local\Temp\wsu3952.tmp
+C:\Users\User\AppData\Local\Temp\wsu3AF9.tmp
+C:\Users\User\AppData\Local\Temp\wsu40BB.tmp
+C:\Users\User\AppData\Local\Temp\wsuB016.tmp
+C:\Users\User\AppData\Local\Temp\zenmap-9ypft3.xml
+C:\Users\User\AppData\Local\Temp\Отчет20221229-0129.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20221229-0147.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20221231-1506.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230102-2349.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230103-0008.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230103-2141.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230103-2348.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230104-1810 (2).diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230104-1940.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230104-2227.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230105-1455.diagsession
+
+
+
+RECENT FILES:
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+
+
+
+DESKTOP FILES:
+C:\Users\User\Desktop\aida64 — ярлык.lnk
+C:\Users\User\Desktop\backup.bat
+C:\Users\User\Desktop\Cisco Packet Tracer.lnk
+C:\Users\User\Desktop\desktop.ini
+C:\Users\User\Desktop\die — ярлык.lnk
+C:\Users\User\Desktop\Discord.lnk
+C:\Users\User\Desktop\dnSpy32.lnk
+C:\Users\User\Desktop\dnSpy64.lnk
+C:\Users\User\Desktop\Dota 2.url
+C:\Users\User\Desktop\DWS.log
+C:\Users\User\Desktop\DWS_Lite.exe
+C:\Users\User\Desktop\ExtremeDumper-x86.exe
+C:\Users\User\Desktop\ExtremeDumper.exe
+C:\Users\User\Desktop\Geometry Dash.url
+C:\Users\User\Desktop\ida — ярлык.lnk
+C:\Users\User\Desktop\ida64 — ярлык.lnk
+C:\Users\User\Desktop\NETReactorSlayer — ярлык.lnk
+C:\Users\User\Desktop\Nmap - Zenmap GUI.lnk
+C:\Users\User\Desktop\People Playground.url
+C:\Users\User\Desktop\reactor.exe
+C:\Users\User\Desktop\SynoTest.txt
+C:\Users\User\Desktop\Telegram.lnk
+C:\Users\User\Desktop\ToxicSlivator.exe
+C:\Users\User\Desktop\Visual Studio 2022.lnk
+C:\Users\User\Desktop\x32dbg.lnk
+C:\Users\User\Desktop\x64dbg.lnk
+
+
+
+PROCESSES:
+[x64] msedge    [9912]
+
+[x64] Memory Compression    [2152]
+
+[x64] svchost    [1720]
+
+[x64] SearchFilterHost    [8184]
+
+[x64] WebViewHost    [13328]
+
+[x32] ServiceHub.IdentityHost    [17664]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe
+
+[x64] SystemSettingsBroker    [14644]
+
+[x64] taskhostw    [10964]
+
+[x64] MusNotifyIcon    [2572]
+
+[x64] SearchApp    [12052]
+
+[x64] ServiceHub.TestWindowStoreHost    [17196]
+
+[x64] steamwebhelper    [4720]
+
+[x64] igfxCUIService    [2128]
+
+[x64] svchost    [7820]
+
+[x64] svchost    [1260]
+
+[x64] svchost    [2552]
+
+[x64] LockApp    [10740]
+
+[x64] VBoxNetDHCP    [13756]
+
+[x64] svchost    [9876]
+
+[x64] smss    [392]
+
+[x64] igfxHK    [3404]
+
+[x64] svchost    [2968]
+
+[x64] dasHost    [7708]
+
+[x64] svchost    [1672]
+
+[x64] svchost    [9544]
+
+[x64] svchost    [2100]
+
+[x64] steamwebhelper    [12012]
+
+[x64] svchost    [2960]
+
+[x64] svchost    [3388]
+
+[x64] WUDFHost    [15156]
+
+[x64] RuntimeBroker    [5540]
+
+[x64] brave    [12688]
+
+[x64] svchost    [4676]
+
+[x64] VBoxSDS    [14156]
+
+[x64] svchost    [3380]
+
+[x64] svchost    [2084]
+
+[x64] brave    [18460]
+
+[x64] ServiceHub.IntellicodeModelService    [2512]
+
+[x32] ServiceHub.Host.netfx.x86    [14576]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe
+
+[x64] msedgewebview2    [13764]
+
+[x64] svchost    [1212]
+
+[x64] svchost    [2504]
+
+[x64] msedgewebview2    [7488]
+
+[x64] svchost    [11120]
+
+[x64] RuntimeBroker    [8964]
+
+[x64] svchost    [5944]
+
+[x64] valWBFPolicyService    [3788]
+
+[x64] svchost    [1632]
+
+[x64] svchost    [5488]
+
+[x64] fpCSEvtSvc    [3780]
+
+[x64] steamwebhelper    [3348]
+
+[x64] svchost    [13260]
+
+[x64] services    [760]
+
+[x64] svchost    [5928]
+
+[x64] svchost    [3340]
+
+[x64] steamwebhelper    [2908]
+
+[x64] msedgewebview2    [16268]
+
+[x64] svchost    [3768]
+
+[x64] taskhostw    [15404]
+
+[x64] msedgewebview2    [4944]
+
+[x32] steam    [7212]
+PATH=C:\Program Files (x86)\Steam\Steam.exe
+
+[x64] spoolsv    [3332]
+
+[x64] svchost    [2468]
+
+[x64] svchost    [5384]
+
+[x64] msedgewebview2    [2896]
+
+[x64] svchost    [1664]
+
+[x64] svchost    [3752]
+
+[x32] ScanProcesses (2)    [8492]
+PATH=C:\Users\User\Downloads\Telegram Desktop\ScanProcesses (2).exe
+
+[x64] CalculatorApp    [11076]
+TITLE=Калькулятор
+
+[x64] brave    [13812]
+
+[x64] UserOOBEBroker    [1160]
+
+[x64] cmd    [5808]
+TITLE=C:\Windows\system32\cmd.exe
+
+[x64] svchost    [2016]
+
+[x64] msedge    [1152]
+
+[x64] brave    [1148]
+TITLE=БРАТИШКИН СМОТРИТ ВЕБМЫ ТИК ТОК (45 часть) - YouTube – Brave
+
+[x64] msedgewebview2    [2440]
+
+[x64] SynTPHelper    [3300]
+
+[x64] VirtualBox    [4160]
+TITLE=Oracle VM VirtualBox Менеджер
+
+[x64] svchost    [6312]
+
+[x64] svchost    [2432]
+
+[x64] ServiceHub.VSDetouredHost    [15884]
+
+[x64] VirtualBoxVM    [8000]
+TITLE=Synology [Работает] - Oracle VM VirtualBox
+
+[x64] devenv    [14308]
+TITLE=ScanProcesses - Microsoft Visual Studio
+
+[x64] svchost    [1564]
+
+[x64] PerfWatson2    [3716]
+
+[x64] svchost    [3284]
+
+[x64] svchost    [2852]
+
+[x64] svchost    [1988]
+
+[x64] svchost    [2848]
+
+[x64] conhost    [13188]
+
+[x64] steamwebhelper    [4564]
+
+[x64] svchost    [1544]
+
+[x64] svchost    [4128]
+
+[x64] taskhostw    [9724]
+
+[x64] svchost    [5504]
+
+[x64] ctfmon    [7140]
+
+[x64] RuntimeBroker    [4552]
+
+[x64] svchost    [4120]
+
+[x64] svchost    [2824]
+
+[x64] ServiceHub.SettingsHost    [16184]
+
+[x64] svchost    [3684]
+
+[x64] svchost    [18088]
+
+[x64] ServiceHub.DataWarehouseHost    [11720]
+
+[x64] svchost    [9284]
+
+[x64] msedge    [1092]
+
+[x64] svchost    [3676]
+
+[x64] msedgewebview2    [18328]
+
+[x64] brave    [7552]
+
+[x64] svchost    [3668]
+
+[x64] msedgewebview2    [5168]
+
+[x64] VirtualBoxVM    [7004]
+
+[x64] svchost    [1940]
+
+[x64] Microsoft.ServiceHub.Controller    [4956]
+
+[x64] SystemSettings    [9264]
+TITLE=Параметры
+
+[x64] svchost    [3660]
+
+[x64] svchost    [3228]
+
+[x64] RuntimeBroker    [10984]
+
+[x64] Taskmgr    [18308]
+TITLE=Диспетчер задач
+
+[x64] ServiceHub.VSDetouredHost    [13092]
+
+[x64] svchost    [1928]
+
+[x64] msedgewebview2    [6668]
+
+[x64] igfxTray    [12700]
+
+[x64] brave    [14780]
+
+[x64] svchost    [1920]
+
+[x64] steamwebhelper    [6228]
+
+[x64] msedgewebview2    [17236]
+
+[x64] VBoxNetDHCP    [1916]
+
+[x64] svchost    [2776]
+
+[x64] wininit    [620]
+
+[x64] Telegram    [11824]
+TITLE=Telegram (20)
+
+[x64] audiodg    [3952]
+
+[x64] PerfWatson2    [2600]
+
+[x64] SgrmBroker    [8372]
+
+[x32] ServiceHub.IdentityHost    [2336]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe
+
+[x64] brave    [17420]
+
+[x64] winlogon    [10952]
+
+[x64] SynTPEnh    [7236]
+
+[x64] VBoxNetDHCP    [9224]
+
+[x32] ServiceHub.Host.netfx.x86    [3620]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe
+
+[x64] ServiceHub.IndexingService    [7928]
+
+[x64] ServiceHub.Host.AnyCPU    [13724]
+
+[x64] timeout    [8332]
+
+[x64] svchost    [2320]
+
+[x64] msedge    [6628]
+
+[x64] devenv    [6196]
+TITLE=ComfortDSM - Microsoft Visual Studio
+
+[x64] msedgewebview2    [12660]
+
+[x64] svchost    [3176]
+
+[x64] svchost    [4036]
+
+[x64] msedgewebview2    [10928]
+
+[x64] svchost    [1876]
+
+[x64] svchost    [1444]
+
+[x64] svchost    [7476]
+
+[x64] RuntimeBroker    [7044]
+
+[x64] svchost    [3164]
+
+[x64] svchost    [3160]
+
+[x64] WebViewHost    [5744]
+
+[x64] msedgewebview2    [3588]
+
+[x64] SearchProtocolHost    [16516]
+
+[x64] explorer    [4900]
+
+[x64] brave    [18264]
+
+[x64] ServiceHub.Host.AnyCPU    [9176]
+
+[x64] svchost    [1416]
+
+[x64] brave    [3568]
+
+[x64] msedgewebview2    [3996]
+
+[x64] dllhost    [10028]
+
+[x64] ServiceHub.RoslynCodeAnalysisService    [7440]
+
+[x64] fontdrvhost    [972]
+
+[x64] RuntimeBroker    [9160]
+
+[x64] svchost    [3556]
+
+[x64] steamwebhelper    [4848]
+
+[x64] csrss    [7000]
+
+[x64] ServiceHub.Host.dotnet.x64    [7336]
+
+[x64] svchost    [2256]
+
+[x64] Registry    [100]
+
+[x64] ServiceHub.Host.dotnet.x64    [920]
+
+[x64] svchost    [2684]
+
+[x64] brave    [10008]
+
+[x64] brave    [16472]
+
+[x64] svchost    [2248]
+
+[x64] ServiceHub.TestWindowStoreHost    [10004]
+
+[x64] WUDFHost    [952]
+
+[x64] ServiceHub.ThreadedWaitDialog    [17880]
+
+[x64] sihost    [6552]
+
+[x64] ServiceHub.IndexingService    [9136]
+
+[x64] svchost    [1376]
+
+[x64] RuntimeBroker    [13012]
+
+[x64] svchost    [1804]
+
+[x64] ServiceHub.SettingsHost    [15164]
+
+[x64] ShellExperienceHost    [3956]
+
+[x64] dasHost    [3524]
+
+[x64] csrss    [504]
+
+[x64] steamservice    [11708]
+
+[x64] svchost    [500]
+
+[x64] dwm    [12068]
+
+[x64] ServiceHub.IntellicodeModelService    [6084]
+
+[x64] msedgewebview2    [18588]
+
+[x64] msedgewebview2    [13424]
+
+[x64] svchost    [924]
+
+[x64] fontdrvhost    [9540]
+
+[x64] igfxEM    [8676]
+
+[x64] ServiceHub.RoslynCodeAnalysisService    [6520]
+
+[x64] StartMenuExperienceHost    [9024]
+
+[x64] svchost    [6516]
+
+[x64] svchost    [16428]
+
+[x64] VirtualBoxVM    [3352]
+
+[x64] ServiceHub.ThreadedWaitDialog    [5012]
+
+[x64] brave    [7260]
+
+[x64] ApplicationFrameHost    [7796]
+TITLE=Параметры
+
+[x64] ServiceHub.Host.dotnet.x64    [14260]
+
+[x64] svchost    [1244]
+
+[x64] svchost    [1328]
+
+[x64] svchost    [2620]
+
+[x64] brave    [16408]
+
+[x64] rundll32    [5632]
+
+[x64] ServiceHub.DataWarehouseHost    [17696]
+
+[x64] msedge    [6492]
+
+[x64] Microsoft.ServiceHub.Controller    [16404]
+
+[x64] BtwRSupportService    [3904]
+
+[x64] brave    [9936]
+
+[x64] svchost    [6056]
+
+[x64] SearchIndexer    [7348]
+
+[x64] svchost    [5192]
+
+[x64] brave    [15104]
+
+[x64] SynTPEnhService    [3896]
+
+[x64] svchost    [8636]
+
+[x64] svchost    [6048]
+
+[x64] PaintStudio.View    [5616]
+TITLE=Paint 3D
+
+[x64] TextInputHost    [5184]
+TITLE=Microsoft Text Input Application
+
+[x64] lsass    [780]
+
+[x64] svchost    [8924]
+
+[x64] svchost    [868]
+
+[x64] svchost    [5608]
+
+[x64] System    [4]
+
+[x64] VBoxSVC    [14008]
+
+[x64] Idle    [0]
+
+

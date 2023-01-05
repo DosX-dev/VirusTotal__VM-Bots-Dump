@@ -1,0 +1,880 @@
+
+DOSX-PROGRAMMER \ User
+
+[SystemState]
+TickCount=423675500 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\User\source\repos\ScanProcesses\bin\Release\ScanProcesses.exe
+CommandLine="C:\Users\User\source\repos\ScanProcesses\bin\Release\ScanProcesses.exe" 
+
+
+
+RUN LIST:
+a=cmd
+MRUList=volcgquadjbkpwsxfnyzmhrite
+b=ka telegram
+c=regedit
+d=mspaint
+e=ka dnspy
+f=%appdata%\.minecraft
+g=%USERPROFILE%\AppData\Local\DBG
+h=re
+i=%appdata%\dnSpy\
+j=tg://
+k=ka everything
+l=notepad
+m=gpedit.msc
+n=ka Minecraft.Windows.exe
+o=msconfig
+p=ka AVDB-Checker
+q=%temp%
+r=ka local_1.exe-ec-vanillapoly
+s=calc
+t=ka detectdn
+u=%appdata%
+v="C:\Users\User\source\repos\ScanProcesses\bin\Release\ScanProcesses.exe"
+w=ka questfile
+x=ka ins2
+y=ka Windows.Minecraft.exe
+z=ka TestBuild
+
+
+
+
+STARTUP LIST:
+[Run]
+=C:\Users\User\source\repos\ExeCrypt\file.exe_EC-VanillaPoly.exe
+MicrosoftEdgeAutoLaunch_C46CFC0629905CC775E70B50EA8A519C="C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5
+WiMAX SDK service for Intel(R) PROSet/Wireless WiMAX Software="C:\Users\User\AppData\Local\Temp\9766.exe"
+
+[RunOnce]
+WiMAX SDK service for Intel(R) PROSet/Wireless WiMAX Software="C:\Users\User\AppData\Local\Temp\9766.exe"
+=C:\Users\User\source\repos\ExeCrypt\file.exe_EC-VanillaPoly.exe
+
+
+
+
+DISKS:
+C:\
+D:\
+E:\
+V:\
+
+
+
+
+TEMP FILES:
+C:\Users\User\AppData\Local\Temp\.NETFramework,Version=v4.7.2.AssemblyAttributes.vb
+C:\Users\User\AppData\Local\Temp\.ses
+C:\Users\User\AppData\Local\Temp\01004087.dmp
+C:\Users\User\AppData\Local\Temp\0187073f-0a44-436e-ad26-fc696f5e2679.tmp
+C:\Users\User\AppData\Local\Temp\0be54c7d-3afa-4484-b392-4cc14f75d9f5.tmp
+C:\Users\User\AppData\Local\Temp\0e5556ab-eae6-4a60-b823-892541bb0acc.tmp
+C:\Users\User\AppData\Local\Temp\140a8a52-4fdd-4243-8484-67541217043b.tmp
+C:\Users\User\AppData\Local\Temp\198cf4bc-3cde-4e28-9d57-fcddd44ffec5.tmp
+C:\Users\User\AppData\Local\Temp\1d0e5ef0-400d-420c-82eb-88e2c035a1d6.tmp
+C:\Users\User\AppData\Local\Temp\2ab47ddf-1f06-44e4-9080-b37fd8d835f3.tmp
+C:\Users\User\AppData\Local\Temp\2b1cde31-b1f7-4660-8621-465a13845b5d.tmp
+C:\Users\User\AppData\Local\Temp\2f7133c4-b8f2-43dc-b321-03c5d2f56aad.dll
+C:\Users\User\AppData\Local\Temp\39d0aae6-d13d-4e15-8751-8d416211e09c.tmp
+C:\Users\User\AppData\Local\Temp\3e1ac5f8-1e7d-4984-800d-492366067e5b.dll
+C:\Users\User\AppData\Local\Temp\44fc084f-7d7f-45a8-af04-80f276c1d7fa.tmp
+C:\Users\User\AppData\Local\Temp\4a50458f-fafa-43c5-baae-0f1cd6883cd3.tmp
+C:\Users\User\AppData\Local\Temp\546f58dc-ea19-4bb0-9a51-45d29f7169aa.tmp
+C:\Users\User\AppData\Local\Temp\5a610c8a-3f4c-4f6b-a0e6-a62638b5aac6.tmp
+C:\Users\User\AppData\Local\Temp\5ff01063-2d43-43f8-a7bd-0c1f25e5c7a3.tmp
+C:\Users\User\AppData\Local\Temp\6208dcb6daa71eadc95a40e9b117adde-{87A94AB0-E370-4cde-98D3-ACC110C5967D}
+C:\Users\User\AppData\Local\Temp\6cd2c5ee-67f9-48c4-bf61-82a669c86a1c.tmp
+C:\Users\User\AppData\Local\Temp\78a1d844-b669-4490-a83e-f128472fdd7b.tmp
+C:\Users\User\AppData\Local\Temp\78dddfb4-2712-4139-9cd3-b7d9da91d4bd.tmp
+C:\Users\User\AppData\Local\Temp\7d22760b-0511-4c7c-9904-d2834b276ef2.tmp
+C:\Users\User\AppData\Local\Temp\874d2a93-7957-4089-a33a-a196377cce28.dll
+C:\Users\User\AppData\Local\Temp\8851514e-2b27-4b99-a9d4-bf9993814797.tmp
+C:\Users\User\AppData\Local\Temp\96297d6b-61fa-4e2a-9420-03690a2c3948.tmp
+C:\Users\User\AppData\Local\Temp\9766.exe
+C:\Users\User\AppData\Local\Temp\991cf78b-00eb-4693-b537-7ca3e661d41a.tmp
+C:\Users\User\AppData\Local\Temp\a.exe
+C:\Users\User\AppData\Local\Temp\a1109d89-f249-4ecb-944d-94102b99172d.tmp
+C:\Users\User\AppData\Local\Temp\aecb4a25-863d-460c-88e3-8b5cc6259eae.tmp
+C:\Users\User\AppData\Local\Temp\b94b6cb1-62b8-49f6-8716-cebd7c596b4e.tmp
+C:\Users\User\AppData\Local\Temp\BVQmuXNxyzbXJNqtnqDf.pdb
+C:\Users\User\AppData\Local\Temp\c69771e8-5eb9-4eae-8eca-6c9277abfea5.tmp
+C:\Users\User\AppData\Local\Temp\ca0419f3-0fed-4cb5-8917-76b2617fcd40.tmp
+C:\Users\User\AppData\Local\Temp\cv_debug.log
+C:\Users\User\AppData\Local\Temp\d5bf2220106b3d9318c9390fbe0d3a84-{87A94AB0-E370-4cde-98D3-ACC110C5967D}
+C:\Users\User\AppData\Local\Temp\d75762e6-fb96-4435-890e-a61125eb91ea.tmp
+C:\Users\User\AppData\Local\Temp\d8caa4e0-e694-44e1-9817-a0f32ffaee53.tmp
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105121333.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105121333_result_Success.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105151341.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105151341_result_Success.log
+C:\Users\User\AppData\Local\Temp\e1acbef9-6fd6-4220-b71e-b46c06f02cd7.tmp
+C:\Users\User\AppData\Local\Temp\e3714aff-f83a-4eb6-a01a-df1bbac67405.tmp
+C:\Users\User\AppData\Local\Temp\iENWeZasxjLlbosNCEro.pdb
+C:\Users\User\AppData\Local\Temp\INS_1d0f232c.TMP
+C:\Users\User\AppData\Local\Temp\INS_327b0467.TMP
+C:\Users\User\AppData\Local\Temp\INS_5b0f7c15.TMP
+C:\Users\User\AppData\Local\Temp\INS_5f384135.TMP
+C:\Users\User\AppData\Local\Temp\INS_66ae2940.TMP
+C:\Users\User\AppData\Local\Temp\INS_83d1bc6f.TMP
+C:\Users\User\AppData\Local\Temp\INS_b76c840f.TMP
+C:\Users\User\AppData\Local\Temp\INS_b7c3c0d8.TMP
+C:\Users\User\AppData\Local\Temp\INS_c7f6dcf.TMP
+C:\Users\User\AppData\Local\Temp\LUhxEzRlkFKdFGnASwVP.pdb
+C:\Users\User\AppData\Local\Temp\LyLEeCCayLbAYeJPnCgC.pdb
+C:\Users\User\AppData\Local\Temp\MicrosoftEdgeUpdate.log
+C:\Users\User\AppData\Local\Temp\mpr1272.tmp
+C:\Users\User\AppData\Local\Temp\mpr1984.tmp
+C:\Users\User\AppData\Local\Temp\mpr2BEF.tmp
+C:\Users\User\AppData\Local\Temp\mpr49ED.tmp
+C:\Users\User\AppData\Local\Temp\mpr59A5.tmp
+C:\Users\User\AppData\Local\Temp\mpr65A4.tmp
+C:\Users\User\AppData\Local\Temp\mpr7EED.tmp
+C:\Users\User\AppData\Local\Temp\mpr86A2.tmp
+C:\Users\User\AppData\Local\Temp\mpr90BF.tmp
+C:\Users\User\AppData\Local\Temp\mprA0CE.tmp
+C:\Users\User\AppData\Local\Temp\mprB364.tmp
+C:\Users\User\AppData\Local\Temp\mprB7DB.tmp
+C:\Users\User\AppData\Local\Temp\mprBA1D.tmp
+C:\Users\User\AppData\Local\Temp\mprBB6A.tmp
+C:\Users\User\AppData\Local\Temp\mprBE70.tmp
+C:\Users\User\AppData\Local\Temp\mprCA5C.tmp
+C:\Users\User\AppData\Local\Temp\mprCB1F.tmp
+C:\Users\User\AppData\Local\Temp\NvTelemetryAPI64.dll.16.15.11.0{387EB2BC-36FA-4F99-8D72-EE45830303D6}
+C:\Users\User\AppData\Local\Temp\p2p-sdk.dll
+C:\Users\User\AppData\Local\Temp\QWCPpBWmkbNvLlCmpjJB.pdb
+C:\Users\User\AppData\Local\Temp\RV.IL
+C:\Users\User\AppData\Local\Temp\srvc32.exe
+C:\Users\User\AppData\Local\Temp\StructuredQuery.log
+C:\Users\User\AppData\Local\Temp\test.exe
+C:\Users\User\AppData\Local\Temp\TFR7C99.tmp
+C:\Users\User\AppData\Local\Temp\TFRD4D7.tmp
+C:\Users\User\AppData\Local\Temp\TFRDE51.tmp
+C:\Users\User\AppData\Local\Temp\User.bmp
+C:\Users\User\AppData\Local\Temp\vmp744.tmp
+C:\Users\User\AppData\Local\Temp\vmp7AA1.tmp
+C:\Users\User\AppData\Local\Temp\wct220C.tmp
+C:\Users\User\AppData\Local\Temp\WsYCcNmwhvirJtuaDgJw.pdb
+C:\Users\User\AppData\Local\Temp\~3788302126.tmp
+C:\Users\User\AppData\Local\Temp\Отчет20221231-2330.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230101-2352.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230104-1959 (2).diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230105-1717.diagsession
+
+
+
+RECENT FILES:
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\2023-01-04 19-36-06.mp4.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\226546.txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\928100.txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\CA.zip.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-17T4B1O (20).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-17T4B1O (30).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-17T4B1O (31).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-17T4B1O (32).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-17T4B1O (33).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-17T4B1O (34).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-17T4B1O (35).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-17T4B1O (36).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-17T4B1O (39).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-17T4B1O (46).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-17T4B1O (68).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-17T4B1O (74).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-ILESRMD.txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-J2NCJI1 (2).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\DESKTOP-TC1DONV.txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\Downloads.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\loader.vb.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\lockw.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\Main.vb.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\NativeCryptor.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\NativeCryptor.sln.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\Release.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\Telegram Desktop.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\VitusTotalFucker.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\VitusTotalFucker.sln.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\WIN-2HFRQI9G8YM (2).txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\WIN-50VFVLGOG7X.txt.lnk
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\WIN-FFS7A9MILWL.txt.lnk
+
+
+
+DESKTOP FILES:
+C:\Users\User\Desktop\1637874349_1-gamerwall-pro-p-oboi-minimalizm-programmirovanie-oboi-na-r-1.jpg
+C:\Users\User\Desktop\desktop.ini
+C:\Users\User\Desktop\pic.png
+C:\Users\User\Desktop\Portal with RTX.url
+C:\Users\User\Desktop\Portal.url
+C:\Users\User\Desktop\Theme Base 1.5.4.vb
+C:\Users\User\Desktop\unit.cmd
+C:\Users\User\Desktop\VirusScan_Lab_33725_kay-software.ru_.exe
+C:\Users\User\Desktop\X9nmBodR7xg.jpg
+C:\Users\User\Desktop\деанон рика.txt
+
+
+
+PROCESSES:
+[x64] msedge    [20672]
+
+[x64] svchost    [6460]
+
+[x64] wininit    [856]
+
+[x64] notepad++    [15804]
+TITLE=C:\Users\User\source\repos\ScanProcesses\bin\Release\ScanProcesses.exe - Notepad++
+
+[x64] HelpPane    [32316]
+
+[x64] msedge    [2144]
+
+[x64] svchost    [6452]
+
+[x64] svchost    [1708]
+
+[x64] audiodg    [30872]
+
+[x64] svchost    [2136]
+
+[x64] msedge    [6876]
+
+[x64] steamwebhelper    [30580]
+
+[x64] steamwebhelper    [15264]
+
+[x64] svchost    [24544]
+
+[x64] msedgewebview2    [9888]
+
+[x64] svchost    [6008]
+
+[x64] gameinputsvc    [3852]
+
+[x64] NVDisplay.Container    [13332]
+
+[x64] SystemSettingsBroker    [23244]
+
+[x64] RuntimeBroker    [32672]
+
+[x64] svchost    [1692]
+
+[x64] ServiceHub.TestWindowStoreHost    [27280]
+
+[x64] msedge    [19360]
+
+[x64] svchost    [6860]
+
+[x64] SteamService    [23668]
+
+[x64] RuntimeBroker    [9444]
+
+[x64] ServiceHub.SettingsHost    [29700]
+
+[x64] svchost    [9776]
+
+[x64] RouterApplication    [18492]
+
+[x64] steamwebhelper    [9440]
+
+[x64] svchost    [3836]
+
+[x64] Code    [27612]
+
+[x64] cmd    [33140]
+TITLE=C:\Windows\system32\cmd.exe
+
+[x64] spoolsv    [3400]
+
+[x64] svchost    [1572]
+
+[x64] RuntimeBroker    [7708]
+
+[x64] svchost    [3828]
+
+[x64] svchost    [8568]
+
+[x64] rundll32    [30548]
+
+[x64] ExtremeDumper    [11260]
+TITLE=Ḿõďựḽęŝ - ĎęďîċåtęďŜęŗṽęŗ_ĢỰÎ (2).ęẍę (ҎÎĎ=14572)
+
+[x64] fontdrvhost    [1236]
+
+[x64] svchost    [7044]
+
+[x64] svchost    [3820]
+
+[x64] CalculatorApp    [29248]
+TITLE=Калькулятор
+
+[x64] ServiceHub.Host.dotnet.x64    [27484]
+
+[x64] ShellExperienceHost    [12984]
+
+[x64] svchost    [2092]
+
+[x64] Code    [24408]
+
+[x64] Code    [32444]
+
+[x32] steam    [21912]
+PATH=C:\Program Files (x86)\Steam\steam.exe
+
+[x64] svchost    [2084]
+
+[x32] Telegram    [12048]
+PATH=C:\Users\User\Downloads\Telegram\Telegram.exe
+TITLE=Telegram (204308)
+
+[x64] Code    [6500]
+
+[x64] cmd    [3372]
+TITLE=C:\Windows\system32\cmd.exe
+
+[x64] svchost    [11560]
+
+[x64] msedge    [7048]
+
+[x64] DedicatedServer_GUI (2)    [14572]
+TITLE=Imminent Monitor Dedicated Passthrough 1.1
+
+[x64] svchost    [15864]
+
+[x64] SystemSettings    [27500]
+TITLE=Параметры
+
+[x64] svchost    [1208]
+
+[x64] ApplicationFrameHost    [11400]
+TITLE=Калькулятор
+
+[x64] Y.Music    [16896]
+TITLE=Яндекс.Музыка
+
+[x64] svchost    [31220]
+
+[x64] svchost    [11548]
+
+[x64] rundll32    [32312]
+
+[x64] MSIAfterburner    [25768]
+TITLE=MSI Afterburner 
+
+[x64] Telegram    [15256]
+TITLE=Telegram (8679)
+
+[x64] svchost    [2492]
+
+[x64] gamingservicesnet    [5508]
+
+[x64] notepad    [24040]
+TITLE=*Безымянный – Блокнот
+
+[x64] conhost    [2488]
+
+[x64] conhost    [31436]
+
+[x64] dllhost    [13460]
+
+[x64] svchost    [24948]
+
+[x64] gamingservices    [5500]
+
+[x64] svchost    [1620]
+
+[x64] Microsoft.Photos    [1188]
+
+[x32] SecurityHealthHotkeys    [9376]
+PATH=C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\SecurityHealthHotkeys.exe
+
+[x64] VideoEditorPlus    [7220]
+TITLE=Movavi Видеоредактор Плюс – Новый проект *
+
+[x64] svchost    [4200]
+
+[x64] dllhost    [24456]
+
+[x64] svchost    [20932]
+
+[x64] notepad    [11524]
+TITLE=*Безымянный – Блокнот
+
+[x32] p2pclient    [11092]
+PATH=C:\Users\User\AppData\Roaming\p2pclient.exe
+
+[x64] TrustedInstaller    [568]
+
+[x64] msedge    [10228]
+
+[x64] msedgewebview2    [16692]
+
+[x64] csrss    [744]
+
+[x64] svchost    [24448]
+
+[x64] schtasks    [22292]
+
+[x64] msedge    [6352]
+
+[x64] RuntimeBroker    [23340]
+
+[x64] mspaint    [13668]
+TITLE=Безымянный - Paint
+
+[x64] msedge    [13236]
+
+[x64] PaintStudio.View    [9356]
+TITLE=Paint 3D
+
+[x32] ServiceHub.IdentityHost    [2028]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe
+
+[x64] SearchProtocolHost    [29180]
+
+[x64] SearchApp    [25300]
+
+[x64] WmiPrvSE    [7628]
+
+[x64] RuntimeBroker    [22280]
+
+[x64] svchost    [1160]
+
+[x32] VitusTotalFucker    [1332]
+PATH=C:\Users\User\source\repos\VitusTotalFucker\bin\Debug\VitusTotalFucker.exe
+TITLE=C:\Users\User\source\repos\VitusTotalFucker\bin\Debug\VitusTotalFucker.exe
+
+[x64] explorer    [19484]
+
+[x64] cmd    [10636]
+
+[x64] msedge    [11928]
+
+[x64] putty    [26440]
+TITLE=api.0x01.cf - PuTTY
+
+[x64] WUDFHost    [2012]
+
+[x64] svchost    [3304]
+
+[x64] cmd    [4164]
+TITLE=C:\Windows\system32\cmd.exe
+
+[x64] Everything    [26144]
+TITLE=reactor.exe - Everything
+
+[x64] msedgewebview2    [32068]
+
+[x64] SystemSettingsAdminFlows    [23556]
+
+[x64] steamwebhelper    [21440]
+
+[x64] msedge    [12552]
+
+[x64] taskhostw    [6312]
+
+[x64] LockApp    [11052]
+
+[x64] conhost    [10620]
+
+[x64] mspaint    [25704]
+TITLE=Безымянный - Paint
+
+[x64] NVIDIA GeForce Experience    [8032]
+
+[x64] NVIDIA GeForce Experience    [22684]
+
+[x64] CompPkgSrv    [23976]
+
+[x64] msedge    [29804]
+
+[x64] mmc    [23404]
+TITLE=Диспетчер устройств
+
+[x64] conhost    [7164]
+
+[x64] Microsoft.ServiceHub.Controller    [11904]
+
+[x64] svchost    [1556]
+
+[x64] msedgewebview2    [11036]
+
+[x64] MSI.CentralServer    [7156]
+
+[x64] svchost    [21976]
+
+[x64] svchost    [2412]
+
+[x64] NVIDIA GeForce Experience    [30856]
+TITLE=GeForce Experience
+
+[x64] Code    [17772]
+
+[x64] msedge    [4992]
+
+[x64] svchost    [2836]
+
+[x64] msedge    [11024]
+TITLE=Telegram Web и еще 13 страниц — Личный: Microsoft​ Edge
+
+[x64] MSBuild    [19212]
+
+[x64] ServiceHub.RoslynCodeAnalysisService    [18008]
+
+[x64] NVDisplay.Container    [25276]
+
+[x64] RuntimeBroker    [7224]
+
+[x64] reactor    [28256]
+TITLE=.NET Reactor v6.8.0.0 - Full Version [DosXPlus]  | *NEW*
+
+[x64] conhost    [7996]
+
+[x64] Code    [2536]
+
+[x64] svchost    [24372]
+
+[x64] StartMenuExperienceHost    [1528]
+
+[x64] winlogon    [1096]
+
+[x64] msedge    [29972]
+
+[x64] TextInputHost    [3680]
+TITLE=Microsoft Text Input Application
+
+[x64] msedge    [18636]
+
+[x64] msedge    [26600]
+
+[x64] notepad    [10572]
+TITLE=desktop.ini – Блокнот
+
+[x64] msedge    [34032]
+
+[x64] svchost    [7552]
+
+[x64] svchost    [6272]
+
+[x64] conhost    [29528]
+
+[x64] RuntimeBroker    [8408]
+
+[x64] PerfWatson2    [26076]
+
+[x64] SearchIndexer    [18748]
+
+[x64] SbieSvc    [2800]
+
+[x64] svchost    [2368]
+
+[x64] SearchProtocolHost    [8832]
+
+[x64] msedge    [2364]
+
+[x64] devenv    [24524]
+TITLE=VitusTotalFucker - Microsoft Visual Studio
+
+[x64] notepad    [27788]
+TITLE=*Безымянный – Блокнот
+
+[x64] svchost    [11840]
+
+[x64] WmiPrvSE    [5372]
+
+[x64] svchost    [3216]
+
+[x64] svchost    [2352]
+
+[x64] conhost    [33668]
+
+[x64] svchost    [3716]
+
+[x64] VMProtect    [2388]
+TITLE=ForDosX (3).exe.vmp* — VMProtect Ultimate [registered]
+
+[x64] svchost    [6224]
+
+[x64] svchost    [2344]
+
+[x64] VMProtect    [15704]
+TITLE=ScanProcesses.exe.vmp — VMProtect Ultimate [registered]
+
+[x64] WmiPrvSE    [4928]
+
+[x64] svchost    [24896]
+
+[x64] ServiceHub.IndexingService    [11924]
+
+[x64] svchost    [17420]
+
+[x64] svchost    [3196]
+
+[x64] mspaint    [9660]
+TITLE=Безымянный - Paint
+
+[x64] svchost    [3624]
+
+[x64] svchost    [4484]
+
+[x32] ScanProcesses    [7172]
+PATH=C:\Users\User\source\repos\ScanProcesses\bin\Release\ScanProcesses.exe
+
+[x64] VBCSCompiler    [24308]
+
+[x64] svchost    [33132]
+
+[x64] conhost    [10944]
+
+[x64] Everything    [27320]
+
+[x64] msedge    [10520]
+
+[x64] explorer    [19560]
+TITLE=Release
+
+[x64] nvcontainer    [25860]
+
+[x64] ServiceHub.DataWarehouseHost    [24900]
+
+[x64] svchost    [2628]
+
+[x64] mmc    [5676]
+TITLE=Диспетчер устройств
+
+[x64] RuntimeBroker    [20948]
+
+[x64] msedge    [18668]
+
+[x64] svchost    [8908]
+
+[x64] svchost    [1876]
+
+[x64] msedgewebview2    [10132]
+
+[x64] smss    [520]
+
+[x64] fontdrvhost    [580]
+
+[x64] Registry    [148]
+
+[x64] svchost    [1440]
+
+[x64] msedge    [21696]
+
+[x64] ServiceHub.Host.AnyCPU    [7440]
+
+[x64] SecurityHealthService    [8332]
+
+[x64] svchost    [2728]
+
+[x64] conhost    [4020]
+
+[x64] svchost    [3156]
+
+[x64] wlanext    [16084]
+
+[x64] mmc    [10056]
+TITLE=Диспетчер устройств
+
+[x64] RuntimeBroker    [10476]
+
+[x64] msedge    [18732]
+
+[x64] Video.UI    [7888]
+
+[x64] cmd    [5300]
+TITLE=C:\Windows\system32\cmd.exe
+
+[x64] RuntimeBroker    [20384]
+
+[x64] SgrmBroker    [3416]
+
+[x64] svchost    [27276]
+
+[x64] RuntimeBroker    [27272]
+
+[x64] msedge    [19480]
+
+[x64] conhost    [2176]
+
+[x64] msedge    [32008]
+
+[x64] Memory Compression    [2268]
+
+[x64] Code    [8732]
+TITLE=Main.vb - Visual Studio Code
+
+[x32] NVIDIA Web Helper    [18644]
+PATH=C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
+
+[x64] ServiceHub.VSDetouredHost    [23384]
+
+[x64] conhost    [24244]
+
+[x64] WUDFHost    [968]
+
+[x64] svchost    [1828]
+
+[x64] ctfmon    [6568]
+
+[x64] msedge    [7428]
+
+[x64] svchost    [10012]
+
+[x64] mspaint    [31320]
+TITLE=Безымянный - Paint
+
+[x64] MSI_Companion_Service    [3976]
+
+[x64] svchost    [3544]
+
+[x64] dnSpy    [21288]
+TITLE=dnSpy v6.1.8 (64-bit, .NET)
+
+[x64] steamwebhelper    [27244]
+
+[x64] MSI_Central_Service    [3968]
+
+[x64] svchost    [3536]
+
+[x64] svchost    [1380]
+
+[x64] lsass    [948]
+
+[x64] Code    [26376]
+
+[x64] conhost    [22492]
+
+[x64] svchost    [6116]
+
+[x64] msedge    [7408]
+
+[x64] svchost    [3528]
+
+[x64] svchost    [2252]
+
+[x64] steamwebhelper    [13008]
+
+[x64] WebViewHost    [17984]
+
+[x64] msedge    [11632]
+
+[x64] msedge    [10068]
+
+[x64] svchost    [12140]
+
+[x64] msedge    [612]
+
+[x64] sihost    [2656]
+
+[x64] LightKeeperService    [3948]
+
+[x64] conhost    [20756]
+
+[x64] conhost    [12996]
+
+[x64] msedgewebview2    [31528]
+
+[x64] Code    [28044]
+
+[x64] msedgewebview2    [6528]
+
+[x64] svchost    [4372]
+
+[x64] RuntimeBroker    [31092]
+
+[x64] svchost    [30744]
+
+[x64] notepad    [15572]
+TITLE=*Безымянный – Блокнот
+
+[x64] svchost    [9368]
+
+[x64] services    [928]
+
+[x64] sqlwriter    [3932]
+
+[x64] DCv2    [10396]
+TITLE=Dragon Center
+
+[x64] svchost    [2648]
+
+[x64] Code    [17720]
+
+[x64] V1rusScan_ProtectCore    [8236]
+
+[x64] nvcontainer    [19440]
+
+[x32] ServiceHub.Host.netfx.x86    [21952]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe
+
+[x64] svchost    [18144]
+
+[x64] TiWorker    [10816]
+
+[x64] explorer    [26980]
+TITLE=ScanProcesses_Secure
+
+[x64] msedge    [23744]
+
+[x64] steamwebhelper    [24532]
+
+[x64] msedge    [21356]
+
+[x32] AVDB-Checker    [8224]
+PATH=C:\Users\User\source\repos\AVDB-Checker\bin\Debug\AVDB-Checker.exe
+TITLE=пвроеррка фпла по базамв вирусшейра
+
+[x64] conhost    [9372]
+
+[x64] svchost    [1756]
+
+[x64] gameinputsvc    [4340]
+
+[x64] svchost    [1564]
+
+[x64] svchost    [3476]
+
+[x64] msedge    [24612]
+
+[x64] ibtsiva    [3904]
+
+[x64] ServiceHub.IntellicodeModelService    [11660]
+
+[x64] msedge    [31024]
+
+[x64] cmd    [26312]
+TITLE=C:\Windows\system32\cmd.exe
+
+[x64] dwm    [1312]
+
+[x64] svchost    [6052]
+
+[x64] taskhostw    [10548]
+
+[x64] SearchFilterHost    [8096]
+
+[x64] dllhost    [10784]
+
+[x64] svchost    [8]
+
+[x64] Code    [27672]
+
+[x64] svchost    [2592]
+
+[x64] mspaint    [7332]
+TITLE=Безымянный - Paint
+
+[x64] System    [4]
+
+[x64] die    [17988]
+TITLE=Detect It Easy v3.07 [Windows 10 Version 2009] (x86_64)
+
+[x64] csrss    [864]
+
+[x64] svchost    [28016]
+
+[x64] Idle    [0]
+
+

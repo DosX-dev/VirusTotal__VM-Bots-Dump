@@ -1,0 +1,696 @@
+
+DESKTOP-5G5GMWB \ hD6um4I3i5KR
+
+[SystemState]
+TickCount=1380140 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\hD6um4I3i5KR\Downloads\lgnpqlsjwvslsv.exe
+CommandLine="C:\Users\hD6um4I3i5KR\Downloads\lgnpqlsjwvslsv.exe"
+
+
+
+RUN LIST:
+
+
+
+
+STARTUP LIST:
+[Run]
+OneDriveSetup=C:\Windows\System32\OneDriveSetup.exe /thfirstsetup
+
+[RunOnce]
+
+
+
+
+DISKS:
+A:\
+C:\
+D:\
+E:\
+
+
+
+
+TEMP FILES:
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\.ses
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\000tioL2tAkgoYpfO4b.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\0ctxC1QQHtBdcm1dZU.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\0iLM96CSygh9JcRqc.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\0IwLpQc81FRb5DActj.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\0mlzFohpFUlDVqHUJK.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\0pT8jskoukhgBTsXEWOw.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\0sau5skWoW6X.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\0sgouvzBRqsyARiT3.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\0yzZlxUNNZTD.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\0ZwfABbrh73.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\16JQko91I52KNAARN.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\1CCgBAIxQKvcPNX.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\1i1sr4sKDdlFiWp0PL.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\1LmeRZgvfj5XaRcHxSX.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\1TtBQEnQp5YK9d.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\20RiYZinAdg.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\2Ip6t4zLCZatsow8r.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\2IWJSRXpRfhoybM.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\2OosA1FH7qkaHIwsy.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\2u1MWmoTKOYOSV7.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\2XSjqUSB41FS.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\2Yd7bfCJ9tM4oUulr.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\30TN5OzScoPK68U.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\3cUUgVGTSNwadFIxj5.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\3f6dBCgFI01FO.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\3PWdWQdKgi.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\3rrARGo6Wv2.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\3vleoQQW0wdpCVHq.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\41CpvHQ2w0.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\483lCECNFtx.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\4AhadYQOrUGa8YEimH.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\4eFJ10knZnyL9e.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\4G9I3RUz42uxC2edk.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\4m68gHgejW3TwaZr.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\4Mj2jcKNIpc1hZu.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\5FyAkWSKpzpgjntu.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\5UwORYclnS60mr6uXQrc.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\5z0kERBR2Kd.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\6929QE3C3lDOuwGW.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\6COiTB8nMc.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\6eAL7LNEvSzBtM8vMxi.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\6i8nE4c57DLuqQ8.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\6ifuiUwi3KsLcT.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\6qXzGaXbxRd2i3SpaY.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\7FwBdNyH1p85.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\7h3GMRj4Y5nDKfv.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\7MhDbWnKDoHgrp.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\7s8uAARj31mDFeCp2lWZ.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\7szEuUNNQ0y2Zv.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\8bbkfHbPaeqKdKk12a6.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\8EQsZizZeg.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\8OMTowjdcF.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\8t5I7OyEmyq9i4.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\8tTdfcgLQ2SWd.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\8uqI9sDETXtoqm.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\8wX4aKuwuPGBGMH.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\8X0bhAKoKIypwkp5Zcki.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\96AwdVQwP2y9EXu.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\9DQlPNEma5AYA.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\9FYUQVuJM4mrOw.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\9NlOhT5sJLSKjDVT.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\9NvxFRTXMW.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\9pnpDdNCaYPph4.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\9PyUzR1vPgaQW.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\9T7zo92gEonU.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\a3R0EZiGR8pB.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\a68tlswUrIp.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\A9RBEC9.tmp
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ABRWkFpePLCtXyt.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\accounts.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aDbYYjPCKsqRdYBn.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\admin.sql
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aDP4F8jMx0k9oywN.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aiY5LoPn93aw8X5u4.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ALRXt6H6uq9AzMG.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aoG45pUGS2MJxE.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\APCBdqTYJ32.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\APEZ6h3Q7FD.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-1812.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-1868.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-2496.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-3016.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-3344.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-3412.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-3464.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-3480.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-3612.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-3996.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-4092.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-4848.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-5508.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-6232.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-6500.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\aria-debug-948.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ASPNET.bmp
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ATizItYAKyjf.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\AX3KJafS4fQsLYVPfC1i.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\B5id0136n7MYSuD.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\BcXECO0iLVY8pSTxAUE.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\bf8IPEVGYETC6v.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\bHdbngraFAmOYc8oQn.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\bitcoin.wallet
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\blueprint.dwg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\BMgcL6YZYOtQ1K57e.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\boJhDj2CrEaRG.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\BPFwjMxWutO5.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\bQ9fplafPwdTFLY.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\BqCEkzX9yFi1SApdseT.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\bykeaj2bOkMES.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\bZ6S5ynM6uP.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\c3bXUJVxOkj0TeNG7B95.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\c4G26Dp8iGafL.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\C5W1Y3hTTU7Xu.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Cb5Sy9p0UzDVvQZ0J1q.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\cb6GPH9Ql1.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\cea6EBCg5ms5.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\cHDkblHRsTL6Mcv.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\cl9BY8eVaWy1rUroJW.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\CqczW8jdmQv.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Credit-Report.pdf
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\cSMtsnaPALidqU3g.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\CVCYZjjJI824q.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\database.sql
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\DcA4Moo7vzil.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\DDezDEcGc5.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Default.rdp
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\dJ7T5oSjHt.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\DMEbosMdYZASIu70JHu2.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\DvFq8TDToSX.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\dwG6KHWgZVRwmT.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\e0JdRPjWwO.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\E0jygiCHEUZ8zHrrUY.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\E1wgqUvDPJ7.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\e2ddWJQpsWI.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\eBa2G7tr2cgQM.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\eBKD9Fxz8qCm0.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\EbOgVqk6rqMstZAKl.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ebQPHfGtIPePGue.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\eCOTi905yUE77EHaNA.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Ecv1X3mDr5.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\edZkQ63aiQgcLLZ.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Ef6beRB2Fj50l.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\eGceYsa38H3KT.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Ehr4xMqtR1H.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\EjRyiGkvaq9JV2.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\eohu2TuqgdY.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ERAxXyQNvLClsk.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ExY0abscFWD.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\EYtuQdX84tV5N6t5z.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\eyx85WkzSVHl9fnQ6.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\F047NGXibmjjnmSyvo.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\F0BfbMJmVKAdxRR.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\FBMwjjTNwsTGsuF4ale.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\fbPZ2kuBZ13YGf.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Fe0VNA8CwDnh7.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\fF5NQZ1jIpbRYt.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ffWn9SM0LO8hY.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\fgweJTsvJZJsrmZUW.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Financial_Report.ppt
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Financial_Report.xls
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\fkKLCo5NMpY3xy.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\fLAPtElyALIbUwmLiG.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\fnw3titxLkwii9fN.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\foBKFAZUi9TazJeLjuO.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\fsoCdqWmK0cKqBzf.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\g1YWXQB2jq0eJ.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\gH8LUTakcn.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ghjveXQAan.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\gIDAuT42da1.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\gjx9PXOUVNoHSNkl.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\GlMUexIU31h.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\gRI0gs85bdJqJW.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\gRV4hKn92VIb5tPi.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\gS0kSgdlRCLG38U.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\GT7Ty0Yn89adZUkSmb.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\gVnrj53LEe.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\GWA0j7TMn2hMwts.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\GXU2hnO1EZMF8ir2wry.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\H0QC2NJHeQvZCyPF3qGv.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\H68NbRJMD6bYGyfMxtH.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\h8qc9500kAa.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\hbS6PGZdYoCUODkW.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Hf56RRCqNczM4LoXwElc.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\HFUY1ZVqu2qmePb.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\HgWoziJ7PKC.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\HjYp2MXqlvLkfZ.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\HlQfgCVsgz.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\hmJVphCfuJXsyEE.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\HmPx4MT7YFkD5t0G5nLx.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\HnJmufQwdxHNl7.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\hNZcP4cs8ywLHF7K74AE.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\HOVuQnAFlL0oeEOg.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\HskeLi9eaiHy.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\hT7AQdh8wK.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\HTuul0HGlpH8sW5NdNVt.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\I1LpXJtJ0dPl5ZkZxdhm.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\i3IDCozDDepE.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\i6bmCO1kHHh.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\i6kEK7EShhO6XP4.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\I7TWi2YLallJbGPP.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ICAZNnV4hsar5U5qJ.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\id_rsa
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\id_rsa.pub
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ijPk8dsA1okfc.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Invoice.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\IrLIhDqePZx.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\iRmwYZelaV3APDPP.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ISaGHsnna2o0nDnk.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\J8QmtWMviANQ.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\JAgc1izgnUVIJDnalaSN.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\James.bmp
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\JavaDeployReg.log
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\JCSkAsk0XmOvdxv8.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\JN8TcUXMYcL7O.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\JoQkByH3Vug.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\JP9AKJTai6buV4.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\JQYJgYyvf7beaUL.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\jsXQExOn1RJHN5offyc.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\JtnrpyQnqiMM9tjWe.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\judAoeCqvxxfUE1rSzjW.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\juphCn4D5jcCObew94.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\JvSYLH9LZu.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\jzVOhTeZcwBRjZdRnGnk.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\k13cZYivZZc.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\K2t1zUURPi.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\k2UcRQJL5Kf23AKkfZ.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\k8Koo7iIcVgUIIfEw.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\k9WYcZtgdwLN.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\kbQa9Y9oZnV1hjl6R.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\kCRqOQKiCC8Gul.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\KDOEMhRfml.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\kEIswXYVt4klBt66.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\key.pfx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\key.pgp
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\key.ppk
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\keys.7z
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\keys.txt
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\KF40jBNQ2lGYlHDw.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\KfRLKT6t4gmeXBdRk.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\kSdXw7wJ3EdHKTORKRDc.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\KtI0oIZgn5ul.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\kuGvLC5bJK5wlj68W.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\KUToozgOjO1M2I07ze.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\kveeUUdFptNRbNcS.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\kw6GfJ7UHl0.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\L2efK1dLQ4wyi83ossi.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\lbphunS2Q2NK.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\lIITzPW2k0UTExlsw.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\LJxnVaLSLXzZzrs.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\LNZtpEoFY5ck4sAM.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\lnzxNLoTl5414Ra2gI.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\LrzTmabWDkNvAa.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Lw0UlYeLckiPqz2Wp0.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\lXngkl0xbxwV7QvCIdf1.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\lxTE3I760i3SJAZs.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\M07785Ay5REnU5bsqdj0.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\m9a9lEDVFDVii.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\m9XDk5vIcc3hFyNihC.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\mGuN1zuDOzFGAQrfTd.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\MIZwopuiBbv.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\MkBXooq2W4UP.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\MObNl8HPRrM5lpZL.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\MSQHLD8pN7.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\msWU5aRyhEweNAy.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\MVeetdTP0jic2eYweY.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\MXSugCFSgha7jCxHLWb.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\n0tgXMMJ71gI775sp.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\N1wwkWSgXYu9zfBzgnu.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\NbM9txJjdy6c0Cu2K1Er.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\nI5gxiwmefAp2A.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\nju8H7FMzwfQV.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\NM12YkAeEx1FR.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\NPdytbsm6VpZJkYf.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\nRGmcSk2slSBH.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\NXE4v6vGGeLiY.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\NxzJJIOif1NqZIryQx.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\nyDAWaTCOE4QJPvNw3.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\nYksD9w9YSdKzTq.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\nzOTtC5IXiCR0DPg5ri.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\O79zb3tiQBButZD1CgJ.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\O8Ppqbk62sK.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\oaPh4KGRWzx.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\OcrdQOKqfedJaVQR2.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\OCuoHiR0NoSC9istxG.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\oeb5f6LqK4Qrw3f.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\OfMO4ZJC6MzILrA8m.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\oHNRfaJj92sgGv77cX5P.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\OK0EvVt8bUN.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Ok8rrX9kAzWsYI2oeQA.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\OQLUB2poKdHCKW93.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Os9GyTkZ2hQ1XaX4cEMz.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\OsaGkQMU4PeEFSTassD.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\oTt5FjS2mTpb.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\oxGPgchYkULQcDt.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\OZMAkwPbKGtOR.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\p4k4bIdGt4wNORge.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\P5N07J5CIsD4qm4g.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\p74GRPS78cy.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\passport.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\passwords.db
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\passwords.kdbx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\passwords.txt
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\PfUwYrGJ9dU5vLMZPWa.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\PHenYnFDWNu92r.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\PlqLO7upTMgJOvV6c2.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\PNVTtrpI6MK1.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\PQ1u2qMEn3xyHf.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\private.key
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ptOoQwSLJLu99yQN4.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\pyq2zKNuOGfA.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Q2sbUQ45tyFWhcNH.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\q4229PSpsoIT00.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Q5tLaGVYo7nYcsB.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\qcZ9djytP2Zm3FR.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\QDInJprZr4aVXq.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\QDV98DDrFt6W.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\qGqPvYbMSUyUI.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Qj2fIWqqdQkoOh2Iah.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\qmcbF6xk98SY.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\qNZwQF9EBr.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\qoBvpcGlIrrkvcyhS4gu.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\QoCivNrT0wVEQz.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\quHpHNtvujC48CXht.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Qw5cAtJ1AEaa8.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Qy9slZj541gBZ7W.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\qyaLYZqGi5C3Y.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\qYhUJQbZlkBEpXjH5i.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\qyJ5YuYPvduThz8K.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\qZF3NxgiFOGLSQa.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\QzYcxEs1CPa6jvztmJ.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\r4qtHfHsXXzPsGyhfA3r.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\r6shaW5n2XCux.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\RCFrIv2acAzjbaIPqpQ.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\report.doc
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\reports.zip
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\RGRXxycwRv6hMOUAj.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\RH90I0OVLMRP8fk.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\RL6n70ual3ND5ZoQa.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Roger.bmp
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\rOXgogat8RsqmOhD.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\rq0ZBDufd496i.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\RrlVFBF5zQnmdR131LI.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\rUVQhzb2HxRD.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\RUZ8wYEWgWO.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\rUzPCB0RZZNAnbGU.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\RV5mCJUVSVZdo.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\rVnnSPPDeqTquf.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\RWDfG3AugXLu9.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\rX2XRon3OLfI.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\RX8MKQWPOj1.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Rxv0jwXfUNuEriCVix.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\S1mj1YEfMoXOfPuqY.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\S3HeyEuMR1g.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\SDihC0JxIjTf.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\shcXgP451h.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\SIGHTdciPyiUQyz.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\sITASSF6ko5rT7K.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\SjAhyBb7B8Rk8ZrdlK.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\smRHqr4VxuMlW5.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\SQJvjOg7tIow7Qw.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\sRTKUZd5GFLywDM6.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\SVXm0s5bs6B4.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\t0B4PgZDA1dgt.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\t1r3pmAplkH2VO5u2N4.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\T8bL0KUFhDIZt.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\t8TP6Co26ewT8qiBfrbl.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\T8uFwRRWnr9Hi.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\t9g6bhh6R8txj3AC.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\tdnKf7RWARPT63iy8K.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\TEgNwbacMMHHlbXJp.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\TEOKLIRULP78xWr.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\tfEbLl42KCdC51xYhS.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\TPHzcLd8RFmQ8sxA26PC.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\TutRaqSurcIfqpw.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\TViCOmzMaGvPwYb.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\tWNKBCgw0YY.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\TyShuiOMn4AsC.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\U2q2FEmf73YnXlZ.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Uf5uJ1Atx05xd3F.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\uhauRlhXNgDscYqM.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\UipSBZesOJfabar18dQX.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\UO4v9AWw26.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\UOBQSl3eKNpuZCHA.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\V58er48HaSZM.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\vapap8Ax50hxJNF3JnOg.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\VbmpT8tv9S4.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\VFRSV5QobpszQBLiZWM.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\vICf0K9I1iagWnK5.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\vJZhli6jLaU5yLr.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\VKr2uxfYEE.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\voE3vPk1oMt5dl50.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\VSmq7CDyDb.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\VSNmawc0Y3I2QzuOR1Sk.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\vTNWz3SFaNX6qDm.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\VUSgBn8oKy13LgKH.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\VwxSQpz7qXAuFzAGV.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\vxYTaJpKuDSxGAdVIsew.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\W0DCQcV2dPlWzEIoW4.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\W4crlL4h1d1Tlqdx.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\w57oymxSpam63RZlaGV.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\w7UDsDdMUbZcJeUXr.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\wEWTEQSEDOLQKXaC.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\wfc4MqwSguuTNVa.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\wgMk4KtXxvZw.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\WGMlxIcgIXzO.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\WhYqWMXFxIbS8B.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\wjIUnrrknC4ljN.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\WMkSchNDZKBE6.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\wRmhPbaS8zL2P.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\WU6WQtFvlHXstZBrL8K2.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Xan2OOAicnzl.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\XdcemL6BJxyd.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\xGXa9STeffG.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\xjjkgSbuiUz24.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\xLQpEcnDLOtI7fxBX.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\xmsRw5lFqR1.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\xReUMyu2VX.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\XT6pVRc8R98a.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\xtTy0llSPLtG2JdyDHH.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\XYitJDJlM4iDUAIq1aWj.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\XzqoElY21pwO1d.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\y4m5VNQ3QsjqcfFa.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\y6vaEALCcaGJw6F.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\y91wvvz8KVltY.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\yDr77WhTHCGAIrjln.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\yE68gp4oa7EQ.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\YfQcJc4e3Cu2hFu1y2w9.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\yhsiQcl0lqd.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\YHxZrAEMbmb1Dc6W.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\YKEEilrFKF.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\YLxWCCoVYRkDRZC1.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\YMp3nG6blLqbBPwL.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\YtkRPEJuRkUCGD7VVt.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\yUE11lbqIWWWF.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\z430OerdZvvg0je1VO.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\z4JgiH3BnI7QUtgoS.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\Z6JeYx4vPe6eF2S4kzB.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\zCdYj2KgMA.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\zcgxjcsPPoB.png
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ZIvKFrOPyX.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\zkdintwHHWeyRwu.docx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\zl93azWfE6.xlsx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ZPBfXbtoGbb60ur8.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\ZpgvBOdb03JQG.pptx
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\zVhLCaIExPd.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\{022ED6C4-5BF3-4556-A6CE-F9D0AF375A3A} - OProcSessId.dat
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\{547EFBE9-CD88-4747-A013-33EC21AC1CE3} - OProcSessId.dat
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\{582AC7D2-DF5A-4A4E-9031-B5EDB6FDD556} - OProcSessId.dat
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\{78BCFA2B-BDE4-41D7-AAF3-6070BBC4050A} - OProcSessId.dat
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\{8AC3E410-C374-410B-80F9-E4399D8986A2} - OProcSessId.dat
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\{A1C5D653-F168-4423-A332-5F7990AD2C0A} - OProcSessId.dat
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\{B1B6CA98-920E-4EF6-B219-E96E84E2ED7A} - OProcSessId.dat
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\{BF60D8D6-C32D-434E-9591-3A1F2EC471AB} - OProcSessId.dat
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\{C7A9152A-7725-4DF7-8255-78B1B8057010} - OProcSessId.dat
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\{D6A0F601-C70D-4D7A-86D1-1C15FCBC9332} - OProcSessId.dat
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\отчёт.doc
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\отчёт.rtf
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\пароли.txt
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\паспорт.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\скан_паспорта.jpg
+C:\Users\hD6um4I3i5KR\AppData\Local\Temp\сканы.rar
+
+
+
+RECENT FILES:
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\http--go.microsoft.com-fwlink-LinkID=626473.lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\Internet Options.lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\ms-settingsnetwork.lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\Power Options.lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\Programs and Features (3).lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\Programs and Features (4).lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\Programs and Features (5).lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\Programs and Features.lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\Security and Maintenance.lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\System (2).lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\System (3).lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\System (4).lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\System (5).lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\System (6).lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\System (7).lnk
+C:\Users\hD6um4I3i5KR\AppData\Roaming\Microsoft\Windows\Recent\System.lnk
+
+
+
+DESKTOP FILES:
+C:\Users\hD6um4I3i5KR\Desktop\accounts.xlsx
+C:\Users\hD6um4I3i5KR\Desktop\Credit-Report.pdf
+C:\Users\hD6um4I3i5KR\Desktop\desktop.ini
+C:\Users\hD6um4I3i5KR\Desktop\Financial_Report.ppt
+C:\Users\hD6um4I3i5KR\Desktop\Financial_Report.xls
+C:\Users\hD6um4I3i5KR\Desktop\Invoice.docx
+C:\Users\hD6um4I3i5KR\Desktop\keys.txt
+C:\Users\hD6um4I3i5KR\Desktop\passwords.txt
+C:\Users\hD6um4I3i5KR\Desktop\report.doc
+C:\Users\hD6um4I3i5KR\Desktop\отчёт.doc
+C:\Users\hD6um4I3i5KR\Desktop\отчёт.rtf
+C:\Users\hD6um4I3i5KR\Desktop\пароли.txt
+
+
+
+PROCESSES:
+[x64] lsass    [800]
+
+[x32] explorer    [3380]
+PATH=C:\WINDOWS\Explorer.EXE
+
+[x32] SearchUI    [3824]
+PATH=C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+
+[x32] svchost    [1064]
+PATH=C:\WINDOWS\system32\svchost.exe
+
+[x32] svchost    [528]
+PATH=C:\WINDOWS\system32\svchost.exe
+
+[x32] WUDFHost    [1780]
+PATH=C:\Windows\System32\WUDFHost.exe
+
+[x64] services    [792]
+
+[x32] svchost    [1592]
+PATH=C:\WINDOWS\system32\svchost.exe
+
+[x32] WmiPrvSE    [5596]
+PATH=C:\WINDOWS\system32\wbem\wmiprvse.exe
+
+[x32] conhost    [5776]
+PATH=C:\WINDOWS\system32\conhost.exe
+
+[x32] dwm    [1144]
+PATH=C:\WINDOWS\system32\dwm.exe
+
+[x32] fontdrvhost    [964]
+PATH=C:\WINDOWS\system32\fontdrvhost.exe
+
+[x32] svchost    [1764]
+PATH=C:\WINDOWS\System32\svchost.exe
+
+[x32] svchost    [2028]
+PATH=C:\WINDOWS\System32\svchost.exe
+
+[x32] RuntimeBroker    [3924]
+PATH=C:\Windows\System32\RuntimeBroker.exe
+
+[x32] RuntimeBroker    [4012]
+PATH=C:\Windows\System32\RuntimeBroker.exe
+
+[x32] fontdrvhost    [956]
+PATH=C:\WINDOWS\system32\fontdrvhost.exe
+
+[x32] svchost    [864]
+PATH=C:\WINDOWS\system32\svchost.exe
+
+[x32] taskhostw    [3088]
+PATH=C:\WINDOWS\system32\taskhostw.exe
+
+[x32] conhost    [3976]
+PATH=C:\WINDOWS\system32\conhost.exe
+
+[x32] ctfmon    [3036]
+PATH=C:\WINDOWS\system32\ctfmon.exe
+
+[x32] sihost    [2812]
+PATH=C:\WINDOWS\system32\sihost.exe
+
+[x32] svchost    [2544]
+PATH=C:\WINDOWS\system32\svchost.exe
+
+[x32] DeviceCensus    [5480]
+PATH=C:\WINDOWS\system32\devicecensus.exe
+
+[x32] SOUNDMAN    [2224]
+PATH=C:\Windows\SOUNDMAN.EXE
+
+[x32] svchost    [1560]
+PATH=C:\WINDOWS\system32\svchost.exe
+
+[x32] WmiPrvSE    [2892]
+PATH=C:\WINDOWS\system32\wbem\wmiprvse.exe
+
+[x32] svchost    [932]
+PATH=C:\WINDOWS\system32\svchost.exe
+
+[x32] svchost    [2840]
+PATH=C:\WINDOWS\system32\svchost.exe
+
+[x32] oqazml    [4876]
+PATH=C:\windows\oqazml.exe
+
+[x64] csrss    [572]
+
+[x64] taskhostw    [3864]
+
+[x64] SecurityHealthService    [2172]
+
+[x64] csrss    [656]
+
+[x32] dllhost    [5416]
+PATH=C:\WINDOWS\system32\DllHost.exe
+
+[x32] svchost    [1276]
+PATH=C:\WINDOWS\System32\svchost.exe
+
+[x32] powershell    [5156]
+PATH=C:\WINDOWS\system32\WindowsPowerShell\v1.0\powershell.exe
+
+[x64] wininit    [648]
+
+[x32] avpui    [5896]
+PATH=C:\Program Files\Kaspersky Lab\Kaspersky Internet Security 19.0.0\avpui.exe
+
+[x32] svchost    [2248]
+PATH=C:\WINDOWS\System32\svchost.exe
+
+[x64] avp    [4472]
+
+[x32] OfficeClickToRun    [2152]
+PATH=C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe
+
+[x64] Registry    [104]
+
+[x32] spoolsv    [1668]
+PATH=C:\WINDOWS\System32\spoolsv.exe
+
+[x32] WmiPrvSE    [1460]
+PATH=C:\WINDOWS\system32\wbem\wmiprvse.exe
+
+[x64] smss    [456]
+
+[x32] svchost    [1284]
+PATH=C:\WINDOWS\system32\svchost.exe
+
+[x32] RuntimeBroker    [3300]
+PATH=C:\Windows\System32\RuntimeBroker.exe
+
+[x32] winlogon    [720]
+PATH=C:\WINDOWS\system32\winlogon.exe
+
+[x32] ShellExperienceHost    [3712]
+PATH=C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+
+[x32] svchost    [1252]
+PATH=C:\WINDOWS\system32\svchost.exe
+
+[x64] Memory Compression    [1696]
+
+[x64] System    [4]
+
+[x32] lgnpqlsjwvslsv    [4452]
+PATH=C:\Users\hD6um4I3i5KR\Downloads\lgnpqlsjwvslsv.exe
+
+[x32] svchost    [1336]
+PATH=C:\WINDOWS\System32\svchost.exe
+
+[x64] Idle    [0]
+
+

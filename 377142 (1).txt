@@ -1,0 +1,435 @@
+
+DESKTOP-B0T93D6 \ george
+
+[SystemState]
+TickCount=7284546 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\george\Desktop\ScanProcesses.exe
+CommandLine="C:\Users\george\Desktop\ScanProcesses.exe"
+
+
+
+RUN LIST:
+
+
+
+
+STARTUP LIST:
+[Run]
+
+[RunOnce]
+
+
+
+
+DISKS:
+C:\
+D:\
+
+
+
+
+TEMP FILES:
+C:\Users\george\AppData\Local\Temp\0164771190
+C:\Users\george\AppData\Local\Temp\0196354653
+C:\Users\george\AppData\Local\Temp\0409654664
+C:\Users\george\AppData\Local\Temp\0450125302
+C:\Users\george\AppData\Local\Temp\0518291756
+C:\Users\george\AppData\Local\Temp\0653671941
+C:\Users\george\AppData\Local\Temp\0982390758
+C:\Users\george\AppData\Local\Temp\1033868256
+C:\Users\george\AppData\Local\Temp\1141274626
+C:\Users\george\AppData\Local\Temp\1206337459
+C:\Users\george\AppData\Local\Temp\1237160943
+C:\Users\george\AppData\Local\Temp\1239919175
+C:\Users\george\AppData\Local\Temp\1287572840
+C:\Users\george\AppData\Local\Temp\1422339599
+C:\Users\george\AppData\Local\Temp\1670291037
+C:\Users\george\AppData\Local\Temp\1809927897
+C:\Users\george\AppData\Local\Temp\1927994670
+C:\Users\george\AppData\Local\Temp\2103954313
+C:\Users\george\AppData\Local\Temp\2118371548
+C:\Users\george\AppData\Local\Temp\2129360816
+C:\Users\george\AppData\Local\Temp\2162403398
+C:\Users\george\AppData\Local\Temp\2168651637
+C:\Users\george\AppData\Local\Temp\2238758481
+C:\Users\george\AppData\Local\Temp\2385760553
+C:\Users\george\AppData\Local\Temp\2567238426
+C:\Users\george\AppData\Local\Temp\2585558601
+C:\Users\george\AppData\Local\Temp\2669049752
+C:\Users\george\AppData\Local\Temp\2760101248
+C:\Users\george\AppData\Local\Temp\2843307863
+C:\Users\george\AppData\Local\Temp\3024948866
+C:\Users\george\AppData\Local\Temp\3322604653
+C:\Users\george\AppData\Local\Temp\3476888679
+C:\Users\george\AppData\Local\Temp\3554373729
+C:\Users\george\AppData\Local\Temp\3643399760
+C:\Users\george\AppData\Local\Temp\3645503000
+C:\Users\george\AppData\Local\Temp\3761760476
+C:\Users\george\AppData\Local\Temp\4478492829
+C:\Users\george\AppData\Local\Temp\4618732626
+C:\Users\george\AppData\Local\Temp\4676012234
+C:\Users\george\AppData\Local\Temp\4736274156
+C:\Users\george\AppData\Local\Temp\4965367024
+C:\Users\george\AppData\Local\Temp\5064077962
+C:\Users\george\AppData\Local\Temp\5089483566
+C:\Users\george\AppData\Local\Temp\5281104033
+C:\Users\george\AppData\Local\Temp\5491630718
+C:\Users\george\AppData\Local\Temp\5713452101
+C:\Users\george\AppData\Local\Temp\5809130301
+C:\Users\george\AppData\Local\Temp\5911976538
+C:\Users\george\AppData\Local\Temp\6109303877
+C:\Users\george\AppData\Local\Temp\6183211589
+C:\Users\george\AppData\Local\Temp\6213653276
+C:\Users\george\AppData\Local\Temp\6329227256
+C:\Users\george\AppData\Local\Temp\6332783370
+C:\Users\george\AppData\Local\Temp\6422942404
+C:\Users\george\AppData\Local\Temp\6577738837
+C:\Users\george\AppData\Local\Temp\6636805992
+C:\Users\george\AppData\Local\Temp\6730030605
+C:\Users\george\AppData\Local\Temp\6750529025
+C:\Users\george\AppData\Local\Temp\7216804956
+C:\Users\george\AppData\Local\Temp\7246058026
+C:\Users\george\AppData\Local\Temp\7457734050
+C:\Users\george\AppData\Local\Temp\7676687441
+C:\Users\george\AppData\Local\Temp\7847944919
+C:\Users\george\AppData\Local\Temp\8182259827
+C:\Users\george\AppData\Local\Temp\8200946536
+C:\Users\george\AppData\Local\Temp\8272948061
+C:\Users\george\AppData\Local\Temp\8351801105
+C:\Users\george\AppData\Local\Temp\8552718761
+C:\Users\george\AppData\Local\Temp\8639884504
+C:\Users\george\AppData\Local\Temp\8975065801
+C:\Users\george\AppData\Local\Temp\9048275495
+C:\Users\george\AppData\Local\Temp\9217021447
+C:\Users\george\AppData\Local\Temp\9329238007
+C:\Users\george\AppData\Local\Temp\9422479677
+C:\Users\george\AppData\Local\Temp\9655434068
+C:\Users\george\AppData\Local\Temp\9659692161
+C:\Users\george\AppData\Local\Temp\9925478147
+C:\Users\george\AppData\Local\Temp\9973218975
+C:\Users\george\AppData\Local\Temp\AdobeARM.log
+C:\Users\george\AppData\Local\Temp\JSAMSIProvider32.dll
+C:\Users\george\AppData\Local\Temp\JSAMSIProvider64.dll
+C:\Users\george\AppData\Local\Temp\SetupExe(202105170053441634).log
+C:\Users\george\AppData\Local\Temp\tmp71FB.tmp
+C:\Users\george\AppData\Local\Temp\tmpaddon
+
+
+
+RECENT FILES:
+
+
+
+DESKTOP FILES:
+C:\Users\george\Desktop\desktop.ini
+C:\Users\george\Desktop\GLTYDMDUST.jpg
+C:\Users\george\Desktop\HMPPSXQPQV.mp3
+C:\Users\george\Desktop\JDDHMPCDUJ.docx
+C:\Users\george\Desktop\JDDHMPCDUJ.xlsx
+C:\Users\george\Desktop\LFOPODGVOH.png
+C:\Users\george\Desktop\Microsoft Edge.lnk
+C:\Users\george\Desktop\NWCXBPIUYI.mp3
+C:\Users\george\Desktop\NWCXBPIUYI.pdf
+C:\Users\george\Desktop\NYMMPCEIMA.jpg
+C:\Users\george\Desktop\NYMMPCEIMA.xlsx
+C:\Users\george\Desktop\QCOILOQIKC.pdf
+C:\Users\george\Desktop\ScanProcesses.exe
+C:\Users\george\Desktop\TQDFJHPUIU.docx
+C:\Users\george\Desktop\ZIPXYXWIOY.png
+
+
+
+PROCESSES:
+[x32] ZXEsgbXLQKvkniNXGd    [4136]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] svchost    [3728]
+
+[x64] SgrmBroker    [4196]
+
+[x64] svchost    [980]
+
+[x32] ZXEsgbXLQKvkniNXGd    [6720]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] svchost    [2160]
+
+[x64] svchost    [2356]
+
+[x64] backgroundTaskHost    [1028]
+
+[x32] ZXEsgbXLQKvkniNXGd    [2748]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] lsass    [684]
+
+[x32] ZXEsgbXLQKvkniNXGd    [4124]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] svchost    [1956]
+
+[x64] svchost    [2204]
+
+[x64] smss    [376]
+
+[x32] ZXEsgbXLQKvkniNXGd    [3948]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] MsMpEng    [2344]
+
+[x64] svchost    [1948]
+
+[x64] svchost    [1368]
+
+[x64] svchost    [368]
+
+[x32] ZXEsgbXLQKvkniNXGd    [4504]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] svchost    [2336]
+
+[x64] svchost    [956]
+
+[x64] dllhost    [1544]
+
+[x32] ScanProcesses    [6692]
+PATH=C:\Users\george\Desktop\ScanProcesses.exe
+
+[x64] svchost    [1148]
+
+[x64] NisSrv    [3708]
+
+[x64] RuntimeBroker    [2444]
+
+[x64] backgroundTaskHost    [3312]
+
+[x64] sihost    [4296]
+
+[x64] SystemSettings    [4024]
+TITLE=Settings
+
+[x32] ZXEsgbXLQKvkniNXGd    [3220]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] RuntimeBroker    [5868]
+
+[x64] svchost    [1728]
+
+[x64] csrss    [544]
+
+[x64] svchost    [2316]
+
+[x64] Windows.WARP.JITService    [4560]
+
+[x64] ShellExperienceHost    [5260]
+
+[x64] svchost    [1520]
+
+[x64] svchost    [1716]
+
+[x64] svchost    [1212]
+
+[x64] wininit    [532]
+
+[x64] RuntimeBroker    [5652]
+
+[x64] MicrosoftEdgeCP    [6308]
+TITLE=Microsoft Edge
+
+[x64] svchost    [1512]
+
+[x64] backgroundTaskHost    [4252]
+
+[x64] svchost    [4660]
+
+[x64] svchost    [2292]
+
+[x64] svchost    [912]
+
+[x64] RuntimeBroker    [5440]
+
+[x32] ZXEsgbXLQKvkniNXGd    [4256]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] svchost    [2284]
+
+[x64] svchost    [1100]
+
+[x64] svchost    [2084]
+
+[x64] unsecapp    [3068]
+
+[x32] ZXEsgbXLQKvkniNXGd    [3264]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] Sysmon64    [2276]
+
+[x64] svchost    [5820]
+
+[x64] svchost    [5228]
+
+[x64] SearchUI    [5424]
+
+[x64] Registry    [104]
+
+[x64] svchost    [6604]
+
+[x64] svchost    [1480]
+
+[x64] svchost    [3252]
+
+[x64] svchost    [296]
+
+[x32] ZXEsgbXLQKvkniNXGd    [4440]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] svchost    [1496]
+
+[x64] WmiPrvSE    [4036]
+
+[x64] svchost    [4232]
+
+[x64] spoolsv    [1472]
+
+[x64] svchost    [1936]
+
+[x32] WmiPrvSE    [3240]
+PATH=C:\Windows\sysWOW64\wbem\wmiprvse.exe
+
+[x64] svchost    [1860]
+
+[x64] svchost    [1660]
+
+[x32] ZXEsgbXLQKvkniNXGd    [3036]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] MicrosoftEdgeCP    [6384]
+TITLE=Microsoft Edge
+
+[x64] svchost    [3428]
+
+[x64] svchost    [1344]
+
+[x64] svchost    [1256]
+
+[x64] ctfmon    [4728]
+
+[x64] svchost    [1056]
+
+[x64] ApplicationFrameHost    [5708]
+TITLE=Microsoft Edge
+
+[x64] explorer    [4992]
+
+[x64] WmiPrvSE    [3932]
+
+[x64] svchost    [4596]
+
+[x64] Memory Compression    [1640]
+
+[x32] ZXEsgbXLQKvkniNXGd    [6596]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] csrss    [456]
+
+[x64] services    [652]
+
+[x64] svchost    [2620]
+
+[x64] MicrosoftEdge    [5976]
+TITLE=Microsoft Edge
+
+[x32] ZXEsgbXLQKvkniNXGd    [792]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] svchost    [4584]
+
+[x32] ZXEsgbXLQKvkniNXGd    [3004]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] svchost    [836]
+
+[x64] svchost    [2016]
+
+[x64] svchost    [4968]
+
+[x64] svchost    [436]
+
+[x64] winlogon    [632]
+
+[x64] fontdrvhost    [828]
+
+[x64] svchost    [5948]
+
+[x64] svchost    [4572]
+
+[x64] fontdrvhost    [1016]
+
+[x64] svchost    [3576]
+
+[x64] svchost    [2196]
+
+[x64] dwm    [420]
+
+[x64] svchost    [3784]
+
+[x64] svchost    [5108]
+
+[x64] svchost    [1204]
+
+[x64] svchost    [4316]
+
+[x64] WMIADAP    [5536]
+
+[x32] ZXEsgbXLQKvkniNXGd    [3368]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] svchost    [4352]
+
+[x32] ZXEsgbXLQKvkniNXGd    [5100]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] svchost    [804]
+
+[x64] svchost    [2576]
+
+[x64] browser_broker    [6120]
+
+[x64] RuntimeBroker    [600]
+
+[x64] svchost    [2372]
+
+[x32] ZXEsgbXLQKvkniNXGd    [4480]
+PATH=C:\Program Files (x86)\zruZFTsRyyQDrSksZJiwKsXXGVbuKFweFAXUqCncsvglubHJR\ZXEsgbXLQKvkniNXGd.exe
+TITLE=Chrome
+
+[x64] RuntimeBroker    [6900]
+
+[x64] System    [4]
+
+[x64] svchost    [540]
+
+[x64] dllhost    [5320]
+
+[x64] Idle    [0]
+
+

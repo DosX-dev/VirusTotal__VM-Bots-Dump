@@ -1,0 +1,251 @@
+
+ESPNHOOL \ Admin
+
+[SystemState]
+TickCount=240542828 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\Admin\AppData\Local\Temp\8bc27f647827a0f3e67d546a32094bc14ec7671c33916ee92525bd7bcf5d945d.exe
+CommandLine="C:\Users\Admin\AppData\Local\Temp\8bc27f647827a0f3e67d546a32094bc14ec7671c33916ee92525bd7bcf5d945d.exe"
+
+
+
+RUN LIST:
+
+
+
+
+STARTUP LIST:
+[Run]
+
+[RunOnce]
+
+
+
+
+DISKS:
+C:\
+D:\
+
+
+
+
+TEMP FILES:
+C:\Users\Admin\AppData\Local\Temp\24dfda4e-4c10-4694-897b-809a81076ab1.tmp
+C:\Users\Admin\AppData\Local\Temp\42e7ca8b-3283-4ac2-9adc-e4fd25653c64.tmp
+C:\Users\Admin\AppData\Local\Temp\4edfd2a7-03aa-40ee-bd63-cc34c97afc69.tmp
+C:\Users\Admin\AppData\Local\Temp\6d88c246-42fb-4c96-9c22-1f4daa77c0ca.tmp
+C:\Users\Admin\AppData\Local\Temp\87a6bd71-0e14-4e08-b17c-94cd289b4b65.tmp
+C:\Users\Admin\AppData\Local\Temp\8bc27f647827a0f3e67d546a32094bc14ec7671c33916ee92525bd7bcf5d945d.exe
+C:\Users\Admin\AppData\Local\Temp\AdobeSFX.log
+C:\Users\Admin\AppData\Local\Temp\aria-debug-2324.log
+C:\Users\Admin\AppData\Local\Temp\aria-debug-3320.log
+C:\Users\Admin\AppData\Local\Temp\aria-debug-4948.log
+C:\Users\Admin\AppData\Local\Temp\b06599a1-b65c-44b3-8f22-408bd9d6483b.tmp
+C:\Users\Admin\AppData\Local\Temp\ba64c54d-e460-43db-93e1-c29751b20b5d.tmp
+C:\Users\Admin\AppData\Local\Temp\BIT583E.tmp
+C:\Users\Admin\AppData\Local\Temp\BroadcastMsg_1659789914.txt
+C:\Users\Admin\AppData\Local\Temp\chrome_installer.log
+C:\Users\Admin\AppData\Local\Temp\dd_NDP472-KB4054530-x86-x64-AllOS-ENU_decompression_log.txt
+C:\Users\Admin\AppData\Local\Temp\dd_SetupUtility.txt
+C:\Users\Admin\AppData\Local\Temp\dd_vcredistMSI4A60.txt
+C:\Users\Admin\AppData\Local\Temp\dd_vcredistMSI4A91.txt
+C:\Users\Admin\AppData\Local\Temp\dd_vcredistUI4A60.txt
+C:\Users\Admin\AppData\Local\Temp\dd_vcredistUI4A91.txt
+C:\Users\Admin\AppData\Local\Temp\df6a9a73-2e59-4ad5-936d-5dd21aa13927.tmp
+C:\Users\Admin\AppData\Local\Temp\DMIC886.tmp
+C:\Users\Admin\AppData\Local\Temp\ESPNHOOL-20220806-1246.log
+C:\Users\Admin\AppData\Local\Temp\ESPNHOOL-20220806-1246a.log
+C:\Users\Admin\AppData\Local\Temp\JavaDeployReg.log
+C:\Users\Admin\AppData\Local\Temp\jawshtml.html
+C:\Users\Admin\AppData\Local\Temp\jusched.log
+C:\Users\Admin\AppData\Local\Temp\Microsoft .NET Framework 4.7.2 Setup_20220806_123836802.html
+C:\Users\Admin\AppData\Local\Temp\sa.9NBLGGH1ZRPV_0_0010_.Public.InstallAgent.dat
+C:\Users\Admin\AppData\Local\Temp\sa.9NBLGGH5Q1ZL_0_0010_.Public.InstallAgent.dat
+C:\Users\Admin\AppData\Local\Temp\sa.9NBLGGH6J6VK_0_0010_.Public.InstallAgent.dat
+C:\Users\Admin\AppData\Local\Temp\sa.9PHNB71MKR4J_0_0010_.Public.InstallAgent.dat
+C:\Users\Admin\AppData\Local\Temp\sa.9WZDNCRCWFTB_0_0010_.Public.InstallAgent.dat
+C:\Users\Admin\AppData\Local\Temp\sa.9WZDNCRFHV4V_0_0010_.Public.InstallAgent.dat
+C:\Users\Admin\AppData\Local\Temp\sa.9WZDNCRFHVFW_0_0010_.Public.InstallAgent.dat
+C:\Users\Admin\AppData\Local\Temp\tmp48D0.tmp
+C:\Users\Admin\AppData\Local\Temp\tmp4A95.tmp
+C:\Users\Admin\AppData\Local\Temp\tmpD279.tmp
+C:\Users\Admin\AppData\Local\Temp\tmpD47C.tmp
+C:\Users\Admin\AppData\Local\Temp\wct582E.tmp
+C:\Users\Admin\AppData\Local\Temp\wmsetup.log
+
+
+
+RECENT FILES:
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\Are.docx.lnk
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\Files.docx.lnk
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\Opened.docx.lnk
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\Recently.docx.lnk
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\These.docx.lnk
+
+
+
+DESKTOP FILES:
+C:\Users\Admin\Desktop\BlockRename.mpg
+C:\Users\Admin\Desktop\CompareUnregister.wvx
+C:\Users\Admin\Desktop\desktop.ini
+C:\Users\Admin\Desktop\ExitSet.xps
+C:\Users\Admin\Desktop\GroupJoin.cr2
+C:\Users\Admin\Desktop\ImportCompare.jpg
+C:\Users\Admin\Desktop\InitializeApprove.mhtml
+C:\Users\Admin\Desktop\MeasureConnect.rm
+C:\Users\Admin\Desktop\MeasureTrace.aiff
+C:\Users\Admin\Desktop\OptimizeDebug.html
+C:\Users\Admin\Desktop\OutDebug.vdw
+C:\Users\Admin\Desktop\ReadConnect.xls
+C:\Users\Admin\Desktop\RegisterMove.xsl
+C:\Users\Admin\Desktop\RevokeGet.pptm
+C:\Users\Admin\Desktop\SendCompress.ps1
+C:\Users\Admin\Desktop\SendTrace.ADTS
+C:\Users\Admin\Desktop\SkipTest.cab
+C:\Users\Admin\Desktop\StepUndo.xltx
+C:\Users\Admin\Desktop\SwitchDisable.sys
+C:\Users\Admin\Desktop\SwitchUnpublish.xltm
+C:\Users\Admin\Desktop\SyncConfirm.vstm
+C:\Users\Admin\Desktop\SyncInstall.jpeg
+C:\Users\Admin\Desktop\SyncInvoke.docx
+C:\Users\Admin\Desktop\TraceCompress.tif
+C:\Users\Admin\Desktop\WatchConvertTo.htm
+
+
+
+PROCESSES:
+[x64] svchost    [1064]
+
+[x64] dwm    [980]
+
+[x64] svchost    [2356]
+
+[x64] svchost    [2548]
+
+[x64] svchost    [3924]
+
+[x64] svchost    [1756]
+
+[x64] svchost    [2144]
+
+[x64] svchost    [1548]
+
+[x64] svchost    [4896]
+
+[x64] taskhostw    [2720]
+
+[x64] svchost    [940]
+
+[x64] spoolsv    [1924]
+
+[x64] svchost    [1656]
+
+[x64] winlogon    [540]
+
+[x64] services    [608]
+
+[x64] svchost    [2500]
+
+[x64] svchost    [724]
+
+[x64] svchost    [1508]
+
+[x64] svchost    [1704]
+
+[x64] RuntimeBroker    [3476]
+
+[x64] svchost    [1304]
+
+[x64] fontdrvhost    [712]
+
+[x64] smss    [316]
+
+[x64] dllhost    [3664]
+
+[x64] sppsvc    [4252]
+
+[x64] fontdrvhost    [704]
+
+[x32] 8bc27f647827a0f3e67d546a32094bc14ec7671c33916ee92525bd7bcf5d945d    [2476]
+PATH=C:\Users\Admin\AppData\Local\Temp\8bc27f647827a0f3e67d546a32094bc14ec7671c33916ee92525bd7bcf5d945d.exe
+
+[x64] svchost    [2364]
+
+[x64] svchost    [1136]
+
+[x64] explorer    [2076]
+
+[x64] sihost    [2464]
+
+[x64] SearchUI    [3248]
+
+[x64] svchost    [1472]
+
+[x64] svchost    [680]
+
+[x64] svchost    [1860]
+
+[x64] csrss    [480]
+
+[x64] svchost    [1464]
+
+[x64] ShellExperienceHost    [3232]
+
+[x64] svchost    [1852]
+
+[x64] wininit    [472]
+
+[x64] svchost    [2636]
+
+[x64] svchost    [1256]
+
+[x64] svchost    [2628]
+
+[x64] svchost    [1248]
+
+[x64] dllhost    [4004]
+
+[x64] svchost    [2620]
+
+[x64] svchost    [844]
+
+[x64] svchost    [356]
+
+[x64] svchost    [1416]
+
+[x64] svchost    [1612]
+
+[x64] svchost    [2396]
+
+[x64] svchost    [2592]
+
+[x64] svchost    [792]
+
+[x64] lsass    [616]
+
+[x64] OfficeClickToRun    [2584]
+
+[x64] svchost    [888]
+
+[x64] svchost    [1396]
+
+[x64] svchost    [1000]
+
+[x64] svchost    [1196]
+
+[x64] svchost    [788]
+
+[x64] svchost    [3560]
+
+[x64] svchost    [1780]
+
+[x64] csrss    [400]
+
+[x64] System    [4]
+
+[x64] Idle    [0]
+
+

@@ -1,0 +1,815 @@
+
+DESKTOP-0AITVEU \ User
+
+[SystemState]
+TickCount=253532406 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\User\Downloads\Telegram Desktop\ScanProcesses\bin\Debug\ScanProcesses.exe
+CommandLine="C:\Users\User\Downloads\Telegram Desktop\ScanProcesses\bin\Debug\ScanProcesses.exe" 
+
+
+
+RUN LIST:
+a=notepad
+MRUList=a
+
+
+
+
+STARTUP LIST:
+[Run]
+MicrosoftEdgeAutoLaunch_C46CFC0629905CC775E70B50EA8A519C="C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5
+Steam="C:\Program Files (x86)\Steam\steam.exe" -silent
+Discord=C:\Users\User\AppData\Local\Discord\Update.exe --processStart Discord.exe
+
+[RunOnce]
+
+
+
+
+DISKS:
+C:\
+D:\
+E:\
+F:\
+G:\
+
+
+
+
+TEMP FILES:
+C:\Users\User\AppData\Local\Temp\.ses
+C:\Users\User\AppData\Local\Temp\1148524a-ae43-41ca-9083-a4655228b5f0.tmp
+C:\Users\User\AppData\Local\Temp\1c6da578-2fd6-4101-8fef-a8a05fba8d96.tmp
+C:\Users\User\AppData\Local\Temp\1f32dfd9-2cf2-4a5e-aa7b-1bc80c0ea360.tmp
+C:\Users\User\AppData\Local\Temp\2e6f3809-f6a1-43be-8d68-3e575394f62a.tmp
+C:\Users\User\AppData\Local\Temp\3b63d02c-6bdf-4732-ae95-00b8b72afe12.tmp
+C:\Users\User\AppData\Local\Temp\4506e519-ffb0-4da5-85a8-e67c7c5132fb.tmp.node
+C:\Users\User\AppData\Local\Temp\4b175725c2ff882687af7bd9021d5f63-{87A94AB0-E370-4cde-98D3-ACC110C5967D}
+C:\Users\User\AppData\Local\Temp\5d5217d6-538d-4775-9847-64eb8c1b5791.tmp.node
+C:\Users\User\AppData\Local\Temp\5d599c1e-0832-4948-96fb-8dd78a35cc73.tmp
+C:\Users\User\AppData\Local\Temp\76f3848b-cae1-4a05-a9be-16ce3121fd23.tmp
+C:\Users\User\AppData\Local\Temp\7e59fcb4-cb5c-431a-860b-a6eface9b46d.tmp
+C:\Users\User\AppData\Local\Temp\8d1e6ae4-bd36-4876-8860-d6a4da9b6f07.tmp
+C:\Users\User\AppData\Local\Temp\9ecf9784-87f8-437d-93c2-41564d6406b5.tmp
+C:\Users\User\AppData\Local\Temp\aria-debug-3780.log
+C:\Users\User\AppData\Local\Temp\aria-debug-772.log
+C:\Users\User\AppData\Local\Temp\aria-debug-8680.log
+C:\Users\User\AppData\Local\Temp\BITE749.tmp
+C:\Users\User\AppData\Local\Temp\chrome_installer.log
+C:\Users\User\AppData\Local\Temp\chromium_installer.log
+C:\Users\User\AppData\Local\Temp\d02a7bfb-8a3c-445c-8ab0-5fc50a2a3b17.tmp
+C:\Users\User\AppData\Local\Temp\dad099ad-d1fe-48b7-a1be-9c3a170f5356.tmp.node
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20221231135815.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20221231135815_result_UpdateCheckOnlyFailure.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105003629.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105003629_result_Success.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105012544.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134447.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134501.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134501_00_setup.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134501_00_setup_errors.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134501_result_Cancel.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134956.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105134956_result_Success.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105135009.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105135009_00_setup.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105135009_00_setup_errors.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105135009_result_Success.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105135345.log
+C:\Users\User\AppData\Local\Temp\dd_BackgroundDownload_20230105135854.log
+C:\Users\User\AppData\Local\Temp\dd_vcredist_amd64_20230103180847.log
+C:\Users\User\AppData\Local\Temp\DESKTOP-0AITVEU-20221231-1454.log
+C:\Users\User\AppData\Local\Temp\DESKTOP-0AITVEU-20230101-1502.log
+C:\Users\User\AppData\Local\Temp\DESKTOP-0AITVEU-20230102-1512.log
+C:\Users\User\AppData\Local\Temp\DESKTOP-0AITVEU-20230102-1635.log
+C:\Users\User\AppData\Local\Temp\e6a9de57-145e-4147-8c8e-5b2cd1304e24.tmp
+C:\Users\User\AppData\Local\Temp\GoogleUpdate.exe127807
+C:\Users\User\AppData\Local\Temp\goopdate.dll127816
+C:\Users\User\AppData\Local\Temp\Insecure-EV.cer
+C:\Users\User\AppData\Local\Temp\Insecure-SHA1.cer
+C:\Users\User\AppData\Local\Temp\jgVfHraUshKjPaGSDFCb.pdb
+C:\Users\User\AppData\Local\Temp\nijmooHAxxunqJyZzbjy.pdb
+C:\Users\User\AppData\Local\Temp\qtsingleapp-dsassi-1a3b-3-lockfile
+C:\Users\User\AppData\Local\Temp\qtsingleapp-dsassi-1a3b-6-lockfile
+C:\Users\User\AppData\Local\Temp\tmp23EF.tmp
+C:\Users\User\AppData\Local\Temp\tmp23F0.tmp
+C:\Users\User\AppData\Local\Temp\tmp23F1.tmp
+C:\Users\User\AppData\Local\Temp\tmp23F2.tmp
+C:\Users\User\AppData\Local\Temp\tmp2403.tmp
+C:\Users\User\AppData\Local\Temp\tmp2404.tmp
+C:\Users\User\AppData\Local\Temp\tmp2405.tmp
+C:\Users\User\AppData\Local\Temp\tmp2463.tmp
+C:\Users\User\AppData\Local\Temp\tmp2F9D.tmp
+C:\Users\User\AppData\Local\Temp\tmp2F9E.tmp
+C:\Users\User\AppData\Local\Temp\tmp2FAF.tmp
+C:\Users\User\AppData\Local\Temp\tmp2FB0.tmp
+C:\Users\User\AppData\Local\Temp\tmp2FB1.tmp
+C:\Users\User\AppData\Local\Temp\tmp2FB2.tmp
+C:\Users\User\AppData\Local\Temp\tmp2FB3.tmp
+C:\Users\User\AppData\Local\Temp\tmp3021.tmp
+C:\Users\User\AppData\Local\Temp\tmp70D0.tmp
+C:\Users\User\AppData\Local\Temp\tmp70E1.tmp
+C:\Users\User\AppData\Local\Temp\tmp70F1.tmp
+C:\Users\User\AppData\Local\Temp\tmp70F2.tmp
+C:\Users\User\AppData\Local\Temp\tmp70F3.tmp
+C:\Users\User\AppData\Local\Temp\tmp70F4.tmp
+C:\Users\User\AppData\Local\Temp\tmp70F5.tmp
+C:\Users\User\AppData\Local\Temp\tmp71A2.tmp
+C:\Users\User\AppData\Local\Temp\tmp83F2.tmp
+C:\Users\User\AppData\Local\Temp\tmp8402.tmp
+C:\Users\User\AppData\Local\Temp\tmp8403.tmp
+C:\Users\User\AppData\Local\Temp\tmp8404.tmp
+C:\Users\User\AppData\Local\Temp\tmp8405.tmp
+C:\Users\User\AppData\Local\Temp\tmp8406.tmp
+C:\Users\User\AppData\Local\Temp\tmp8407.tmp
+C:\Users\User\AppData\Local\Temp\tmp8466.tmp
+C:\Users\User\AppData\Local\Temp\tmpCF96.tmp
+C:\Users\User\AppData\Local\Temp\tmpCF97.tmp
+C:\Users\User\AppData\Local\Temp\tmpCF98.tmp
+C:\Users\User\AppData\Local\Temp\tmpCF99.tmp
+C:\Users\User\AppData\Local\Temp\tmpCF9A.tmp
+C:\Users\User\AppData\Local\Temp\tmpCF9B.tmp
+C:\Users\User\AppData\Local\Temp\tmpCFAC.tmp
+C:\Users\User\AppData\Local\Temp\tmpCFCC.tmp
+C:\Users\User\AppData\Local\Temp\tmpEEEA.tmp
+C:\Users\User\AppData\Local\Temp\tmpEEEB.tmp
+C:\Users\User\AppData\Local\Temp\tmpEEEC.tmp
+C:\Users\User\AppData\Local\Temp\tmpEEFD.tmp
+C:\Users\User\AppData\Local\Temp\tmpEEFE.tmp
+C:\Users\User\AppData\Local\Temp\tmpEEFF.tmp
+C:\Users\User\AppData\Local\Temp\tmpEF00.tmp
+C:\Users\User\AppData\Local\Temp\tmpEF6E.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE3C.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE4D.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE4E.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE4F.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE50.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE51.tmp
+C:\Users\User\AppData\Local\Temp\tmpFE52.tmp
+C:\Users\User\AppData\Local\Temp\tmpFEB1.tmp
+C:\Users\User\AppData\Local\Temp\wct6EAE.tmp
+C:\Users\User\AppData\Local\Temp\wct6EAF.tmp
+C:\Users\User\AppData\Local\Temp\wct722A.tmp
+C:\Users\User\AppData\Local\Temp\wct8D52.tmp
+C:\Users\User\AppData\Local\Temp\wctE739.tmp
+C:\Users\User\AppData\Local\Temp\wsu203A.tmp
+C:\Users\User\AppData\Local\Temp\wsu2098.tmp
+C:\Users\User\AppData\Local\Temp\wsu2CBF.tmp
+C:\Users\User\AppData\Local\Temp\wsu2D1D.tmp
+C:\Users\User\AppData\Local\Temp\wsu2D8C.tmp
+C:\Users\User\AppData\Local\Temp\wsu3952.tmp
+C:\Users\User\AppData\Local\Temp\wsu3AF9.tmp
+C:\Users\User\AppData\Local\Temp\wsu40BB.tmp
+C:\Users\User\AppData\Local\Temp\wsuB016.tmp
+C:\Users\User\AppData\Local\Temp\zenmap-9ypft3.xml
+C:\Users\User\AppData\Local\Temp\Отчет20221229-0129.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20221229-0147.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20221231-1506.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230102-2349.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230103-0008.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230103-2141.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230103-2348.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230104-1810 (2).diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230104-1940.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230104-2227.diagsession
+C:\Users\User\AppData\Local\Temp\Отчет20230105-1455.diagsession
+
+
+
+RECENT FILES:
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+
+
+
+DESKTOP FILES:
+C:\Users\User\Desktop\aida64 — ярлык.lnk
+C:\Users\User\Desktop\backup.bat
+C:\Users\User\Desktop\Cisco Packet Tracer.lnk
+C:\Users\User\Desktop\desktop.ini
+C:\Users\User\Desktop\die — ярлык.lnk
+C:\Users\User\Desktop\Discord.lnk
+C:\Users\User\Desktop\dnSpy32.lnk
+C:\Users\User\Desktop\dnSpy64.lnk
+C:\Users\User\Desktop\Dota 2.url
+C:\Users\User\Desktop\DWS.log
+C:\Users\User\Desktop\DWS_Lite.exe
+C:\Users\User\Desktop\ExtremeDumper-x86.exe
+C:\Users\User\Desktop\ExtremeDumper.exe
+C:\Users\User\Desktop\Geometry Dash.url
+C:\Users\User\Desktop\ida — ярлык.lnk
+C:\Users\User\Desktop\ida64 — ярлык.lnk
+C:\Users\User\Desktop\NETReactorSlayer — ярлык.lnk
+C:\Users\User\Desktop\Nmap - Zenmap GUI.lnk
+C:\Users\User\Desktop\People Playground.url
+C:\Users\User\Desktop\reactor.exe
+C:\Users\User\Desktop\SynoTest.txt
+C:\Users\User\Desktop\Telegram.lnk
+C:\Users\User\Desktop\ToxicSlivator.exe
+C:\Users\User\Desktop\Visual Studio 2022.lnk
+C:\Users\User\Desktop\x32dbg.lnk
+C:\Users\User\Desktop\x64dbg.lnk
+
+
+
+PROCESSES:
+[x32] msedge    [9912]
+PATH=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+
+[x64] Memory Compression    [2152]
+
+[x64] svchost    [1720]
+
+[x32] WebViewHost    [13328]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\WebViewHost\WebViewHost.exe
+
+[x32] ServiceHub.IdentityHost    [17664]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe
+
+[x32] SystemSettingsBroker    [14644]
+PATH=C:\Windows\System32\SystemSettingsBroker.exe
+
+[x64] taskhostw    [10964]
+
+[x32] MusNotifyIcon    [2572]
+PATH=C:\Windows\system32\MusNotifyIcon.exe
+
+[x32] SearchApp    [12052]
+PATH=C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+
+[x32] ServiceHub.TestWindowStoreHost    [17196]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.TestWindowStoreHost.exe
+
+[x32] steamwebhelper    [4720]
+PATH=C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+
+[x64] igfxCUIService    [2128]
+
+[x64] svchost    [7820]
+
+[x64] svchost    [1260]
+
+[x64] svchost    [2552]
+
+[x32] LockApp    [10740]
+PATH=C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+
+[x32] VBoxNetDHCP    [13756]
+PATH=C:\Program Files\Oracle\VirtualBox\VBoxNetDHCP.exe
+
+[x64] svchost    [9876]
+
+[x64] smss    [392]
+
+[x32] igfxHK    [3404]
+PATH=C:\Windows\system32\igfxHK.exe
+
+[x64] svchost    [2968]
+
+[x64] dasHost    [7708]
+
+[x64] svchost    [1672]
+
+[x32] svchost    [9544]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] svchost    [2100]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] steamwebhelper    [12012]
+PATH=C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+
+[x64] svchost    [2960]
+
+[x64] svchost    [3388]
+
+[x64] WUDFHost    [15156]
+
+[x32] RuntimeBroker    [5540]
+PATH=C:\Windows\System32\RuntimeBroker.exe
+
+[x32] brave    [12688]
+PATH=C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+
+[x64] svchost    [4676]
+
+[x64] VBoxSDS    [14156]
+
+[x64] svchost    [3380]
+
+[x64] svchost    [2084]
+
+[x32] ServiceHub.IntellicodeModelService    [2512]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe
+
+[x64] msedgewebview2    [17024]
+
+[x32] ServiceHub.Host.netfx.x86    [14576]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe
+
+[x32] msedgewebview2    [13764]
+PATH=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.54\msedgewebview2.exe
+
+[x64] svchost    [1212]
+
+[x64] svchost    [2504]
+
+[x32] msedgewebview2    [7488]
+PATH=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.54\msedgewebview2.exe
+
+[x32] svchost    [11120]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] RuntimeBroker    [8964]
+PATH=C:\Windows\System32\RuntimeBroker.exe
+
+[x64] svchost    [5944]
+
+[x64] valWBFPolicyService    [3788]
+
+[x64] svchost    [1632]
+
+[x64] svchost    [5488]
+
+[x64] fpCSEvtSvc    [3780]
+
+[x32] steamwebhelper    [3348]
+PATH=C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+
+[x64] svchost    [13260]
+
+[x64] services    [760]
+
+[x64] svchost    [5928]
+
+[x64] svchost    [3340]
+
+[x32] steamwebhelper    [2908]
+PATH=C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+
+[x64] svchost    [3768]
+
+[x32] taskhostw    [15404]
+PATH=C:\Windows\system32\taskhostw.exe
+
+[x32] msedgewebview2    [4944]
+PATH=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.54\msedgewebview2.exe
+
+[x32] steam    [7212]
+PATH=C:\Program Files (x86)\Steam\Steam.exe
+
+[x64] spoolsv    [3332]
+
+[x64] svchost    [2468]
+
+[x32] svchost    [5384]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] msedgewebview2    [2896]
+PATH=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.54\msedgewebview2.exe
+
+[x64] svchost    [1664]
+
+[x64] svchost    [3752]
+
+[x32] CalculatorApp    [11076]
+PATH=C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_11.2210.0.0_x64__8wekyb3d8bbwe\CalculatorApp.exe
+TITLE=Калькулятор
+
+[x32] UserOOBEBroker    [1160]
+PATH=C:\Windows\System32\oobe\UserOOBEBroker.exe
+
+[x32] cmd    [5808]
+PATH=C:\Windows\system32\cmd.exe
+TITLE=C:\Windows\system32\cmd.exe
+
+[x64] svchost    [2016]
+
+[x32] msedge    [1152]
+PATH=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+
+[x32] brave    [1148]
+PATH=C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+TITLE=В тренде - YouTube – Brave
+
+[x64] SynTPHelper    [3300]
+
+[x32] VirtualBox    [4160]
+PATH=C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+TITLE=Oracle VM VirtualBox Менеджер
+
+[x64] svchost    [6312]
+
+[x64] svchost    [2432]
+
+[x32] ServiceHub.VSDetouredHost    [15884]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.VSDetouredHost.exe
+
+[x32] VirtualBoxVM    [8000]
+PATH=C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+TITLE=Synology [Работает] - Oracle VM VirtualBox
+
+[x32] devenv    [14308]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe
+TITLE=ScanProcesses (выполняется) - Microsoft Visual Studio
+
+[x64] svchost    [1564]
+
+[x32] PerfWatson2    [3716]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PerfWatson2.exe
+
+[x64] svchost    [3284]
+
+[x64] svchost    [2852]
+
+[x64] svchost    [1988]
+
+[x64] svchost    [2848]
+
+[x32] ScanProcesses    [19224]
+PATH=C:\Users\User\Downloads\Telegram Desktop\ScanProcesses\bin\Debug\ScanProcesses.exe
+
+[x32] conhost    [13188]
+PATH=C:\Windows\system32\conhost.exe
+
+[x32] steamwebhelper    [4564]
+PATH=C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+
+[x64] svchost    [1544]
+
+[x64] svchost    [4128]
+
+[x64] msedgewebview2    [19160]
+
+[x32] taskhostw    [9724]
+PATH=C:\Windows\system32\taskhostw.exe
+
+[x64] svchost    [5504]
+
+[x64] ctfmon    [7140]
+
+[x32] RuntimeBroker    [4552]
+PATH=C:\Windows\System32\RuntimeBroker.exe
+
+[x64] svchost    [4120]
+
+[x32] msedgewebview2    [15756]
+PATH=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.54\msedgewebview2.exe
+
+[x64] svchost    [2824]
+
+[x32] ServiceHub.SettingsHost    [16184]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.SettingsHost.exe
+
+[x64] svchost    [3684]
+
+[x32] ServiceHub.DataWarehouseHost    [11720]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.DataWarehouseHost.exe
+
+[x32] svchost    [9284]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] msedge    [1092]
+PATH=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+
+[x64] svchost    [3676]
+
+[x64] msedgewebview2    [7984]
+
+[x32] brave    [7552]
+PATH=C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+
+[x32] VBCSCompiler    [17892]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Roslyn\VBCSCompiler.exe
+
+[x64] svchost    [3668]
+
+[x32] VirtualBoxVM    [7004]
+PATH=C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+
+[x64] svchost    [1940]
+
+[x32] Microsoft.ServiceHub.Controller    [4956]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe
+
+[x32] SystemSettings    [9264]
+PATH=C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+TITLE=Параметры
+
+[x64] svchost    [3660]
+
+[x64] svchost    [3228]
+
+[x32] RuntimeBroker    [10984]
+PATH=C:\Windows\System32\RuntimeBroker.exe
+
+[x64] Taskmgr    [18308]
+TITLE=Диспетчер задач
+
+[x32] ServiceHub.VSDetouredHost    [13092]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.VSDetouredHost.exe
+
+[x64] svchost    [1928]
+
+[x32] msedgewebview2    [6668]
+PATH=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.54\msedgewebview2.exe
+
+[x32] igfxTray    [12700]
+PATH=C:\Windows\system32\igfxTray.exe
+
+[x32] brave    [680]
+PATH=C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+
+[x64] svchost    [1920]
+
+[x64] regedit    [8384]
+TITLE=Редактор реестра
+
+[x32] steamwebhelper    [6228]
+PATH=C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+
+[x32] VBoxNetDHCP    [1916]
+PATH=C:\Program Files\Oracle\VirtualBox\VBoxNetDHCP.exe
+
+[x64] svchost    [2776]
+
+[x64] wininit    [620]
+
+[x32] Telegram    [11824]
+PATH=C:\Users\User\AppData\Roaming\Telegram Desktop\Telegram.exe
+TITLE=Telegram (99)
+
+[x64] audiodg    [3952]
+
+[x32] PerfWatson2    [2600]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PerfWatson2.exe
+
+[x64] SgrmBroker    [8372]
+
+[x32] ServiceHub.IdentityHost    [2336]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe
+
+[x64] winlogon    [10952]
+
+[x32] SynTPEnh    [7236]
+PATH=C:\Program Files\Synaptics\SynTP\SynTPEnh.exe
+
+[x64] msedgewebview2    [16552]
+
+[x32] VBoxNetDHCP    [9224]
+PATH=C:\Program Files\Oracle\VirtualBox\VBoxNetDHCP.exe
+
+[x32] ServiceHub.Host.netfx.x86    [3620]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe
+
+[x32] ServiceHub.IndexingService    [7928]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.Dotnet.x64\ServiceHub.IndexingService.exe
+
+[x32] ServiceHub.Host.AnyCPU    [13724]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.Host.AnyCPU.exe
+
+[x64] svchost    [2320]
+
+[x32] msedge    [6628]
+PATH=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+
+[x32] devenv    [6196]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe
+TITLE=ComfortDSM - Microsoft Visual Studio
+
+[x32] msedgewebview2    [12660]
+PATH=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.54\msedgewebview2.exe
+
+[x64] svchost    [3176]
+
+[x64] svchost    [4036]
+
+[x64] svchost    [1876]
+
+[x64] svchost    [1444]
+
+[x32] svchost    [7476]
+PATH=C:\Windows\system32\svchost.exe
+
+[x32] RuntimeBroker    [7044]
+PATH=C:\Windows\System32\RuntimeBroker.exe
+
+[x64] svchost    [3164]
+
+[x64] svchost    [3160]
+
+[x32] WebViewHost    [5744]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\WebViewHost\WebViewHost.exe
+
+[x32] msedgewebview2    [3588]
+PATH=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.54\msedgewebview2.exe
+
+[x64] msedgewebview2    [5220]
+
+[x32] explorer    [4900]
+PATH=C:\Windows\Explorer.EXE
+
+[x32] brave    [18264]
+PATH=C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+
+[x32] ServiceHub.Host.AnyCPU    [9176]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.Host.AnyCPU.exe
+
+[x64] svchost    [1416]
+
+[x32] brave    [3568]
+PATH=C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+
+[x64] SearchFilterHost    [18652]
+
+[x32] timeout    [18500]
+PATH=C:\Windows\system32\timeout.exe
+
+[x32] dllhost    [10028]
+PATH=C:\Windows\system32\DllHost.exe
+
+[x32] ServiceHub.RoslynCodeAnalysisService    [7440]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.RoslynCodeAnalysisService.exe
+
+[x64] msedgewebview2    [15628]
+
+[x64] fontdrvhost    [972]
+
+[x32] RuntimeBroker    [9160]
+PATH=C:\Windows\System32\RuntimeBroker.exe
+
+[x64] svchost    [3556]
+
+[x32] steamwebhelper    [4848]
+PATH=C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+
+[x64] csrss    [7000]
+
+[x32] ServiceHub.Host.dotnet.x64    [7336]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.Dotnet.x64\ServiceHub.Host.dotnet.x64.exe
+
+[x64] svchost    [2256]
+
+[x64] Registry    [100]
+
+[x32] ServiceHub.Host.dotnet.x64    [920]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.Dotnet.x64\ServiceHub.Host.dotnet.x64.exe
+
+[x64] svchost    [2684]
+
+[x32] brave    [10008]
+PATH=C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+
+[x32] brave    [16472]
+PATH=C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+
+[x64] svchost    [2248]
+
+[x32] ServiceHub.TestWindowStoreHost    [10004]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.TestWindowStoreHost.exe
+
+[x64] WUDFHost    [952]
+
+[x32] ServiceHub.ThreadedWaitDialog    [17880]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.ThreadedWaitDialog.exe
+
+[x32] sihost    [6552]
+PATH=C:\Windows\system32\sihost.exe
+
+[x32] ServiceHub.IndexingService    [9136]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.Dotnet.x64\ServiceHub.IndexingService.exe
+
+[x64] svchost    [1376]
+
+[x32] RuntimeBroker    [13012]
+PATH=C:\Windows\System32\RuntimeBroker.exe
+
+[x64] svchost    [1804]
+
+[x32] ServiceHub.SettingsHost    [15164]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.SettingsHost.exe
+
+[x32] ShellExperienceHost    [3956]
+PATH=C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+
+[x64] dasHost    [3524]
+
+[x64] csrss    [504]
+
+[x64] steamservice    [11708]
+
+[x64] svchost    [500]
+
+[x64] dwm    [12068]
+
+[x32] ServiceHub.IntellicodeModelService    [6084]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe
+
+[x64] svchost    [924]
+
+[x64] StandardCollector.Service    [12704]
+
+[x64] fontdrvhost    [9540]
+
+[x32] igfxEM    [8676]
+PATH=C:\Windows\system32\igfxEM.exe
+
+[x32] ServiceHub.RoslynCodeAnalysisService    [6520]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.RoslynCodeAnalysisService.exe
+
+[x64] SearchProtocolHost    [7812]
+
+[x32] StartMenuExperienceHost    [9024]
+PATH=C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+
+[x64] svchost    [6516]
+
+[x64] svchost    [16428]
+
+[x32] conhost    [1320]
+PATH=C:\Windows\system32\conhost.exe
+
+[x32] VirtualBoxVM    [3352]
+PATH=C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+
+[x32] ServiceHub.ThreadedWaitDialog    [5012]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.ThreadedWaitDialog.exe
+
+[x32] brave    [7260]
+PATH=C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+
+[x32] ApplicationFrameHost    [7796]
+PATH=C:\Windows\system32\ApplicationFrameHost.exe
+TITLE=Параметры
+
+[x32] ServiceHub.Host.dotnet.x64    [14260]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.Dotnet.x64\ServiceHub.Host.dotnet.x64.exe
+
+[x64] svchost    [1244]
+
+[x64] svchost    [1328]
+
+[x64] svchost    [2620]
+
+[x32] brave    [16408]
+PATH=C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+
+[x32] rundll32    [5632]
+PATH=C:\Windows\system32\rundll32.exe
+
+[x32] ServiceHub.DataWarehouseHost    [17696]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.DataWarehouseHost.exe
+
+[x32] msedge    [6492]
+PATH=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+
+[x32] Microsoft.ServiceHub.Controller    [16404]
+PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe
+
+[x64] BtwRSupportService    [3904]
+
+[x32] brave    [9936]
+PATH=C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+
+[x64] svchost    [6056]
+
+[x64] SearchIndexer    [7348]
+
+[x64] svchost    [5192]
+
+[x32] brave    [15104]
+PATH=C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+
+[x64] SynTPEnhService    [3896]
+
+[x64] svchost    [8636]
+
+[x64] svchost    [6048]
+
+[x32] PaintStudio.View    [5616]
+PATH=C:\Program Files\WindowsApps\Microsoft.MSPaint_6.2203.1037.0_x64__8wekyb3d8bbwe\PaintStudio.View.exe
+TITLE=Paint 3D
+
+[x32] TextInputHost    [5184]
+PATH=C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+TITLE=Microsoft Text Input Application
+
+[x64] lsass    [780]
+
+[x32] svchost    [8924]
+PATH=C:\Windows\system32\svchost.exe
+
+[x64] svchost    [868]
+
+[x64] svchost    [5608]
+
+[x64] System    [4]
+
+[x32] VBoxSVC    [14008]
+PATH=C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+
+[x64] Idle    [0]
+
+

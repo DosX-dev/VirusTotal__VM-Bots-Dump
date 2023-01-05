@@ -1,0 +1,388 @@
+
+DESKTOP-0K5SHP2 \ sriram
+
+[SystemState]
+TickCount=252984 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\users\sriram\downloads\myfile.exe
+CommandLine=C:\users\sriram\downloads\myfile.exe
+
+
+
+RUN LIST:
+a=regedit
+MRUList=a
+
+
+
+
+STARTUP LIST:
+[Run]
+OneDrive="C:\Users\sriram\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+
+[RunOnce]
+Delete Cached Update Binary=C:\WINDOWS\system32\cmd.exe /q /c del /q "C:\Users\sriram\AppData\Local\Microsoft\OneDrive\Update\OneDriveSetup.exe"
+Delete Cached Standalone Update Binary=C:\WINDOWS\system32\cmd.exe /q /c del /q "C:\Users\sriram\AppData\Local\Microsoft\OneDrive\StandaloneUpdater\OneDriveSetup.exe"
+Uninstall 22.217.1016.0002=C:\WINDOWS\system32\cmd.exe /q /c rmdir /s /q "C:\Users\sriram\AppData\Local\Microsoft\OneDrive\22.217.1016.0002"
+
+
+
+
+DISKS:
+C:\
+
+
+
+
+TEMP FILES:
+C:\Users\sriram\AppData\Local\Temp\.ses
+C:\Users\sriram\AppData\Local\Temp\DOE483.tmp
+C:\Users\sriram\AppData\Local\Temp\wct14BC.tmp
+C:\Users\sriram\AppData\Local\Temp\wct14BD.tmp
+C:\Users\sriram\AppData\Local\Temp\wct2493.tmp
+C:\Users\sriram\AppData\Local\Temp\wct2C22.tmp
+C:\Users\sriram\AppData\Local\Temp\wct4F3F.tmp
+C:\Users\sriram\AppData\Local\Temp\wct5D4D.tmp
+C:\Users\sriram\AppData\Local\Temp\wct6D1.tmp
+C:\Users\sriram\AppData\Local\Temp\wct9E5F.tmp
+C:\Users\sriram\AppData\Local\Temp\wct9E60.tmp
+C:\Users\sriram\AppData\Local\Temp\wctD334.tmp
+C:\Users\sriram\AppData\Local\Temp\wctD8D6.tmp
+
+
+
+RECENT FILES:
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\3848D974D70FCD89CB4DDB80BF835E298252B9CC7FAFD27DDBAD722B5323C4C9.tietwagent.txt.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\68293CC9A92779E9318A9E56D035D66AD1DEA60F82B18FE353369621B3884712.replication.log.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\bootstrap_repscript.ps1.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\bootstrap_repscript.txt.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\Desktop.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\dumps.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\execution_script.ps1.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\Local Disk (C) (2).lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\Local Disk (C).lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay---.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--kglcheck-.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\outgoing.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\PPLRunner-main.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\ppl_runner.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\ppl_runner.pfx.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\replication.log.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\sample.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\script_setup.ps1.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\sign_file.ps1.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\startscripts.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\test.txt.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\The Internet.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\This PC.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\threatconfig.json.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\tietw_startup.py.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\windowsdefender--threat-.lnk
+C:\Users\sriram\AppData\Roaming\Microsoft\Windows\Recent\yara_rules.lnk
+
+
+
+DESKTOP FILES:
+C:\Users\sriram\Desktop\desktop.ini
+C:\Users\sriram\Desktop\Process Hacker 2.lnk
+C:\Users\sriram\Desktop\replication.log
+
+
+
+PROCESSES:
+[x64] svchost    [3016]
+
+[x64] svchost    [1564]
+
+[x64] svchost    [2580]
+
+[x64] explorer    [5596]
+
+[x64] StartMenuExperienceHost    [6456]
+
+[x64] svchost    [1332]
+
+[x64] svchost    [1272]
+
+[x64] sihost    [4716]
+
+[x64] svchost    [2128]
+
+[x64] SecurityHealthSystray    [6180]
+
+[x64] dllhost    [2976]
+
+[x64] svchost    [7716]
+
+[x64] OneDrive    [2112]
+
+[x64] svchost    [1676]
+
+[x64] svchost    [8136]
+
+[x64] fontdrvhost    [792]
+
+[x64] setup    [2096]
+
+[x64] WmiPrvSE    [4700]
+
+[x64] fontdrvhost    [800]
+
+[x64] dllhost    [3384]
+
+[x64] GoogleVssAgent    [2952]
+
+[x64] GoogleUpdate    [4244]
+
+[x64] SearchApp    [6828]
+
+[x64] svchost    [7688]
+
+[x64] google_osconfig_agent    [356]
+
+[x64] svchost    [1216]
+
+[x64] GCEWindowsAgent    [352]
+
+[x64] RuntimeBroker    [7664]
+
+[x64] cmd    [5508]
+
+[x64] svchost    [3352]
+
+[x64] svchost    [2920]
+
+[x64] spoolsv    [2488]
+
+[x64] SgrmBroker    [2056]
+
+[x64] svchost    [1624]
+
+[x64] SearchProtocolHost    [7224]
+
+[x64] svchost    [2912]
+
+[x64] TiEtwAgent    [7220]
+
+[x64] svchost    [1184]
+
+[x64] svchost    [2476]
+
+[x64] svchost    [2904]
+
+[x64] smss    [332]
+
+[x64] conhost    [8072]
+
+[x64] msdtc    [4192]
+
+[x64] svchost    [1604]
+
+[x64] svchost    [2992]
+
+[x64] lsass    [648]
+
+[x64] powershell    [7448]
+TITLE=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+
+[x64] SecurityHealthService    [5896]
+
+[x64] svchost    [1584]
+
+[x64] svchost    [2012]
+
+[x64] svchost    [1580]
+
+[x64] svchost    [2440]
+
+[x64] GameBarFTServer    [7608]
+
+[x64] TiWorker    [6592]
+
+[x64] WmiPrvSE    [4156]
+
+[x64] svchost    [2000]
+
+[x64] svchost    [5012]
+
+[x64] svchost    [1556]
+
+[x64] svchost    [1552]
+
+[x64] svchost    [3236]
+
+[x64] svchost    [1116]
+
+[x64] svchost    [1908]
+
+[x64] svchost    [5972]
+
+[x64] svchost    [5420]
+
+[x64] svchost    [2832]
+
+[x64] svchost    [672]
+
+[x64] RuntimeBroker    [8084]
+
+[x64] svchost    [5428]
+
+[x64] svchost    [4112]
+
+[x64] conhost    [6264]
+
+[x64] MoUsoCoreWorker    [7124]
+
+[x64] svchost    [4492]
+
+[x64] RuntimeBroker    [7116]
+
+[x64] RuntimeBroker    [1512]
+
+[x64] svchost    [2372]
+
+[x64] svchost    [1940]
+
+[x64] svchost    [4956]
+
+[x64] services    [640]
+
+[x64] svchost    [6240]
+
+[x64] 108.0.5359.125_107.0.5304.88_chrome_updater    [4080]
+
+[x64] sealighter    [3648]
+
+[x64] SearchFilterHost    [8188]
+
+[x64] GoogleUpdate    [3212]
+
+[x64] svchost    [4072]
+
+[x32] myfile    [5360]
+PATH=C:\users\sriram\downloads\myfile.exe
+
+[x64] conhost    [3632]
+
+[x64] svchost    [1044]
+
+[x64] svchost    [3196]
+
+[x64] svchost    [7936]
+
+[x64] svchost    [4056]
+
+[x64] svchost    [7072]
+
+[x64] svchost    [1036]
+
+[x64] svchost    [1464]
+
+[x64] svchost    [1892]
+
+[x64] ctfmon    [5336]
+
+[x64] VGAuthService    [3176]
+
+[x64] svchost    [5684]
+
+[x64] svchost    [2736]
+
+[x64] svchost    [1440]
+
+[x64] svchost    [2240]
+
+[x64] MsMpEng    [3160]
+
+[x64] taskhostw    [2724]
+
+[x64] winlogon    [568]
+
+[x64] svchost    [1428]
+
+[x64] dwm    [992]
+
+[x64] Memory Compression    [1852]
+
+[x64] GoogleCrashHandler    [7792]
+
+[x64] svchost    [988]
+
+[x64] svchost    [2276]
+
+[x64] RuntimeBroker    [6584]
+
+[x64] svchost    [5288]
+
+[x64] svchost    [3144]
+
+[x64] smartscreen    [7428]
+
+[x64] GoogleUpdate    [7856]
+
+[x64] svchost    [764]
+
+[x64] MpCmdRun    [6560]
+
+[x64] svchost    [3540]
+
+[x64] Registry    [88]
+
+[x64] MpCmdRun    [7412]
+
+[x64] wininit    [512]
+
+[x64] svchost    [936]
+
+[x64] csrss    [504]
+
+[x64] svchost    [2332]
+
+[x64] GameBar    [7392]
+
+[x64] svchost    [3080]
+
+[x64] svchost    [4800]
+
+[x64] TrustedInstaller    [6520]
+
+[x64] svchost    [1344]
+
+[x64] GoogleCrashHandler64    [7808]
+
+[x64] svchost    [2204]
+
+[x64] svchost    [5220]
+
+[x64] SearchIndexer    [4352]
+
+[x64] svchost    [3056]
+
+[x64] svchost    [2620]
+
+[x64] setup    [3912]
+
+[x64] PhoneExperienceHost    [5856]
+
+[x64] svchost    [888]
+
+[x64] svchost    [6796]
+
+[x64] svchost    [5188]
+
+[x64] svchost    [2600]
+
+[x64] svchost    [2164]
+
+[x64] svchost    [8]
+
+[x64] csrss    [436]
+
+[x64] System    [4]
+
+[x64] Idle    [0]
+
+

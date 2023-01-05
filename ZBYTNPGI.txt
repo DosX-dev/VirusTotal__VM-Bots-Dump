@@ -1,0 +1,271 @@
+
+ZBYTNPGI \ Admin
+
+[SystemState]
+TickCount=240626265 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\Admin\AppData\Local\Temp\agenttesla_vti.exe
+CommandLine="C:\Users\Admin\AppData\Local\Temp\agenttesla_vti.exe"
+
+
+
+RUN LIST:
+
+
+
+
+STARTUP LIST:
+[Run]
+
+[RunOnce]
+
+
+
+
+DISKS:
+C:\
+D:\
+
+
+
+
+TEMP FILES:
+C:\Users\Admin\AppData\Local\Temp\38b881e1-48b0-4809-ab9b-ab44cc213541.tmp
+C:\Users\Admin\AppData\Local\Temp\3b15d79f-f278-4f75-af6a-548f00dc9c4a.tmp
+C:\Users\Admin\AppData\Local\Temp\4569f20f-6de0-4b4e-a605-ddb0685b3c3e.tmp
+C:\Users\Admin\AppData\Local\Temp\50bc80e5-4ea9-4dbe-91e9-863d0e594ea7.tmp
+C:\Users\Admin\AppData\Local\Temp\582d72d8-6817-4535-aa03-a16d85e4205d.tmp
+C:\Users\Admin\AppData\Local\Temp\59d003f5-b887-4c8c-8d24-f2db141448d1.tmp
+C:\Users\Admin\AppData\Local\Temp\AdobeSFX.log
+C:\Users\Admin\AppData\Local\Temp\agenttesla_vti.exe
+C:\Users\Admin\AppData\Local\Temp\aria-debug-1148.log
+C:\Users\Admin\AppData\Local\Temp\BroadcastMsg_1664455911.txt
+C:\Users\Admin\AppData\Local\Temp\cdf1815c-ee97-413c-82c5-37dccba647ad.tmp
+C:\Users\Admin\AppData\Local\Temp\chrome_installer.log
+C:\Users\Admin\AppData\Local\Temp\dd_NDP472-KB4054530-x86-x64-AllOS-ENU_decompression_log.txt
+C:\Users\Admin\AppData\Local\Temp\dd_vcredistMSI4C64.txt
+C:\Users\Admin\AppData\Local\Temp\dd_vcredistMSI4C92.txt
+C:\Users\Admin\AppData\Local\Temp\dd_vcredistUI4C64.txt
+C:\Users\Admin\AppData\Local\Temp\dd_vcredistUI4C92.txt
+C:\Users\Admin\AppData\Local\Temp\fa3860d9-c2a3-488b-8990-77047f238237.tmp
+C:\Users\Admin\AppData\Local\Temp\JavaDeployReg.log
+C:\Users\Admin\AppData\Local\Temp\jawshtml.html
+C:\Users\Admin\AppData\Local\Temp\jusched.log
+C:\Users\Admin\AppData\Local\Temp\Microsoft .NET Framework 4.7.2 Setup_20220929_124720495.html
+C:\Users\Admin\AppData\Local\Temp\msedge_installer.log
+C:\Users\Admin\AppData\Local\Temp\tmpE5C3.tmp
+C:\Users\Admin\AppData\Local\Temp\tmpE891.tmp
+C:\Users\Admin\AppData\Local\Temp\wct589.tmp
+C:\Users\Admin\AppData\Local\Temp\wct60C8.tmp
+C:\Users\Admin\AppData\Local\Temp\wctA596.tmp
+C:\Users\Admin\AppData\Local\Temp\wctC.tmp
+C:\Users\Admin\AppData\Local\Temp\wctC350.tmp
+C:\Users\Admin\AppData\Local\Temp\wctE228.tmp
+C:\Users\Admin\AppData\Local\Temp\wmsetup.log
+C:\Users\Admin\AppData\Local\Temp\ZBYTNPGI-20220929-1253.log
+C:\Users\Admin\AppData\Local\Temp\ZBYTNPGI-20220929-1253a.log
+
+
+
+RECENT FILES:
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\Are.docx.lnk
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\Files.docx.lnk
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\Opened.docx.lnk
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\Recently.docx.lnk
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\These.docx.lnk
+
+
+
+DESKTOP FILES:
+C:\Users\Admin\Desktop\ApproveRename.wav
+C:\Users\Admin\Desktop\AssertDisconnect.ps1
+C:\Users\Admin\Desktop\ClearDebug.png
+C:\Users\Admin\Desktop\CompareSplit.3gpp
+C:\Users\Admin\Desktop\CompressEnter.pptm
+C:\Users\Admin\Desktop\CopyStop.xls
+C:\Users\Admin\Desktop\desktop.ini
+C:\Users\Admin\Desktop\InitializePing.xlsx
+C:\Users\Admin\Desktop\InitializeReset.mp4
+C:\Users\Admin\Desktop\LockStart.TTS
+C:\Users\Admin\Desktop\Microsoft Edge.lnk
+C:\Users\Admin\Desktop\OptimizeInstall.dib
+C:\Users\Admin\Desktop\OptimizeOpen.ADTS
+C:\Users\Admin\Desktop\PublishHide.M2TS
+C:\Users\Admin\Desktop\PublishUnblock.wps
+C:\Users\Admin\Desktop\PushDisable.vst
+C:\Users\Admin\Desktop\RequestJoin.asp
+C:\Users\Admin\Desktop\ResumeConvertFrom.dot
+C:\Users\Admin\Desktop\SaveUse.au
+C:\Users\Admin\Desktop\SelectSubmit.dwfx
+C:\Users\Admin\Desktop\SubmitUse.csv
+C:\Users\Admin\Desktop\UseLimit.vbs
+C:\Users\Admin\Desktop\WaitGroup.dwfx
+C:\Users\Admin\Desktop\WatchMount.xlsx
+C:\Users\Admin\Desktop\WatchUnpublish.cr2
+
+
+
+PROCESSES:
+[x64] svchost    [1376]
+
+[x64] svchost    [784]
+
+[x64] svchost    [2556]
+
+[x64] svchost    [1960]
+
+[x64] svchost    [1368]
+
+[x64] fontdrvhost    [776]
+
+[x64] svchost    [2548]
+
+[x64] sppsvc    [4264]
+
+[x64] taskhostw    [2792]
+
+[x64] svchost    [1556]
+
+[x64] svchost    [2540]
+
+[x64] RuntimeBroker    [4700]
+
+[x64] csrss    [528]
+
+[x64] svchost    [1740]
+
+[x64] SearchApp    [3512]
+
+[x64] svchost    [2132]
+
+[x64] svchost    [948]
+
+[x64] smss    [356]
+
+[x64] svchost    [1924]
+
+[x64] svchost    [2908]
+
+[x64] svchost    [1508]
+
+[x64] svchost    [1720]
+
+[x64] svchost    [1916]
+
+[x64] svchost    [4668]
+
+[x64] svchost    [1120]
+
+[x64] svchost    [1316]
+
+[x64] svchost    [1904]
+
+[x64] fontdrvhost    [768]
+
+[x64] svchost    [3280]
+
+[x64] svchost    [1900]
+
+[x32] agenttesla_vti    [4856]
+PATH=C:\Users\Admin\AppData\Local\Temp\agenttesla_vti.exe
+
+[x64] wininit    [512]
+
+[x64] explorer    [3068]
+
+[x64] svchost    [896]
+
+[x64] svchost    [4344]
+
+[x64] svchost    [2184]
+
+[x64] svchost    [1872]
+
+[x64] dllhost    [3248]
+
+[x64] svchost    [1080]
+
+[x64] Registry    [92]
+
+[x64] svchost    [1864]
+
+[x64] svchost    [1052]
+
+[x64] svchost    [3436]
+
+[x64] svchost    [2448]
+
+[x64] svchost    [1264]
+
+[x64] lsass    [668]
+
+[x64] OfficeClickToRun    [2440]
+
+[x64] svchost    [1060]
+
+[x64] WmiPrvSE    [4404]
+
+[x64] svchost    [856]
+
+[x64] RuntimeBroker    [3416]
+
+[x64] RuntimeBroker    [3696]
+
+[x64] svchost    [2232]
+
+[x64] sihost    [2428]
+
+[x64] svchost    [3548]
+
+[x64] services    [652]
+
+[x64] svchost    [1636]
+
+[x64] svchost    [2224]
+
+[x64] spoolsv    [2024]
+
+[x64] svchost    [1432]
+
+[x64] dllhost    [3984]
+
+[x64] csrss    [436]
+
+[x64] svchost    [1220]
+
+[x64] svchost    [1416]
+
+[x64] dwm    [1020]
+
+[x64] svchost    [428]
+
+[x64] svchost    [1604]
+
+[x64] SppExtComObj    [4952]
+
+[x64] svchost    [1796]
+
+[x64] svchost    [2580]
+
+[x64] winlogon    [608]
+
+[x64] svchost    [604]
+
+[x64] svchost    [2572]
+
+[x64] svchost    [1192]
+
+[x64] svchost    [4368]
+
+[x64] System    [4]
+
+[x64] StartMenuExperienceHost    [3352]
+
+[x64] svchost    [4336]
+
+[x64] Idle    [0]
+
+

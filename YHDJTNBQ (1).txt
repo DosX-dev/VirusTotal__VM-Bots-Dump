@@ -1,0 +1,271 @@
+
+YHDJTNBQ \ Admin
+
+[SystemState]
+TickCount=240557609 ms
+SystemPageSize=4096
+
+[CurProcState]
+CurrentDirectory=C:\Users\Admin\AppData\Local\Temp\agenttesla_vti.exe
+CommandLine="C:\Users\Admin\AppData\Local\Temp\agenttesla_vti.exe"
+
+
+
+RUN LIST:
+
+
+
+
+STARTUP LIST:
+[Run]
+
+[RunOnce]
+
+
+
+
+DISKS:
+C:\
+D:\
+
+
+
+
+TEMP FILES:
+C:\Users\Admin\AppData\Local\Temp\24f0a151-5243-467a-a294-e8f9551385ed.tmp
+C:\Users\Admin\AppData\Local\Temp\5ae92b58-3db0-43f0-8092-ad9c19436a13.tmp
+C:\Users\Admin\AppData\Local\Temp\5da275ee-7b61-4a3d-9192-36836731835e.tmp
+C:\Users\Admin\AppData\Local\Temp\606227b2-8c1b-4dab-95ab-9e52f8e22d3c.tmp
+C:\Users\Admin\AppData\Local\Temp\99045902-aab0-41b2-b085-570cbb28a3ac.tmp
+C:\Users\Admin\AppData\Local\Temp\9be88318-432d-4bd7-8116-e2f17f102c4a.tmp
+C:\Users\Admin\AppData\Local\Temp\a33a7ab3-276c-455f-96bf-9b2deb3fff45.tmp
+C:\Users\Admin\AppData\Local\Temp\AdobeSFX.log
+C:\Users\Admin\AppData\Local\Temp\agenttesla_vti.exe
+C:\Users\Admin\AppData\Local\Temp\aria-debug-1396.log
+C:\Users\Admin\AppData\Local\Temp\BroadcastMsg_1659722343.txt
+C:\Users\Admin\AppData\Local\Temp\chrome_installer.log
+C:\Users\Admin\AppData\Local\Temp\d14a3994-fc71-48a9-a651-1d71ae66751b.tmp
+C:\Users\Admin\AppData\Local\Temp\dd_NDP472-KB4054530-x86-x64-AllOS-ENU_decompression_log.txt
+C:\Users\Admin\AppData\Local\Temp\dd_vcredistMSI6C53.txt
+C:\Users\Admin\AppData\Local\Temp\dd_vcredistMSI6C8E.txt
+C:\Users\Admin\AppData\Local\Temp\dd_vcredistUI6C53.txt
+C:\Users\Admin\AppData\Local\Temp\dd_vcredistUI6C8E.txt
+C:\Users\Admin\AppData\Local\Temp\JavaDeployReg.log
+C:\Users\Admin\AppData\Local\Temp\jawshtml.html
+C:\Users\Admin\AppData\Local\Temp\jusched.log
+C:\Users\Admin\AppData\Local\Temp\Microsoft .NET Framework 4.7.2 Setup_20220805_175258725.html
+C:\Users\Admin\AppData\Local\Temp\msedge_installer.log
+C:\Users\Admin\AppData\Local\Temp\tmp3664.tmp
+C:\Users\Admin\AppData\Local\Temp\tmp3960.tmp
+C:\Users\Admin\AppData\Local\Temp\wct10F.tmp
+C:\Users\Admin\AppData\Local\Temp\wct3440.tmp
+C:\Users\Admin\AppData\Local\Temp\wct50AB.tmp
+C:\Users\Admin\AppData\Local\Temp\wctC42A.tmp
+C:\Users\Admin\AppData\Local\Temp\wctE27D.tmp
+C:\Users\Admin\AppData\Local\Temp\wctF00D.tmp
+C:\Users\Admin\AppData\Local\Temp\wmsetup.log
+C:\Users\Admin\AppData\Local\Temp\YHDJTNBQ-20220805-1800.log
+C:\Users\Admin\AppData\Local\Temp\YHDJTNBQ-20220805-1800a.log
+
+
+
+RECENT FILES:
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\Are.docx.lnk
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\Files.docx.lnk
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\Opened.docx.lnk
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\Recently.docx.lnk
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\These.docx.lnk
+
+
+
+DESKTOP FILES:
+C:\Users\Admin\Desktop\AssertMove.3g2
+C:\Users\Admin\Desktop\CloseWrite.ttc
+C:\Users\Admin\Desktop\CompareCompress.mp3
+C:\Users\Admin\Desktop\CompareUnpublish.xlsx
+C:\Users\Admin\Desktop\CompressExpand.txt
+C:\Users\Admin\Desktop\ConvertToSend.cr2
+C:\Users\Admin\Desktop\DenyRead.gif
+C:\Users\Admin\Desktop\desktop.ini
+C:\Users\Admin\Desktop\DisconnectReceive.jpe
+C:\Users\Admin\Desktop\ExpandReceive.m4a
+C:\Users\Admin\Desktop\GroupUndo.mpeg3
+C:\Users\Admin\Desktop\InstallReset.MOD
+C:\Users\Admin\Desktop\JoinUnblock.vsw
+C:\Users\Admin\Desktop\MergeConfirm.jpeg
+C:\Users\Admin\Desktop\Microsoft Edge.lnk
+C:\Users\Admin\Desktop\NewUpdate.rar
+C:\Users\Admin\Desktop\OptimizeDebug.TS
+C:\Users\Admin\Desktop\OutClose.ini
+C:\Users\Admin\Desktop\PingUninstall.bat
+C:\Users\Admin\Desktop\PublishStart.cr2
+C:\Users\Admin\Desktop\ResetEdit.DVR-MS
+C:\Users\Admin\Desktop\ResetResolve.sys
+C:\Users\Admin\Desktop\StartPush.wmf
+C:\Users\Admin\Desktop\SubmitUnpublish.odt
+C:\Users\Admin\Desktop\UndoFind.cmd
+C:\Users\Admin\Desktop\UninstallRedo.dib
+C:\Users\Admin\Desktop\WaitReset.vst
+
+
+
+PROCESSES:
+[x64] svchost    [2560]
+
+[x64] svchost    [388]
+
+[x64] fontdrvhost    [780]
+
+[x64] StartMenuExperienceHost    [3340]
+
+[x64] svchost    [1172]
+
+[x64] taskhostw    [2576]
+
+[x64] svchost    [2348]
+
+[x64] svchost    [4316]
+
+[x64] csrss    [436]
+
+[x64] svchost    [1356]
+
+[x64] svchost    [764]
+
+[x64] OfficeClickToRun    [2536]
+
+[x64] svchost    [1944]
+
+[x64] svchost    [2140]
+
+[x64] svchost    [876]
+
+[x64] upfc    [364]
+
+[x64] svchost    [1344]
+
+[x64] svchost    [5084]
+
+[x64] svchost    [2324]
+
+[x64] smss    [352]
+
+[x32] agenttesla_vti    [3720]
+PATH=C:\Users\Admin\AppData\Local\Temp\agenttesla_vti.exe
+
+[x64] svchost    [936]
+
+[x64] SearchApp    [3496]
+
+[x64] fontdrvhost    [772]
+
+[x64] svchost    [932]
+
+[x64] svchost    [2112]
+
+[x64] svchost    [1912]
+
+[x64] sppsvc    [2696]
+
+[x64] svchost    [2892]
+
+[x64] svchost    [1904]
+
+[x64] svchost    [1508]
+
+[x64] svchost    [4460]
+
+[x64] RuntimeBroker    [3416]
+
+[x64] csrss    [516]
+
+[x64] svchost    [2680]
+
+[x64] wininit    [508]
+
+[x64] svchost    [1292]
+
+[x64] svchost    [884]
+
+[x64] svchost    [1684]
+
+[x64] svchost    [4636]
+
+[x64] dllhost    [3252]
+
+[x64] svchost    [2660]
+
+[x64] svchost    [2068]
+
+[x64] spoolsv    [1672]
+
+[x64] svchost    [1080]
+
+[x64] Registry    [92]
+
+[x64] svchost    [1664]
+
+[x64] svchost    [2640]
+
+[x64] SppExtComObj    [3624]
+
+[x64] svchost    [1652]
+
+[x64] svchost    [1052]
+
+[x64] WmiPrvSE    [2428]
+
+[x64] dllhost    [4396]
+
+[x64] lsass    [652]
+
+[x64] services    [644]
+
+[x64] sihost    [2412]
+
+[x64] svchost    [2608]
+
+[x64] svchost    [2012]
+
+[x64] svchost    [2364]
+
+[x64] svchost    [2596]
+
+[x64] RuntimeBroker    [3776]
+
+[x64] RuntimeBroker    [4816]
+
+[x64] svchost    [2000]
+
+[x64] svchost    [1408]
+
+[x64] svchost    [1208]
+
+[x64] explorer    [2388]
+
+[x64] dwm    [1008]
+
+[x64] svchost    [1400]
+
+[x64] svchost    [1964]
+
+[x64] svchost    [1592]
+
+[x64] svchost    [1788]
+
+[x64] svchost    [2372]
+
+[x64] svchost    [1780]
+
+[x64] svchost    [400]
+
+[x64] winlogon    [596]
+
+[x64] System    [4]
+
+[x64] svchost    [4336]
+
+[x64] Idle    [0]
+
+
